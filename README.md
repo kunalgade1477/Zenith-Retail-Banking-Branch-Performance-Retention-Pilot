@@ -86,3 +86,41 @@ Used for:
 * Measured branch efficiency using customer-to-staff ratios.
 * Detected customer attrition patterns.
 * Generated datasets for Python and Tableau dashboards.
+
+* ## Exploratory Data Analysis (EDA) Findings
+
+### Data Quality Assessment
+
+* Loaded banking dimension and fact tables into Pandas DataFrames.
+* Validated schema integrity and checked for missing values and duplicate records.
+* Performed data cleaning and preprocessing before analysis.
+
+### Customer Attrition Analysis
+
+* Correlation analysis identified Months_Inactive as the strongest predictor of customer churn.
+* Complaints_Count showed a moderate positive relationship with attrition.
+* Average Balance and Transaction Frequency exhibited weak relationships with churn behavior.
+
+### Customer Segmentation
+
+* Implemented rule-based segmentation using Average Balance.
+* Classified customers into Gold, Silver, and Bronze tiers.
+* Analyzed segment distribution for customer profiling.
+
+### Branch and Employee Performance
+
+* Calculated Employee Productivity Scores using transaction volume, customer satisfaction, and service efficiency metrics.
+* Evaluated operational performance across branches and employees.
+
+### Outlier Detection
+
+* Applied the Interquartile Range (IQR) method to identify unusual transaction amounts.
+* Visualized transaction distributions using boxplots.
+* Flagged extreme values for further business review.
+
+### Deliverables
+
+* Exported curated datasets for Power BI dashboard development.
+* Created reusable Python scripts for reproducible analytics workflows.
+* Generated visualizations to support business decision-making and performance monitoring.
+
