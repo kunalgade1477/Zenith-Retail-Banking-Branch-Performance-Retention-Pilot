@@ -1,0 +1,21 @@
+Branch_ID,Branch_Name,Active_Customers,Staff_Count,Efficiency_Ratio
+B001,"Hyderabad Main",596,374,1.59
+B002,"Mumbai Central",646,388,1.66
+B003,"Delhi Connaught",602,382,1.58
+B004,"Bangalore Koramangala",656,398,1.65
+B005,"Chennai Anna Nagar",598,392,1.53
+B006,"Pune Kothrud",658,387,1.70
+B007,"Kolkata Park Street",628,385,1.63
+B008,"Ahmedabad CG Road",639,385,1.66
+B009,"Jaipur MI Road",641,393,1.63
+B010,"Lucknow Hazratganj",658,400,1.65
+B011,"Bhopal MP Nagar",639,379,1.69
+B012,"Nagpur Dharampeth",632,395,1.60
+B013,"Kochi MG Road",610,365,1.67
+B014,"Chandigarh Sector 17",623,390,1.60
+B015,"Patna Bailey Road",580,374,1.55
+B016,"Surat Ring Road",624,397,1.57
+B017,"Indore Vijay Nagar",629,392,1.60
+B018,"Vadodara Alkapuri",607,386,1.57
+B019,"Coimbatore RS Puram",601,370,1.62
+B020,"Visakhapatnam MVP",657,396,1.66

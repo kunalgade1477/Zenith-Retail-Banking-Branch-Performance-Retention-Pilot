@@ -1,0 +1,16 @@
+Product_Key,Product_ID,Product_Name,Product_Category,Interest_Rate,Product_Status
+1,P001,Savings Account,Deposit,3.5,Active
+2,P002,Current Account,Deposit,0,Active
+3,P003,Personal Loan,Loan,12.5,Active
+4,P004,Home Loan,Loan,8.75,Active
+5,P005,Credit Card,Card,36,Active
+6,P006,Fixed Deposit,Deposit,7.1,Active
+7,P007,Recurring Deposit,Deposit,6.8,Active
+8,P008,Car Loan,Loan,9.5,Active
+9,P009,Education Loan,Loan,10.25,Active
+10,P010,Demat Account,Investment,0,Active
+11,P011,Mutual Fund SIP,Investment,0,Active
+12,P012,NRI Account,Deposit,4,Active
+13,P013,Gold Loan,Loan,11,Active
+14,P014,Overdraft Facility,Loan,14.5,Inactive
+15,P015,Business Loan,Loan,13.75,Active

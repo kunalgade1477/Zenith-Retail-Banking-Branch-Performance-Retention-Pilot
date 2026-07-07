@@ -1,0 +1,21 @@
+Geography_Key,City,State,Region,Population,Urban_Rural
+1,Hyderabad,Telangana,South,10100000,Urban
+2,Mumbai,Maharashtra,West,20700000,Urban
+3,Delhi,Delhi,North,32900000,Urban
+4,Bangalore,Karnataka,South,13200000,Urban
+5,Chennai,Tamil Nadu,South,11200000,Urban
+6,Pune,Maharashtra,West,7400000,Urban
+7,Kolkata,West Bengal,East,15100000,Urban
+8,Ahmedabad,Gujarat,West,8400000,Urban
+9,Jaipur,Rajasthan,North,4100000,Urban
+10,Lucknow,Uttar Pradesh,North,3700000,Urban
+11,Bhopal,Madhya Pradesh,Central,2400000,Semi-Urban
+12,Nagpur,Maharashtra,Central,2900000,Semi-Urban
+13,Kochi,Kerala,South,2200000,Urban
+14,Chandigarh,Punjab,North,1200000,Urban
+15,Patna,Bihar,East,2500000,Semi-Urban
+16,Surat,Gujarat,West,6100000,Urban
+17,Indore,Madhya Pradesh,Central,3300000,Urban
+18,Vadodara,Gujarat,West,2100000,Urban
+19,Coimbatore,Tamil Nadu,South,2200000,Semi-Urban
+20,Visakhapatnam,Andhra Pradesh,South,2000000,Urban

@@ -1,0 +1,21 @@
+Branch_Key,Branch_ID,Branch_Name,Region,City,State,Branch_Type,Opening_Date,Branch_Manager,Branch_Size
+1,B001,Hyderabad Main,South,Hyderabad,Telangana,Full Service,01-01-2005,Manager_01,50
+2,B002,Mumbai Central,West,Mumbai,Maharashtra,Full Service,04-11-2005,Manager_02,80
+3,B003,Delhi Connaught,North,Delhi,Delhi,Full Service,08-09-2006,Manager_03,75
+4,B004,Bangalore Koramangala,South,Bangalore,Karnataka,Full Service,12-07-2007,Manager_04,60
+5,B005,Chennai Anna Nagar,South,Chennai,Tamil Nadu,Full Service,15-05-2008,Manager_05,55
+6,B006,Pune Kothrud,West,Pune,Maharashtra,Mini Branch,18-03-2009,Manager_06,40
+7,B007,Kolkata Park Street,East,Kolkata,West Bengal,Full Service,20-01-2010,Manager_07,65
+8,B008,Ahmedabad CG Road,West,Ahmedabad,Gujarat,Mini Branch,23-11-2010,Manager_08,45
+9,B009,Jaipur MI Road,North,Jaipur,Rajasthan,Mini Branch,27-09-2011,Manager_09,38
+10,B010,Lucknow Hazratganj,North,Lucknow,Uttar Pradesh,Mini Branch,30-07-2012,Manager_10,42
+11,B011,Bhopal MP Nagar,Central,Bhopal,Madhya Pradesh,Mini Branch,03-06-2013,Manager_11,30
+12,B012,Nagpur Dharampeth,Central,Nagpur,Maharashtra,Mini Branch,06-04-2014,Manager_12,35
+13,B013,Kochi MG Road,South,Kochi,Kerala,Mini Branch,08-02-2015,Manager_13,36
+14,B014,Chandigarh Sector 17,North,Chandigarh,Punjab,Mini Branch,12-12-2015,Manager_14,32
+15,B015,Patna Bailey Road,East,Patna,Bihar,Mini Branch,15-10-2016,Manager_15,28
+16,B016,Surat Ring Road,West,Surat,Gujarat,Digital Branch,18-08-2017,Manager_16,44
+17,B017,Indore Vijay Nagar,Central,Indore,Madhya Pradesh,Mini Branch,22-06-2018,Manager_17,33
+18,B018,Vadodara Alkapuri,West,Vadodara,Gujarat,Mini Branch,25-04-2019,Manager_18,31
+19,B019,Coimbatore RS Puram,South,Coimbatore,Tamil Nadu,Mini Branch,27-02-2020,Manager_19,29
+20,B020,Visakhapatnam MVP,South,Visakhapatnam,Andhra Pradesh,Mini Branch,31-12-2020,Manager_20,37

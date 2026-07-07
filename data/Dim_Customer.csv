@@ -1,0 +1,2001 @@
+Customer_Key,Customer_ID,Age,Gender,Occupation,Income_Bracket,Customer_Segment,Account_Type,Risk_Category,Join_Date,Credit_Score
+1,C000001,41,Male,Salaried,Mid,Premium,Current,Low,2020-03-04,663
+2,C000002,60,Female,Salaried,High,Retail,Current,Low,2014-04-02,577
+3,C000003,24,Female,Retired,Mid,Corporate,Savings,Low,2013-04-13,551
+4,C000004,26,Female,Salaried,Low,Premium,Salary,Medium,2021-04-26,761
+5,C000005,22,Male,Salaried,Low,Retail,Current,Low,2016-02-01,617
+6,C000006,36,Male,Student,Low,SME,Savings,High,2015-10-01,677
+7,C000007,47,Male,Self-Employed,Mid,Premium,Current,Low,2015-07-04,573
+8,C000008,24,Female,Student,Mid,Retail,Savings,Medium,2014-07-26,802
+9,C000009,61,Female,Salaried,Mid,Premium,Current,Medium,2021-04-05,779
+10,C000010,62,Female,Self-Employed,Low,Retail,Savings,Medium,2014-02-24,725
+11,C000011,68,Male,Salaried,Low,Corporate,NRI,High,2020-08-03,770
+12,C000012,63,Female,Salaried,Mid,Corporate,Savings,Medium,2021-04-22,585
+13,C000013,55,Female,Retired,Mid,SME,Current,High,2023-01-03,551
+14,C000014,26,Male,Salaried,Low,Premium,Savings,Low,2019-02-12,823
+15,C000015,52,Male,Self-Employed,Mid,Retail,Current,Medium,2013-12-23,726
+16,C000016,34,Male,Self-Employed,Low,Corporate,Current,Low,2019-08-16,813
+17,C000017,64,Male,Salaried,High,Retail,Savings,Low,2017-09-25,735
+18,C000018,22,Female,Retired,High,Premium,Current,Low,2013-05-11,564
+19,C000019,43,Male,Salaried,Low,Premium,Savings,Low,2013-05-03,828
+20,C000020,36,Male,Business Owner,Low,Retail,NRI,Low,2014-01-19,743
+21,C000021,47,Female,Homemaker,Mid,Retail,Savings,Low,2015-06-15,747
+22,C000022,39,Male,Self-Employed,Low,Corporate,NRI,Low,2015-08-11,613
+23,C000023,69,Male,Retired,Mid,Corporate,NRI,High,2018-09-01,839
+24,C000024,30,Male,Salaried,High,Retail,Savings,Low,2019-10-02,567
+25,C000025,22,Male,Self-Employed,Mid,Retail,Savings,Medium,2013-04-19,613
+26,C000026,64,Female,Salaried,High,Retail,Savings,Low,2019-04-18,800
+27,C000027,30,Male,Business Owner,Mid,Corporate,NRI,High,2015-03-26,566
+28,C000028,44,Male,Homemaker,Low,Retail,Savings,High,2021-01-11,690
+29,C000029,64,Female,Salaried,Mid,Premium,Savings,Medium,2020-04-15,794
+30,C000030,66,Male,Business Owner,Mid,Retail,NRI,Medium,2020-11-12,839
+31,C000031,23,Female,Salaried,Mid,Premium,Savings,Low,2019-02-11,636
+32,C000032,35,Male,Self-Employed,Low,Retail,Current,High,2017-09-15,748
+33,C000033,59,Male,Self-Employed,Low,Corporate,Savings,High,2015-06-22,710
+34,C000034,61,Female,Homemaker,High,Retail,Savings,High,2018-01-14,689
+35,C000035,39,Female,Business Owner,Low,Premium,Current,Medium,2019-08-11,625
+36,C000036,37,Female,Salaried,High,Retail,Savings,Low,2016-02-14,568
+37,C000037,50,Male,Salaried,High,Premium,Savings,High,2022-01-29,599
+38,C000038,65,Male,Salaried,Mid,Corporate,NRI,Low,2022-10-01,781
+39,C000039,32,Female,Salaried,Mid,Retail,Savings,Medium,2013-01-27,844
+40,C000040,27,Male,Salaried,Mid,Corporate,Salary,Low,2021-07-06,561
+41,C000041,24,Male,Retired,High,Premium,Salary,High,2022-01-14,564
+42,C000042,35,Male,Self-Employed,Low,Retail,Savings,Low,2014-10-16,577
+43,C000043,23,Male,Self-Employed,Mid,Retail,Savings,Low,2020-10-30,841
+44,C000044,53,Female,Salaried,Mid,Retail,Current,Medium,2017-09-28,799
+45,C000045,52,Male,Retired,Mid,Premium,Savings,Medium,2016-10-25,647
+46,C000046,32,Female,Business Owner,Mid,Corporate,Savings,Medium,2016-02-13,588
+47,C000047,43,Male,Salaried,Mid,Retail,Current,Low,2014-09-29,587
+48,C000048,24,Female,Business Owner,Mid,Premium,Savings,Low,2015-06-01,849
+49,C000049,52,Female,Self-Employed,High,Corporate,NRI,Medium,2023-09-26,728
+50,C000050,54,Male,Salaried,Low,SME,Savings,High,2021-07-25,646
+51,C000051,45,Female,Self-Employed,High,Premium,Savings,Medium,2016-10-10,831
+52,C000052,22,Female,Self-Employed,Mid,SME,Savings,Low,2014-02-23,787
+53,C000053,65,Female,Salaried,High,Premium,Salary,High,2014-01-15,713
+54,C000054,36,Female,Retired,Mid,Retail,Current,Low,2017-04-06,646
+55,C000055,58,Female,Student,Mid,Corporate,NRI,Medium,2014-02-01,806
+56,C000056,48,Female,Business Owner,Low,Retail,Savings,Low,2017-01-10,811
+57,C000057,59,Male,Self-Employed,High,Retail,Savings,Low,2022-07-04,842
+58,C000058,69,Male,Self-Employed,Low,Retail,Savings,Medium,2016-11-09,807
+59,C000059,48,Male,Business Owner,High,Corporate,Savings,Medium,2019-10-09,798
+60,C000060,65,Male,Self-Employed,High,Corporate,Current,Low,2015-12-20,794
+61,C000061,33,Male,Salaried,Low,Retail,Current,Low,2022-01-19,800
+62,C000062,24,Male,Self-Employed,Low,Retail,Savings,Low,2013-06-27,672
+63,C000063,51,Female,Student,Mid,Retail,Salary,Medium,2021-03-08,718
+64,C000064,53,Male,Self-Employed,Low,Premium,Savings,Low,2018-02-25,724
+65,C000065,44,Male,Salaried,High,Retail,Salary,Low,2019-01-06,818
+66,C000066,23,Female,Student,Low,Corporate,Savings,Medium,2014-05-27,753
+67,C000067,28,Male,Salaried,Low,Retail,Savings,Medium,2023-11-30,615
+68,C000068,55,Female,Salaried,High,Retail,Savings,Medium,2023-05-06,608
+69,C000069,53,Male,Salaried,Mid,Retail,Savings,Medium,2017-03-31,768
+70,C000070,60,Other,Salaried,High,Retail,Current,High,2013-11-19,815
+71,C000071,53,Female,Student,Mid,SME,Savings,High,2019-03-12,690
+72,C000072,64,Male,Self-Employed,Mid,Retail,Savings,Medium,2016-04-15,785
+73,C000073,64,Male,Salaried,Mid,Retail,Current,Medium,2022-04-21,767
+74,C000074,35,Female,Retired,Mid,Retail,Current,Low,2020-01-19,564
+75,C000075,24,Female,Retired,Mid,Retail,NRI,High,2019-12-09,687
+76,C000076,67,Female,Retired,Mid,Retail,Savings,Low,2022-12-06,781
+77,C000077,53,Female,Salaried,Mid,Retail,Current,Low,2022-08-31,638
+78,C000078,64,Male,Self-Employed,Low,Premium,Current,Low,2017-01-21,626
+79,C000079,57,Male,Homemaker,Mid,Premium,Savings,Low,2019-06-23,685
+80,C000080,38,Male,Student,Low,Retail,Savings,High,2015-02-27,659
+81,C000081,69,Female,Salaried,Mid,Retail,Savings,Medium,2020-11-25,640
+82,C000082,24,Female,Salaried,Low,SME,Savings,Medium,2013-10-12,739
+83,C000083,31,Male,Self-Employed,Mid,Retail,Savings,Medium,2013-07-07,622
+84,C000084,68,Male,Retired,Mid,Retail,Savings,Low,2020-06-01,722
+85,C000085,61,Male,Self-Employed,Low,Retail,Current,Low,2015-07-23,584
+86,C000086,39,Male,Self-Employed,Low,Retail,Current,Medium,2021-09-02,759
+87,C000087,24,Female,Salaried,Low,Corporate,Salary,Medium,2016-03-31,847
+88,C000088,60,Female,Business Owner,Mid,Retail,Current,Low,2013-11-23,682
+89,C000089,31,Female,Student,High,Premium,Savings,Medium,2022-08-05,832
+90,C000090,30,Male,Salaried,Low,Retail,NRI,Low,2015-08-12,747
+91,C000091,67,Male,Student,Mid,Retail,NRI,Low,2022-09-20,581
+92,C000092,67,Female,Homemaker,Mid,Corporate,Savings,Low,2014-02-18,685
+93,C000093,32,Female,Salaried,Mid,Retail,Current,Low,2017-04-06,797
+94,C000094,54,Female,Self-Employed,High,Premium,Salary,Medium,2016-02-13,695
+95,C000095,57,Female,Salaried,Mid,Retail,Savings,Medium,2018-02-01,692
+96,C000096,47,Male,Student,Mid,Premium,Salary,Low,2020-02-17,783
+97,C000097,48,Female,Self-Employed,Low,Retail,Savings,Medium,2022-05-10,593
+98,C000098,59,Male,Business Owner,Low,Corporate,Savings,Medium,2017-02-03,581
+99,C000099,43,Male,Student,Low,Retail,Savings,Low,2014-10-29,780
+100,C000100,47,Male,Salaried,Low,Corporate,Current,Low,2017-02-25,577
+101,C000101,43,Male,Retired,Mid,Retail,NRI,High,2016-12-26,709
+102,C000102,26,Female,Self-Employed,Mid,Premium,Salary,Medium,2015-05-09,756
+103,C000103,56,Male,Salaried,Mid,Retail,Savings,High,2020-07-08,567
+104,C000104,23,Male,Business Owner,Low,SME,Savings,Low,2015-12-30,652
+105,C000105,56,Female,Student,Low,Retail,NRI,Medium,2020-11-14,619
+106,C000106,30,Male,Salaried,Mid,Retail,Current,Low,2023-07-04,668
+107,C000107,39,Male,Retired,High,Retail,Savings,Low,2020-08-31,688
+108,C000108,64,Female,Retired,Low,Retail,Savings,Medium,2020-04-08,709
+109,C000109,33,Male,Salaried,High,Retail,Current,Low,2013-10-20,781
+110,C000110,24,Male,Homemaker,Mid,SME,Current,Low,2019-11-01,697
+111,C000111,39,Male,Salaried,Mid,SME,Savings,Low,2020-02-14,792
+112,C000112,59,Male,Salaried,Mid,Retail,Savings,Low,2014-12-02,584
+113,C000113,28,Female,Salaried,Low,SME,Salary,Medium,2018-12-28,788
+114,C000114,54,Female,Retired,Low,Premium,Current,Low,2021-03-06,698
+115,C000115,27,Female,Business Owner,Mid,Retail,Savings,Low,2015-09-30,660
+116,C000116,39,Female,Salaried,Mid,Premium,Savings,Low,2014-11-01,566
+117,C000117,66,Female,Self-Employed,High,Premium,Current,Low,2018-03-09,775
+118,C000118,43,Male,Business Owner,Mid,SME,Savings,Medium,2017-04-04,689
+119,C000119,60,Female,Salaried,Low,Retail,Savings,Low,2016-01-11,693
+120,C000120,30,Female,Retired,Mid,Premium,Savings,Medium,2023-05-19,809
+121,C000121,56,Female,Student,Low,Retail,Savings,Low,2020-03-06,766
+122,C000122,44,Female,Self-Employed,Mid,Retail,Current,Low,2020-09-19,711
+123,C000123,33,Male,Homemaker,Mid,Retail,Savings,High,2019-04-01,641
+124,C000124,45,Male,Self-Employed,High,SME,Current,Medium,2015-06-19,723
+125,C000125,61,Male,Homemaker,Mid,Corporate,Savings,Low,2020-09-05,754
+126,C000126,30,Male,Business Owner,Mid,Corporate,Savings,Medium,2016-08-21,702
+127,C000127,34,Female,Business Owner,Mid,Premium,Savings,Low,2022-06-15,652
+128,C000128,61,Female,Salaried,High,Retail,Salary,Medium,2021-08-14,751
+129,C000129,63,Male,Retired,Low,Retail,NRI,Medium,2021-09-14,829
+130,C000130,38,Male,Self-Employed,Low,Retail,Savings,Medium,2013-08-18,614
+131,C000131,28,Male,Salaried,Low,Retail,Current,High,2015-07-28,666
+132,C000132,38,Male,Salaried,Low,Corporate,Current,Low,2022-03-21,702
+133,C000133,45,Male,Self-Employed,Mid,Premium,Salary,Medium,2013-05-12,705
+134,C000134,23,Male,Self-Employed,Mid,Retail,Savings,Low,2022-01-11,713
+135,C000135,56,Female,Business Owner,Mid,Retail,Current,Low,2016-07-16,631
+136,C000136,49,Male,Retired,Low,Retail,Savings,Low,2017-07-02,555
+137,C000137,40,Male,Salaried,Mid,Retail,Savings,Low,2016-01-02,616
+138,C000138,54,Female,Business Owner,Mid,SME,Salary,Medium,2013-09-29,787
+139,C000139,42,Male,Salaried,Mid,Premium,Savings,Medium,2015-05-15,621
+140,C000140,31,Female,Retired,Mid,Corporate,Savings,Medium,2023-03-30,644
+141,C000141,67,Female,Student,Mid,Retail,Savings,Low,2023-07-30,627
+142,C000142,66,Male,Self-Employed,Low,Retail,Current,Low,2019-05-13,616
+143,C000143,30,Male,Business Owner,Low,Retail,Current,High,2022-10-30,725
+144,C000144,59,Male,Salaried,High,Corporate,Savings,Low,2021-01-19,721
+145,C000145,27,Male,Self-Employed,High,Corporate,Salary,Medium,2016-07-12,804
+146,C000146,63,Male,Student,Mid,Retail,Savings,Medium,2015-05-21,612
+147,C000147,56,Female,Self-Employed,Low,Premium,Savings,Medium,2020-05-08,795
+148,C000148,39,Male,Salaried,Mid,Retail,Salary,Medium,2018-08-07,741
+149,C000149,40,Male,Self-Employed,Mid,Premium,Savings,High,2017-06-09,620
+150,C000150,26,Male,Student,Mid,SME,Savings,Low,2022-12-03,778
+151,C000151,46,Female,Salaried,Low,Premium,Savings,High,2023-04-04,612
+152,C000152,32,Male,Salaried,Low,Premium,NRI,Low,2020-03-18,846
+153,C000153,31,Male,Business Owner,Mid,Retail,Savings,Low,2018-02-23,794
+154,C000154,38,Male,Student,Mid,Retail,Salary,Low,2014-08-09,556
+155,C000155,57,Other,Salaried,Low,Retail,Current,Medium,2015-12-21,809
+156,C000156,47,Male,Salaried,Low,Retail,Savings,Low,2014-07-26,638
+157,C000157,52,Female,Salaried,Mid,Premium,Current,Low,2015-10-08,726
+158,C000158,53,Female,Salaried,High,Premium,Savings,Low,2021-05-10,753
+159,C000159,42,Male,Self-Employed,High,Retail,Savings,High,2019-04-19,683
+160,C000160,39,Female,Business Owner,Mid,Corporate,Current,Medium,2019-01-17,631
+161,C000161,39,Male,Business Owner,Mid,Retail,Salary,Medium,2015-12-13,570
+162,C000162,22,Female,Business Owner,Low,Retail,Savings,Medium,2021-05-18,677
+163,C000163,35,Female,Salaried,Mid,Retail,Savings,Low,2019-07-23,744
+164,C000164,29,Female,Student,Mid,Retail,Savings,Low,2017-10-21,743
+165,C000165,23,Male,Self-Employed,Mid,Retail,Savings,High,2023-01-26,733
+166,C000166,36,Female,Homemaker,Mid,Retail,Savings,Low,2019-07-19,796
+167,C000167,55,Male,Business Owner,Low,Retail,Savings,Low,2017-06-24,709
+168,C000168,57,Male,Salaried,Low,SME,Current,Low,2017-01-22,743
+169,C000169,22,Male,Business Owner,Mid,Retail,Savings,Low,2015-06-18,659
+170,C000170,42,Female,Salaried,Low,Retail,Savings,Low,2014-07-21,615
+171,C000171,63,Female,Business Owner,Low,Retail,NRI,Medium,2018-09-19,803
+172,C000172,22,Male,Salaried,High,Premium,NRI,Low,2018-07-15,832
+173,C000173,53,Male,Salaried,Mid,Retail,Savings,Medium,2014-01-08,609
+174,C000174,41,Male,Retired,Mid,Corporate,Savings,Low,2021-06-23,667
+175,C000175,68,Female,Salaried,High,Premium,Current,Low,2013-07-12,593
+176,C000176,57,Male,Student,High,Premium,Savings,Low,2022-08-29,759
+177,C000177,60,Female,Salaried,Mid,Premium,Savings,Medium,2014-03-26,585
+178,C000178,51,Male,Business Owner,High,Retail,Current,Low,2014-09-19,568
+179,C000179,28,Female,Business Owner,Mid,Retail,Savings,Medium,2020-01-15,640
+180,C000180,43,Male,Self-Employed,Mid,Retail,Savings,Medium,2014-10-18,761
+181,C000181,66,Male,Salaried,Mid,Premium,Savings,Medium,2021-11-19,771
+182,C000182,31,Male,Salaried,Mid,Retail,Savings,Low,2020-08-19,766
+183,C000183,29,Female,Salaried,Mid,Retail,Savings,Low,2017-09-26,772
+184,C000184,48,Female,Salaried,Mid,SME,Salary,Low,2019-09-09,647
+185,C000185,31,Male,Business Owner,Low,Retail,Savings,Medium,2013-09-18,568
+186,C000186,35,Female,Retired,Mid,Corporate,Savings,Low,2017-04-26,846
+187,C000187,67,Female,Retired,Low,Corporate,Savings,Medium,2017-04-13,575
+188,C000188,32,Female,Student,Mid,Retail,Salary,High,2019-09-07,577
+189,C000189,27,Female,Student,Mid,Retail,Savings,Low,2018-04-02,613
+190,C000190,42,Male,Business Owner,Mid,Retail,Savings,Low,2018-12-08,772
+191,C000191,54,Male,Salaried,Mid,Premium,NRI,Medium,2015-10-27,629
+192,C000192,40,Female,Retired,High,Premium,Savings,Low,2023-11-22,600
+193,C000193,60,Female,Business Owner,Mid,Corporate,Savings,Low,2019-03-17,651
+194,C000194,45,Female,Self-Employed,Mid,SME,Savings,High,2022-08-27,725
+195,C000195,39,Male,Salaried,Mid,Premium,Savings,Low,2023-07-28,559
+196,C000196,56,Male,Self-Employed,Low,Retail,Savings,High,2013-02-17,786
+197,C000197,64,Female,Self-Employed,Low,Retail,Current,Medium,2020-08-18,649
+198,C000198,58,Female,Retired,Low,Corporate,Savings,Medium,2021-01-31,777
+199,C000199,40,Female,Self-Employed,Mid,Retail,Current,Low,2014-04-15,613
+200,C000200,45,Female,Salaried,Mid,Retail,Savings,Low,2020-08-24,568
+201,C000201,55,Female,Homemaker,High,Premium,Savings,Medium,2022-12-04,690
+202,C000202,43,Male,Salaried,Low,Retail,Savings,Low,2019-01-09,574
+203,C000203,25,Male,Self-Employed,Low,SME,Salary,Low,2021-06-03,777
+204,C000204,31,Female,Salaried,High,Premium,Savings,Low,2015-12-29,638
+205,C000205,23,Female,Business Owner,Low,Retail,Current,Low,2021-08-15,641
+206,C000206,29,Male,Retired,Mid,SME,Savings,Low,2020-03-10,591
+207,C000207,54,Male,Salaried,Mid,Retail,Savings,Medium,2016-10-25,844
+208,C000208,59,Female,Retired,Mid,Retail,Savings,Low,2014-04-02,630
+209,C000209,64,Male,Salaried,Low,Retail,Savings,Low,2016-04-17,656
+210,C000210,49,Male,Retired,Low,Retail,Savings,Medium,2017-11-16,660
+211,C000211,31,Female,Student,Low,Retail,Savings,High,2014-10-10,826
+212,C000212,66,Female,Student,Mid,Retail,Current,Low,2018-02-02,763
+213,C000213,22,Female,Salaried,Mid,Retail,Savings,Low,2013-01-14,780
+214,C000214,55,Male,Homemaker,Low,Retail,Current,Medium,2023-09-12,670
+215,C000215,24,Female,Business Owner,Mid,Corporate,Savings,High,2021-02-05,683
+216,C000216,30,Male,Salaried,High,Corporate,Savings,Medium,2022-10-28,757
+217,C000217,26,Male,Student,Low,Retail,Current,Medium,2021-01-26,806
+218,C000218,63,Female,Salaried,Mid,Retail,Savings,Low,2015-12-15,734
+219,C000219,31,Female,Retired,Mid,Retail,Savings,Medium,2023-11-25,835
+220,C000220,33,Female,Salaried,Low,Retail,Current,Low,2018-08-13,729
+221,C000221,39,Female,Business Owner,Mid,Corporate,NRI,Medium,2021-07-18,597
+222,C000222,42,Female,Self-Employed,Mid,Premium,Savings,Medium,2015-01-02,636
+223,C000223,42,Male,Salaried,High,Retail,Savings,High,2018-09-11,568
+224,C000224,22,Male,Salaried,High,Retail,NRI,Low,2023-03-28,595
+225,C000225,24,Male,Salaried,Mid,Retail,Savings,Low,2014-03-12,605
+226,C000226,26,Male,Self-Employed,Mid,Premium,Current,Medium,2022-10-06,778
+227,C000227,46,Female,Salaried,Mid,Retail,Savings,Medium,2020-01-06,694
+228,C000228,29,Male,Self-Employed,Mid,SME,Savings,Medium,2016-05-07,641
+229,C000229,38,Female,Salaried,Mid,Corporate,Current,Low,2022-06-10,631
+230,C000230,30,Female,Salaried,Low,Retail,Savings,Low,2020-03-02,774
+231,C000231,53,Female,Business Owner,Mid,Premium,Savings,Medium,2018-09-11,628
+232,C000232,27,Male,Salaried,Mid,SME,Savings,Low,2019-10-31,699
+233,C000233,61,Female,Retired,Mid,Premium,Current,High,2015-03-26,832
+234,C000234,42,Male,Retired,High,Retail,Current,Low,2014-09-19,709
+235,C000235,28,Male,Business Owner,Low,Retail,Savings,Medium,2017-03-12,705
+236,C000236,28,Female,Self-Employed,Mid,Corporate,Savings,Medium,2021-07-21,705
+237,C000237,68,Male,Retired,Low,Premium,Current,Medium,2014-10-24,751
+238,C000238,60,Male,Salaried,Mid,Premium,Current,Low,2019-01-19,666
+239,C000239,48,Female,Salaried,Mid,Corporate,Current,Medium,2023-09-11,703
+240,C000240,29,Male,Salaried,Mid,Corporate,Savings,Low,2021-09-25,668
+241,C000241,30,Female,Student,Mid,SME,Current,Medium,2023-05-07,748
+242,C000242,49,Female,Salaried,Mid,Retail,Current,Low,2018-12-13,812
+243,C000243,36,Female,Self-Employed,Mid,Premium,Savings,Low,2023-04-21,733
+244,C000244,23,Male,Homemaker,Mid,Premium,Savings,Low,2013-01-03,697
+245,C000245,28,Male,Retired,Mid,Corporate,Savings,Low,2019-09-20,715
+246,C000246,68,Female,Self-Employed,High,Premium,Current,High,2016-08-20,624
+247,C000247,39,Male,Salaried,Low,Retail,Savings,Low,2018-06-25,785
+248,C000248,43,Female,Student,Low,Corporate,Current,Medium,2013-03-21,821
+249,C000249,31,Female,Self-Employed,Mid,Premium,Salary,High,2014-04-04,728
+250,C000250,54,Female,Salaried,High,Retail,Current,Low,2023-06-03,832
+251,C000251,28,Male,Salaried,Mid,Retail,Salary,Medium,2017-01-26,600
+252,C000252,24,Male,Retired,Low,Retail,Salary,Low,2022-11-09,624
+253,C000253,35,Female,Business Owner,Mid,Retail,Savings,Low,2022-04-30,693
+254,C000254,65,Male,Student,Mid,Retail,Current,Low,2022-01-18,737
+255,C000255,67,Male,Retired,Low,Retail,Savings,High,2016-06-13,672
+256,C000256,57,Female,Self-Employed,Mid,Premium,NRI,Low,2015-09-08,800
+257,C000257,34,Female,Self-Employed,High,Premium,Savings,Medium,2013-08-26,845
+258,C000258,37,Female,Self-Employed,Mid,Premium,Salary,Medium,2015-09-14,679
+259,C000259,37,Female,Salaried,Mid,Corporate,Current,High,2022-11-06,801
+260,C000260,26,Male,Self-Employed,Mid,Retail,Current,Low,2019-05-13,729
+261,C000261,46,Female,Student,Low,Retail,Savings,Medium,2023-08-15,659
+262,C000262,59,Other,Business Owner,High,Corporate,Savings,Medium,2013-11-19,627
+263,C000263,59,Male,Retired,Mid,Retail,Current,Medium,2013-12-17,551
+264,C000264,59,Male,Self-Employed,Mid,SME,Savings,High,2021-03-17,825
+265,C000265,60,Female,Business Owner,Mid,Corporate,NRI,Medium,2018-06-14,839
+266,C000266,69,Female,Business Owner,Mid,Premium,Savings,Low,2022-02-25,846
+267,C000267,62,Female,Self-Employed,Mid,SME,Current,Low,2013-10-11,718
+268,C000268,47,Female,Business Owner,Low,Retail,Savings,Low,2023-12-20,789
+269,C000269,34,Male,Salaried,High,Retail,Current,Low,2021-07-13,572
+270,C000270,65,Male,Self-Employed,High,Premium,Current,Low,2018-12-22,843
+271,C000271,47,Female,Salaried,Mid,Retail,Savings,Low,2021-08-03,721
+272,C000272,22,Female,Salaried,High,SME,Savings,Low,2014-05-31,835
+273,C000273,29,Female,Self-Employed,Low,Retail,Savings,High,2014-06-10,742
+274,C000274,25,Female,Business Owner,Mid,Premium,Current,Low,2020-05-26,718
+275,C000275,42,Male,Homemaker,Mid,Premium,Savings,High,2018-05-01,667
+276,C000276,43,Male,Business Owner,Mid,Premium,Current,Low,2023-08-15,555
+277,C000277,58,Female,Business Owner,Mid,Retail,Savings,Medium,2019-03-02,681
+278,C000278,24,Female,Self-Employed,Mid,Retail,Savings,Medium,2014-11-08,642
+279,C000279,40,Female,Business Owner,Low,Corporate,Savings,Low,2015-12-22,800
+280,C000280,22,Female,Salaried,Mid,Retail,Savings,Low,2018-12-02,559
+281,C000281,50,Female,Salaried,Low,Corporate,Savings,Low,2022-10-14,600
+282,C000282,44,Male,Salaried,Mid,Premium,Salary,Low,2019-10-21,843
+283,C000283,54,Male,Self-Employed,Low,Corporate,NRI,High,2017-09-30,678
+284,C000284,62,Male,Salaried,Low,Premium,Savings,Medium,2023-10-26,798
+285,C000285,44,Female,Salaried,Mid,Retail,Current,Low,2015-05-18,651
+286,C000286,26,Male,Salaried,Mid,Premium,NRI,Low,2023-06-02,632
+287,C000287,28,Male,Homemaker,High,Corporate,Savings,Low,2019-01-18,740
+288,C000288,27,Female,Salaried,Mid,Retail,Savings,Low,2021-06-21,692
+289,C000289,43,Male,Self-Employed,Mid,SME,Savings,Medium,2021-03-09,786
+290,C000290,34,Female,Salaried,High,Retail,Savings,Low,2020-09-26,836
+291,C000291,33,Male,Business Owner,Mid,Retail,Salary,Medium,2015-04-04,826
+292,C000292,25,Male,Salaried,Low,Retail,Current,Low,2020-12-30,840
+293,C000293,29,Female,Salaried,Mid,SME,Savings,Low,2016-06-30,718
+294,C000294,58,Male,Self-Employed,High,Retail,Savings,Medium,2017-06-23,693
+295,C000295,52,Male,Salaried,Mid,Corporate,Current,Low,2020-07-14,733
+296,C000296,58,Female,Salaried,Low,Corporate,NRI,High,2020-04-15,594
+297,C000297,66,Female,Salaried,Low,Retail,Current,High,2017-03-10,792
+298,C000298,47,Male,Salaried,Low,Retail,Current,Low,2017-11-30,817
+299,C000299,64,Female,Salaried,Mid,Premium,Savings,Low,2023-02-02,802
+300,C000300,29,Male,Salaried,Mid,Retail,NRI,Medium,2018-10-21,838
+301,C000301,61,Male,Student,Low,Corporate,Current,High,2018-01-24,761
+302,C000302,54,Female,Self-Employed,High,Retail,Savings,Medium,2014-05-11,726
+303,C000303,66,Female,Self-Employed,Mid,Retail,Current,Low,2015-10-13,570
+304,C000304,50,Female,Salaried,Mid,Corporate,Savings,High,2015-07-10,601
+305,C000305,26,Female,Retired,High,Retail,Savings,Low,2013-09-20,782
+306,C000306,49,Female,Salaried,Low,Retail,Savings,Medium,2016-10-16,672
+307,C000307,61,Male,Salaried,Mid,Retail,Savings,High,2013-03-28,649
+308,C000308,38,Male,Business Owner,Mid,Retail,Savings,Low,2019-08-07,763
+309,C000309,44,Female,Salaried,High,Premium,Savings,High,2019-03-19,684
+310,C000310,66,Male,Salaried,Mid,Corporate,Savings,Low,2015-08-01,767
+311,C000311,30,Male,Self-Employed,Low,Retail,Savings,High,2019-08-08,637
+312,C000312,23,Male,Retired,High,Premium,Savings,Low,2015-06-22,829
+313,C000313,53,Male,Self-Employed,Low,Premium,Savings,High,2013-01-30,589
+314,C000314,52,Female,Business Owner,High,Retail,Current,Low,2013-10-18,789
+315,C000315,28,Female,Homemaker,High,Retail,Savings,Medium,2020-12-09,685
+316,C000316,51,Female,Salaried,Low,SME,Savings,Medium,2020-01-29,731
+317,C000317,24,Male,Salaried,Mid,Premium,NRI,Low,2013-08-30,814
+318,C000318,30,Male,Salaried,Low,Premium,Current,Low,2015-07-27,808
+319,C000319,31,Male,Self-Employed,Mid,Premium,NRI,Medium,2013-10-04,731
+320,C000320,67,Male,Self-Employed,Mid,Retail,Savings,Low,2023-02-26,570
+321,C000321,68,Female,Retired,Mid,Premium,Savings,Medium,2013-05-09,745
+322,C000322,47,Female,Business Owner,High,Premium,Current,Low,2022-08-23,761
+323,C000323,22,Female,Business Owner,Mid,Premium,Savings,High,2016-09-15,565
+324,C000324,51,Male,Salaried,Mid,Retail,Savings,Low,2013-10-18,751
+325,C000325,59,Female,Student,High,Retail,Savings,Low,2018-10-07,767
+326,C000326,36,Female,Homemaker,High,Retail,NRI,Low,2015-09-02,642
+327,C000327,46,Female,Student,Low,SME,Savings,Low,2016-02-15,682
+328,C000328,27,Female,Salaried,High,Retail,Salary,Low,2020-07-03,688
+329,C000329,39,Male,Business Owner,Low,Retail,NRI,Low,2018-06-12,706
+330,C000330,22,Male,Salaried,High,Retail,Savings,High,2015-05-28,619
+331,C000331,24,Male,Salaried,Low,Retail,Current,Medium,2019-01-18,564
+332,C000332,38,Female,Salaried,Low,Premium,Current,Medium,2014-06-26,784
+333,C000333,69,Male,Business Owner,Mid,Premium,NRI,Low,2021-02-10,761
+334,C000334,29,Male,Business Owner,Mid,Premium,Savings,Medium,2023-06-29,839
+335,C000335,61,Male,Salaried,Mid,Retail,Current,Low,2022-11-24,609
+336,C000336,38,Male,Salaried,Low,Premium,Savings,Medium,2019-05-28,801
+337,C000337,46,Female,Self-Employed,Mid,Retail,Salary,Low,2019-06-19,551
+338,C000338,62,Female,Salaried,High,Retail,Savings,Low,2018-04-21,785
+339,C000339,33,Male,Salaried,Mid,Retail,Savings,Low,2015-09-23,568
+340,C000340,50,Male,Self-Employed,Low,Retail,Current,High,2021-10-19,598
+341,C000341,46,Male,Student,Mid,Retail,NRI,Low,2018-04-22,627
+342,C000342,57,Male,Salaried,Low,Premium,Current,Medium,2022-01-21,577
+343,C000343,46,Male,Salaried,High,Premium,Savings,Low,2017-07-26,597
+344,C000344,50,Male,Salaried,High,Corporate,Savings,Medium,2015-02-19,645
+345,C000345,32,Male,Retired,Mid,Retail,Salary,High,2014-01-22,714
+346,C000346,25,Female,Business Owner,Mid,Retail,Current,Low,2014-02-02,725
+347,C000347,35,Female,Business Owner,Mid,Retail,NRI,Low,2020-05-23,622
+348,C000348,67,Male,Salaried,Mid,SME,Savings,High,2017-11-01,578
+349,C000349,59,Male,Self-Employed,High,Premium,Savings,Medium,2016-12-22,706
+350,C000350,38,Female,Salaried,Mid,Premium,Current,Low,2017-10-01,828
+351,C000351,23,Male,Business Owner,Mid,Retail,NRI,Medium,2017-08-11,832
+352,C000352,29,Female,Retired,Mid,Premium,Savings,Medium,2018-03-28,556
+353,C000353,57,Female,Business Owner,Mid,Retail,NRI,Low,2022-09-09,731
+354,C000354,31,Male,Retired,High,Premium,Savings,Medium,2021-03-06,658
+355,C000355,28,Male,Business Owner,Mid,SME,Savings,Low,2013-08-10,755
+356,C000356,57,Female,Salaried,Mid,SME,Savings,Low,2020-07-21,783
+357,C000357,37,Male,Retired,Low,Premium,Savings,Medium,2020-04-30,736
+358,C000358,35,Female,Salaried,Mid,Retail,Savings,Low,2020-03-31,557
+359,C000359,37,Female,Self-Employed,Mid,SME,Savings,Low,2014-02-08,602
+360,C000360,46,Female,Salaried,Low,Premium,Savings,Medium,2013-09-06,748
+361,C000361,62,Male,Salaried,Low,Retail,NRI,High,2017-07-08,686
+362,C000362,25,Female,Self-Employed,Mid,Retail,Savings,High,2021-03-02,808
+363,C000363,50,Male,Salaried,Mid,Retail,Savings,High,2016-10-21,721
+364,C000364,27,Female,Self-Employed,Mid,Retail,Savings,High,2021-12-24,635
+365,C000365,22,Female,Self-Employed,Low,Retail,Savings,Low,2022-08-31,595
+366,C000366,60,Male,Salaried,Mid,Premium,Current,Low,2014-03-24,735
+367,C000367,22,Female,Salaried,Low,Retail,Savings,Medium,2015-10-16,705
+368,C000368,61,Female,Self-Employed,Mid,Retail,Current,Low,2015-02-24,558
+369,C000369,24,Male,Salaried,Low,Premium,Current,Medium,2015-02-19,664
+370,C000370,22,Male,Business Owner,Low,Corporate,Savings,Medium,2019-01-06,703
+371,C000371,22,Male,Business Owner,Low,Premium,Savings,Low,2018-01-12,679
+372,C000372,60,Male,Student,Mid,Retail,Savings,High,2014-07-29,630
+373,C000373,42,Male,Business Owner,Low,SME,Savings,Medium,2017-09-25,839
+374,C000374,66,Female,Self-Employed,Mid,SME,Current,Low,2015-01-22,696
+375,C000375,51,Male,Business Owner,Mid,Retail,Current,High,2016-02-15,844
+376,C000376,53,Male,Salaried,Mid,Retail,Savings,Low,2018-03-10,818
+377,C000377,54,Female,Salaried,Mid,Premium,Savings,Low,2015-10-21,682
+378,C000378,69,Male,Student,High,Corporate,Savings,Medium,2022-10-22,599
+379,C000379,43,Female,Self-Employed,Low,SME,Current,Medium,2023-05-10,572
+380,C000380,51,Male,Student,Mid,Corporate,Savings,Medium,2013-11-05,637
+381,C000381,67,Male,Student,Low,Premium,Savings,Medium,2017-12-21,661
+382,C000382,25,Female,Retired,Low,Premium,Savings,Medium,2022-01-23,660
+383,C000383,44,Female,Retired,Mid,Retail,Current,Low,2022-08-30,621
+384,C000384,65,Female,Self-Employed,Mid,Retail,NRI,High,2022-08-08,703
+385,C000385,46,Female,Salaried,High,Retail,Savings,High,2019-03-05,606
+386,C000386,33,Female,Self-Employed,Mid,Premium,Savings,Low,2014-02-06,806
+387,C000387,38,Male,Salaried,High,Premium,Salary,Low,2013-07-27,705
+388,C000388,36,Male,Business Owner,Low,Premium,Savings,High,2020-04-25,662
+389,C000389,31,Female,Business Owner,Low,Retail,Current,High,2019-01-24,596
+390,C000390,56,Female,Business Owner,Low,Premium,Savings,High,2022-05-18,787
+391,C000391,50,Other,Salaried,Low,Retail,Current,High,2013-03-02,655
+392,C000392,33,Male,Salaried,Mid,Retail,Savings,Medium,2023-11-14,736
+393,C000393,22,Male,Self-Employed,Mid,Corporate,Salary,Medium,2014-01-18,708
+394,C000394,22,Female,Salaried,Low,Premium,Current,Medium,2023-05-23,747
+395,C000395,31,Male,Retired,High,SME,Current,Low,2021-06-14,726
+396,C000396,39,Female,Salaried,High,Retail,Current,Medium,2022-07-09,810
+397,C000397,68,Female,Salaried,Low,Retail,Current,Medium,2015-08-27,836
+398,C000398,23,Male,Salaried,Low,Retail,Savings,Medium,2014-11-13,842
+399,C000399,29,Female,Business Owner,Low,Retail,NRI,Medium,2017-07-23,692
+400,C000400,43,Female,Business Owner,Low,Corporate,Salary,Low,2018-06-13,746
+401,C000401,43,Male,Salaried,Low,Premium,Savings,Low,2018-05-26,774
+402,C000402,47,Female,Salaried,Mid,Corporate,Salary,Low,2015-05-26,592
+403,C000403,47,Male,Self-Employed,Low,Retail,Current,Low,2022-09-12,700
+404,C000404,30,Female,Salaried,Mid,Corporate,Savings,Low,2017-07-01,845
+405,C000405,42,Male,Business Owner,High,Retail,Savings,High,2023-02-14,612
+406,C000406,52,Female,Business Owner,Mid,Corporate,Savings,Low,2013-08-29,679
+407,C000407,64,Male,Salaried,High,Retail,Savings,Low,2014-11-06,804
+408,C000408,27,Male,Salaried,Low,Retail,Savings,Medium,2017-04-02,763
+409,C000409,35,Female,Homemaker,Mid,Premium,Savings,Medium,2013-01-09,622
+410,C000410,54,Male,Self-Employed,Mid,SME,Savings,Low,2017-05-19,653
+411,C000411,28,Male,Business Owner,Low,Retail,Savings,Medium,2015-12-23,707
+412,C000412,45,Female,Salaried,Low,Retail,Salary,Medium,2023-05-24,821
+413,C000413,30,Female,Self-Employed,Mid,Corporate,Savings,Low,2021-10-17,787
+414,C000414,32,Female,Salaried,Mid,Retail,Savings,Low,2021-10-21,707
+415,C000415,44,Female,Self-Employed,Mid,Retail,Savings,High,2018-02-07,658
+416,C000416,69,Male,Homemaker,Mid,Retail,Savings,Medium,2016-03-14,558
+417,C000417,23,Male,Salaried,Mid,Retail,Current,Medium,2017-09-29,608
+418,C000418,36,Male,Salaried,Low,SME,Current,Low,2020-10-24,741
+419,C000419,56,Female,Salaried,Mid,Corporate,Current,Low,2023-09-27,685
+420,C000420,57,Female,Salaried,Low,Premium,Savings,Medium,2021-03-12,800
+421,C000421,49,Female,Salaried,Low,SME,Current,Low,2021-10-14,695
+422,C000422,60,Female,Salaried,High,Retail,Savings,Low,2019-03-27,607
+423,C000423,65,Male,Student,Mid,Retail,Savings,Medium,2020-06-04,726
+424,C000424,25,Male,Self-Employed,Mid,Retail,Savings,Low,2021-01-21,837
+425,C000425,31,Male,Salaried,Mid,Retail,Savings,Medium,2018-06-17,794
+426,C000426,27,Female,Retired,Mid,Retail,Savings,Medium,2014-09-27,597
+427,C000427,51,Male,Salaried,Low,SME,Savings,Low,2015-02-17,649
+428,C000428,67,Female,Homemaker,Low,Corporate,Salary,Medium,2016-04-30,762
+429,C000429,56,Male,Salaried,Low,Retail,Savings,Low,2015-06-11,714
+430,C000430,64,Male,Retired,Mid,Premium,Savings,Medium,2023-11-12,675
+431,C000431,31,Male,Business Owner,Mid,Premium,Savings,Low,2013-08-28,670
+432,C000432,53,Female,Student,Mid,SME,Current,Low,2019-07-01,637
+433,C000433,63,Female,Homemaker,Mid,Corporate,Savings,Medium,2021-04-02,766
+434,C000434,63,Male,Salaried,High,Premium,NRI,Low,2019-01-30,610
+435,C000435,24,Male,Homemaker,Low,Corporate,Salary,High,2013-09-07,728
+436,C000436,47,Female,Salaried,Low,Premium,Savings,Low,2021-05-22,739
+437,C000437,36,Male,Salaried,Mid,Premium,Savings,Low,2016-07-08,712
+438,C000438,38,Female,Salaried,Mid,Retail,Savings,Medium,2013-08-23,630
+439,C000439,48,Female,Self-Employed,High,Retail,Current,Low,2013-07-25,719
+440,C000440,39,Male,Salaried,Low,Premium,Savings,Low,2019-07-21,745
+441,C000441,40,Male,Self-Employed,High,Retail,Savings,Medium,2018-05-07,752
+442,C000442,33,Other,Self-Employed,High,Retail,Savings,Medium,2018-08-22,596
+443,C000443,45,Male,Student,Low,Premium,Current,High,2023-04-24,707
+444,C000444,26,Male,Student,Mid,Retail,Savings,High,2022-07-25,743
+445,C000445,45,Female,Self-Employed,Mid,Premium,Savings,Low,2018-12-16,828
+446,C000446,48,Female,Salaried,High,Premium,Current,Medium,2014-10-07,818
+447,C000447,69,Other,Salaried,Low,SME,Current,Low,2013-08-21,748
+448,C000448,51,Female,Salaried,Mid,Retail,NRI,Medium,2023-10-11,773
+449,C000449,36,Male,Salaried,Mid,Retail,Savings,Low,2018-09-12,812
+450,C000450,68,Male,Salaried,Mid,Premium,Current,High,2013-11-25,715
+451,C000451,59,Female,Salaried,Mid,Corporate,Current,Medium,2022-07-20,729
+452,C000452,65,Female,Homemaker,Mid,SME,Savings,High,2015-02-01,741
+453,C000453,55,Male,Self-Employed,High,Retail,Current,Medium,2013-10-08,765
+454,C000454,48,Female,Salaried,High,Retail,Savings,High,2019-09-04,833
+455,C000455,41,Male,Self-Employed,High,SME,Salary,Medium,2013-10-06,656
+456,C000456,62,Male,Salaried,Low,Retail,Savings,Low,2020-07-28,647
+457,C000457,53,Male,Self-Employed,Mid,Premium,Current,Low,2022-09-01,779
+458,C000458,25,Male,Business Owner,Low,Retail,Savings,Low,2015-08-22,806
+459,C000459,26,Male,Self-Employed,Mid,Retail,Salary,Low,2017-07-12,592
+460,C000460,29,Male,Self-Employed,Mid,Retail,Savings,Medium,2014-05-07,791
+461,C000461,43,Male,Homemaker,Mid,Retail,Salary,Medium,2023-07-24,591
+462,C000462,63,Female,Retired,Mid,Premium,Salary,Medium,2022-12-26,644
+463,C000463,28,Female,Business Owner,High,SME,Savings,High,2019-05-23,803
+464,C000464,43,Female,Self-Employed,Low,Retail,NRI,High,2015-10-06,737
+465,C000465,67,Female,Business Owner,Mid,Corporate,Salary,Low,2019-06-30,716
+466,C000466,51,Male,Salaried,Mid,Retail,Savings,Low,2019-09-02,820
+467,C000467,58,Male,Salaried,Low,Premium,Savings,Low,2013-06-12,674
+468,C000468,37,Female,Salaried,Low,Retail,Savings,Low,2019-12-12,710
+469,C000469,36,Male,Self-Employed,High,SME,Savings,Medium,2013-12-02,636
+470,C000470,26,Female,Self-Employed,High,Corporate,Savings,Medium,2017-09-14,775
+471,C000471,24,Male,Salaried,High,Premium,Savings,Medium,2020-05-16,694
+472,C000472,44,Female,Homemaker,High,Corporate,Savings,High,2019-07-19,797
+473,C000473,31,Male,Retired,Low,Premium,Savings,Medium,2019-05-05,555
+474,C000474,26,Female,Business Owner,Mid,SME,Savings,Low,2018-11-12,580
+475,C000475,44,Female,Self-Employed,Mid,Premium,NRI,Medium,2016-07-19,746
+476,C000476,36,Other,Retired,Mid,SME,Current,Low,2023-06-26,781
+477,C000477,39,Male,Salaried,Mid,Premium,Savings,Low,2015-12-05,845
+478,C000478,46,Female,Student,Mid,Retail,Current,Low,2015-04-17,684
+479,C000479,29,Female,Salaried,Mid,Premium,Current,Low,2020-07-06,562
+480,C000480,52,Female,Student,Mid,Retail,Salary,Low,2021-01-12,553
+481,C000481,42,Female,Salaried,Low,Premium,Savings,Low,2016-07-10,727
+482,C000482,23,Female,Retired,Mid,Retail,Savings,Medium,2015-09-05,783
+483,C000483,43,Male,Retired,Mid,Premium,Salary,Medium,2015-12-24,808
+484,C000484,29,Female,Salaried,Mid,Retail,Salary,Low,2017-06-10,689
+485,C000485,44,Female,Self-Employed,Low,Retail,Current,Low,2014-06-21,614
+486,C000486,53,Female,Homemaker,Mid,Retail,Current,Medium,2020-07-14,832
+487,C000487,29,Male,Self-Employed,Low,SME,Savings,Low,2020-03-28,754
+488,C000488,25,Male,Retired,Mid,Retail,Savings,High,2016-05-13,566
+489,C000489,51,Female,Self-Employed,Mid,Retail,Savings,Medium,2018-02-16,749
+490,C000490,40,Female,Salaried,Mid,Premium,Savings,Low,2016-07-19,581
+491,C000491,44,Male,Salaried,Low,Premium,NRI,Low,2023-06-03,761
+492,C000492,39,Female,Salaried,Mid,Retail,Savings,Low,2021-06-07,822
+493,C000493,50,Male,Student,Mid,Retail,Savings,Low,2023-06-30,839
+494,C000494,44,Male,Salaried,Mid,Retail,Salary,Low,2013-10-25,840
+495,C000495,54,Male,Self-Employed,Mid,SME,Savings,Medium,2013-02-08,783
+496,C000496,68,Male,Self-Employed,Mid,Retail,Salary,Low,2018-02-21,731
+497,C000497,39,Female,Self-Employed,Mid,Retail,Salary,Medium,2019-12-20,695
+498,C000498,65,Male,Retired,Low,Retail,Current,Medium,2019-04-26,599
+499,C000499,54,Female,Homemaker,Low,Retail,Savings,Low,2014-02-14,652
+500,C000500,28,Other,Self-Employed,Mid,Corporate,Savings,Low,2013-10-28,582
+501,C000501,49,Female,Student,Mid,Retail,Savings,Low,2019-01-12,638
+502,C000502,22,Female,Student,Mid,Retail,Savings,Low,2015-05-24,790
+503,C000503,60,Male,Self-Employed,Low,Retail,Savings,Medium,2018-09-04,815
+504,C000504,55,Female,Homemaker,Low,Retail,Salary,Low,2015-12-23,772
+505,C000505,60,Female,Salaried,Mid,Retail,Savings,Medium,2014-06-27,785
+506,C000506,40,Male,Salaried,Low,Corporate,Current,Low,2023-06-20,702
+507,C000507,52,Female,Retired,Mid,Corporate,Savings,Low,2016-11-30,606
+508,C000508,34,Female,Self-Employed,Low,SME,Current,Medium,2022-11-18,661
+509,C000509,45,Female,Student,Mid,Corporate,Salary,Medium,2013-10-09,564
+510,C000510,26,Female,Retired,High,Premium,Savings,Low,2022-11-11,818
+511,C000511,44,Female,Salaried,Low,Retail,Savings,Low,2015-09-28,663
+512,C000512,40,Male,Retired,Mid,Corporate,Current,Medium,2017-02-22,801
+513,C000513,22,Female,Self-Employed,Low,Corporate,Current,Low,2016-03-13,691
+514,C000514,54,Female,Self-Employed,Mid,Corporate,Current,Low,2014-10-09,663
+515,C000515,54,Male,Business Owner,Mid,Premium,Savings,Medium,2017-11-30,839
+516,C000516,53,Male,Retired,Mid,Retail,Savings,Low,2022-05-09,574
+517,C000517,49,Male,Salaried,Mid,Corporate,Salary,Medium,2019-02-04,804
+518,C000518,58,Female,Self-Employed,High,Premium,Salary,Medium,2020-11-21,817
+519,C000519,62,Other,Business Owner,Low,SME,Savings,Medium,2016-05-24,675
+520,C000520,33,Male,Business Owner,Low,Retail,NRI,Medium,2019-11-11,799
+521,C000521,30,Female,Business Owner,High,Retail,Savings,Medium,2022-01-19,836
+522,C000522,32,Male,Salaried,Mid,Retail,Savings,Medium,2020-05-02,602
+523,C000523,54,Female,Salaried,High,Corporate,Savings,High,2018-12-07,592
+524,C000524,40,Female,Salaried,Mid,Retail,Savings,Low,2013-02-02,715
+525,C000525,63,Female,Student,High,Retail,Savings,Low,2020-06-28,591
+526,C000526,55,Male,Salaried,Mid,SME,Savings,Medium,2022-03-01,725
+527,C000527,28,Male,Salaried,Mid,Retail,Savings,Medium,2019-03-22,616
+528,C000528,52,Male,Homemaker,High,Corporate,Current,Low,2016-05-11,615
+529,C000529,23,Male,Salaried,Mid,Retail,Current,High,2023-06-14,632
+530,C000530,40,Female,Homemaker,Low,Corporate,Current,Low,2020-06-10,654
+531,C000531,59,Female,Business Owner,Low,Premium,Salary,Medium,2014-03-01,836
+532,C000532,53,Other,Student,Low,SME,Savings,Medium,2023-07-13,735
+533,C000533,31,Other,Salaried,Low,SME,Current,High,2022-11-06,833
+534,C000534,62,Female,Salaried,Mid,Retail,Current,Low,2014-07-05,553
+535,C000535,29,Female,Business Owner,Mid,Retail,Savings,Medium,2015-12-20,687
+536,C000536,47,Female,Student,Mid,Retail,Savings,Low,2014-04-18,728
+537,C000537,51,Female,Business Owner,Mid,Premium,Savings,Low,2022-12-24,786
+538,C000538,32,Male,Salaried,Mid,Corporate,NRI,Low,2014-03-15,567
+539,C000539,62,Male,Student,Low,Retail,Savings,Medium,2021-04-29,558
+540,C000540,41,Male,Student,Low,Premium,NRI,Low,2019-03-17,578
+541,C000541,41,Female,Business Owner,Low,Retail,Current,Low,2014-09-29,693
+542,C000542,30,Female,Student,Mid,Corporate,Current,Medium,2016-01-21,698
+543,C000543,29,Male,Student,Low,SME,NRI,Medium,2016-02-29,613
+544,C000544,36,Female,Business Owner,Low,Retail,Current,Medium,2019-10-14,736
+545,C000545,55,Female,Salaried,Mid,Retail,Savings,High,2015-05-13,776
+546,C000546,45,Male,Self-Employed,High,Retail,Savings,Low,2021-01-18,667
+547,C000547,54,Male,Salaried,Low,Premium,NRI,High,2016-11-05,803
+548,C000548,62,Female,Self-Employed,Mid,Premium,Savings,High,2015-04-14,580
+549,C000549,62,Female,Self-Employed,Mid,Retail,Savings,Low,2020-09-16,710
+550,C000550,66,Female,Salaried,Mid,Retail,Savings,Low,2020-02-11,764
+551,C000551,61,Female,Salaried,High,Retail,Salary,Low,2022-07-26,718
+552,C000552,48,Female,Salaried,Low,Premium,Savings,Low,2015-12-18,630
+553,C000553,42,Female,Student,Low,Premium,Current,Medium,2018-09-02,595
+554,C000554,26,Female,Retired,High,Retail,Savings,Medium,2018-06-25,598
+555,C000555,56,Female,Salaried,Mid,Corporate,Savings,Medium,2015-10-26,847
+556,C000556,42,Male,Homemaker,Mid,Premium,Current,Medium,2023-02-26,832
+557,C000557,25,Male,Self-Employed,Mid,Retail,Savings,Low,2023-03-09,637
+558,C000558,69,Male,Salaried,Mid,Retail,Current,High,2022-06-28,670
+559,C000559,37,Female,Salaried,High,Corporate,Current,Low,2013-07-28,552
+560,C000560,52,Female,Self-Employed,High,SME,NRI,High,2014-01-14,776
+561,C000561,47,Female,Student,Mid,Retail,Savings,Low,2020-02-12,628
+562,C000562,56,Male,Business Owner,Low,Retail,NRI,High,2017-10-01,694
+563,C000563,27,Male,Salaried,High,Retail,Current,Low,2022-04-21,791
+564,C000564,54,Male,Salaried,Low,Premium,NRI,Low,2016-02-08,581
+565,C000565,42,Male,Self-Employed,Low,Retail,Savings,Low,2013-06-30,812
+566,C000566,37,Female,Salaried,High,Retail,Savings,Medium,2013-01-15,760
+567,C000567,68,Male,Salaried,Low,Premium,Salary,High,2016-09-28,620
+568,C000568,60,Male,Salaried,Low,Premium,NRI,Low,2021-08-25,746
+569,C000569,55,Female,Student,Low,Retail,Savings,High,2014-06-20,607
+570,C000570,63,Male,Retired,High,Retail,Savings,Medium,2020-02-23,661
+571,C000571,36,Male,Self-Employed,Mid,Premium,Savings,Medium,2023-12-28,597
+572,C000572,27,Female,Retired,Mid,Retail,Savings,Medium,2015-12-09,734
+573,C000573,23,Male,Salaried,Low,Retail,Savings,Low,2014-10-24,714
+574,C000574,45,Female,Self-Employed,Mid,Corporate,Savings,Low,2021-04-25,764
+575,C000575,49,Female,Salaried,Mid,Retail,NRI,High,2017-12-15,670
+576,C000576,22,Female,Business Owner,Mid,Premium,Savings,High,2019-03-10,762
+577,C000577,22,Male,Homemaker,Mid,SME,Current,High,2020-11-30,590
+578,C000578,49,Female,Business Owner,Low,Retail,Savings,High,2017-10-18,838
+579,C000579,57,Male,Salaried,High,Retail,Savings,Low,2019-04-17,717
+580,C000580,41,Male,Business Owner,Mid,Premium,Savings,Medium,2013-02-09,583
+581,C000581,69,Male,Salaried,High,Corporate,Savings,Low,2014-04-04,824
+582,C000582,29,Other,Retired,Mid,SME,Current,High,2013-11-05,746
+583,C000583,22,Male,Self-Employed,Mid,Premium,NRI,Low,2023-08-07,740
+584,C000584,47,Male,Self-Employed,Mid,Retail,Savings,Medium,2022-11-27,770
+585,C000585,64,Female,Self-Employed,Mid,Premium,Savings,Medium,2020-10-01,559
+586,C000586,46,Male,Business Owner,High,Retail,Savings,Low,2023-02-20,669
+587,C000587,31,Male,Salaried,Mid,Retail,NRI,Low,2014-09-03,672
+588,C000588,33,Male,Business Owner,Low,Retail,Current,High,2019-02-13,796
+589,C000589,62,Male,Salaried,Mid,Retail,Savings,Medium,2013-05-28,770
+590,C000590,28,Male,Business Owner,Mid,Corporate,Current,Low,2022-05-12,810
+591,C000591,33,Male,Student,Mid,Retail,NRI,Medium,2017-02-21,607
+592,C000592,68,Female,Student,Low,Retail,Savings,Medium,2019-07-14,677
+593,C000593,61,Male,Self-Employed,Mid,Retail,Savings,Low,2019-03-14,736
+594,C000594,38,Male,Self-Employed,Mid,Corporate,Salary,Low,2014-08-30,754
+595,C000595,26,Female,Salaried,Mid,Premium,Current,High,2017-10-27,635
+596,C000596,35,Male,Student,Mid,Retail,Savings,Medium,2014-06-07,653
+597,C000597,55,Female,Salaried,Mid,Retail,Savings,Medium,2013-06-21,692
+598,C000598,69,Male,Self-Employed,Low,Retail,Savings,Medium,2016-06-16,754
+599,C000599,38,Male,Salaried,Mid,SME,Savings,Low,2017-02-02,678
+600,C000600,56,Male,Salaried,Low,Premium,Current,Low,2023-01-31,795
+601,C000601,22,Male,Business Owner,Low,Premium,Savings,Low,2023-06-19,587
+602,C000602,57,Male,Salaried,Mid,Premium,Current,Low,2021-12-05,658
+603,C000603,36,Male,Business Owner,High,Retail,NRI,Medium,2023-11-27,601
+604,C000604,40,Male,Salaried,Mid,Corporate,Savings,High,2022-08-27,550
+605,C000605,63,Male,Salaried,Mid,Premium,Savings,Low,2013-06-13,560
+606,C000606,26,Male,Self-Employed,High,Retail,Savings,Low,2023-01-30,784
+607,C000607,40,Male,Salaried,High,Retail,Current,Medium,2017-01-05,677
+608,C000608,64,Male,Salaried,Low,Premium,Savings,High,2015-05-11,763
+609,C000609,60,Male,Business Owner,High,SME,Current,Medium,2020-08-25,792
+610,C000610,26,Female,Salaried,Mid,Retail,NRI,High,2015-10-20,593
+611,C000611,33,Male,Student,Mid,Corporate,Savings,Medium,2020-06-24,555
+612,C000612,40,Female,Salaried,Low,Corporate,Salary,Medium,2014-02-26,705
+613,C000613,68,Female,Salaried,Mid,Retail,Salary,Low,2016-12-19,557
+614,C000614,33,Male,Business Owner,Low,Retail,Savings,Low,2021-10-01,554
+615,C000615,57,Female,Salaried,Low,Retail,Savings,Low,2019-04-13,731
+616,C000616,33,Female,Salaried,Mid,Premium,Salary,Medium,2022-12-01,661
+617,C000617,39,Male,Salaried,High,Retail,Salary,High,2022-10-23,822
+618,C000618,69,Male,Salaried,High,Retail,Savings,High,2017-07-23,814
+619,C000619,64,Female,Student,Mid,Premium,Savings,Low,2023-12-03,761
+620,C000620,55,Female,Salaried,High,Premium,Savings,Low,2019-12-18,627
+621,C000621,69,Male,Student,High,Retail,Salary,Low,2021-05-28,819
+622,C000622,54,Male,Retired,Mid,Retail,Savings,Low,2014-09-26,703
+623,C000623,39,Male,Self-Employed,Low,Retail,Savings,Medium,2023-05-20,770
+624,C000624,50,Male,Retired,Mid,Premium,NRI,High,2023-06-06,574
+625,C000625,66,Female,Salaried,High,Corporate,Savings,High,2015-08-28,757
+626,C000626,26,Male,Homemaker,Mid,Retail,Current,Medium,2022-09-12,552
+627,C000627,46,Male,Salaried,Mid,Corporate,Savings,Medium,2014-10-28,764
+628,C000628,45,Female,Business Owner,Mid,Premium,NRI,Medium,2023-12-13,661
+629,C000629,50,Male,Self-Employed,Mid,Premium,Savings,Low,2021-12-21,741
+630,C000630,59,Male,Salaried,Mid,Premium,Current,Medium,2022-02-03,596
+631,C000631,54,Female,Business Owner,Low,Retail,Current,Medium,2014-12-27,770
+632,C000632,31,Female,Business Owner,Mid,Retail,Savings,Medium,2022-11-20,736
+633,C000633,58,Male,Salaried,High,Premium,Savings,Low,2017-08-16,599
+634,C000634,54,Female,Salaried,High,Premium,Savings,Low,2013-04-12,746
+635,C000635,44,Male,Business Owner,Low,Premium,Savings,Low,2015-01-05,765
+636,C000636,32,Male,Business Owner,High,Retail,NRI,High,2021-04-05,770
+637,C000637,45,Female,Homemaker,Mid,SME,NRI,Low,2023-05-15,639
+638,C000638,45,Male,Student,Mid,Premium,Savings,Medium,2016-09-22,781
+639,C000639,28,Male,Homemaker,Mid,Retail,Current,Medium,2021-10-10,807
+640,C000640,42,Male,Business Owner,High,Retail,Current,Low,2023-06-10,702
+641,C000641,41,Male,Salaried,High,Corporate,NRI,Medium,2017-08-14,805
+642,C000642,31,Male,Salaried,Mid,Corporate,Savings,High,2021-12-30,807
+643,C000643,46,Male,Student,High,Retail,Savings,Low,2020-07-06,614
+644,C000644,68,Male,Business Owner,Low,Corporate,Savings,High,2022-09-10,739
+645,C000645,57,Male,Salaried,Mid,Retail,Savings,Low,2021-03-30,640
+646,C000646,69,Female,Salaried,Mid,Retail,Savings,Low,2022-02-03,722
+647,C000647,68,Female,Homemaker,Mid,Corporate,Savings,High,2015-10-14,796
+648,C000648,36,Female,Self-Employed,Low,Corporate,Savings,Medium,2015-12-29,805
+649,C000649,65,Female,Self-Employed,High,Premium,Current,High,2014-10-15,665
+650,C000650,61,Male,Self-Employed,Low,Corporate,Savings,Medium,2021-10-31,598
+651,C000651,61,Male,Salaried,Low,Retail,Savings,High,2020-11-12,776
+652,C000652,27,Female,Salaried,Mid,Corporate,Savings,Medium,2014-03-19,618
+653,C000653,58,Female,Salaried,Mid,Retail,Savings,Medium,2017-04-16,675
+654,C000654,23,Female,Salaried,High,Retail,Current,Medium,2022-10-13,762
+655,C000655,33,Male,Student,Mid,Retail,Savings,Low,2013-06-08,602
+656,C000656,25,Male,Self-Employed,Low,Retail,Savings,High,2022-08-18,661
+657,C000657,44,Male,Student,High,Retail,Savings,Low,2018-04-12,708
+658,C000658,34,Male,Retired,Mid,Retail,Savings,Medium,2015-07-01,789
+659,C000659,38,Female,Salaried,Low,Retail,Savings,Low,2015-03-29,699
+660,C000660,52,Female,Business Owner,Mid,Retail,NRI,Medium,2022-02-27,688
+661,C000661,37,Male,Self-Employed,Mid,Premium,Savings,Low,2023-04-20,662
+662,C000662,62,Other,Retired,Mid,Retail,Savings,Low,2018-03-01,692
+663,C000663,47,Female,Salaried,Mid,Retail,Savings,High,2016-12-03,687
+664,C000664,49,Male,Business Owner,High,Premium,Savings,Low,2016-06-04,580
+665,C000665,22,Male,Business Owner,High,Corporate,Current,Medium,2022-03-15,842
+666,C000666,68,Male,Salaried,Mid,Corporate,Current,Low,2021-12-02,657
+667,C000667,33,Male,Salaried,Low,Retail,Current,Low,2022-10-09,833
+668,C000668,58,Male,Business Owner,High,Premium,Savings,Low,2015-07-22,708
+669,C000669,41,Male,Business Owner,Mid,Retail,Savings,Medium,2015-07-03,563
+670,C000670,23,Male,Salaried,Mid,Retail,NRI,Low,2013-04-07,671
+671,C000671,57,Male,Business Owner,Mid,Retail,Salary,High,2020-05-27,764
+672,C000672,36,Female,Salaried,High,Corporate,Savings,Low,2015-03-03,821
+673,C000673,59,Male,Business Owner,Mid,Retail,Savings,Low,2017-06-21,574
+674,C000674,43,Female,Salaried,Low,Retail,Savings,Low,2016-09-06,843
+675,C000675,65,Male,Retired,Mid,Retail,Savings,Low,2016-02-16,718
+676,C000676,53,Other,Salaried,High,Corporate,Savings,Medium,2022-09-11,652
+677,C000677,41,Male,Salaried,Low,Premium,Savings,High,2013-10-12,589
+678,C000678,57,Male,Salaried,High,Retail,Current,Medium,2023-11-05,784
+679,C000679,54,Female,Salaried,Mid,Premium,Savings,Low,2021-09-03,638
+680,C000680,36,Female,Self-Employed,Mid,Premium,Savings,Low,2016-02-18,649
+681,C000681,67,Female,Salaried,Low,Premium,Savings,Low,2016-12-09,693
+682,C000682,24,Male,Student,Low,Retail,NRI,High,2020-03-12,631
+683,C000683,50,Male,Salaried,High,Corporate,Savings,Low,2018-09-18,626
+684,C000684,68,Female,Salaried,Low,Retail,Current,Medium,2017-06-26,608
+685,C000685,48,Female,Salaried,Mid,Premium,Savings,Low,2020-08-15,778
+686,C000686,26,Female,Salaried,Mid,Retail,Current,Low,2022-06-18,640
+687,C000687,52,Female,Salaried,Low,Retail,Savings,Low,2019-01-06,550
+688,C000688,43,Male,Self-Employed,Low,Retail,Savings,Low,2016-09-18,818
+689,C000689,56,Female,Self-Employed,Mid,Premium,Savings,Medium,2023-07-15,835
+690,C000690,28,Male,Self-Employed,High,Retail,Savings,Low,2013-04-24,746
+691,C000691,27,Male,Self-Employed,Mid,Corporate,Savings,Medium,2014-04-18,823
+692,C000692,47,Male,Self-Employed,Mid,Retail,Current,Low,2022-11-02,627
+693,C000693,22,Male,Salaried,Mid,Premium,Savings,High,2023-11-19,690
+694,C000694,40,Male,Self-Employed,Mid,Corporate,Savings,Low,2015-12-06,837
+695,C000695,28,Male,Homemaker,Mid,Premium,Savings,High,2015-01-02,620
+696,C000696,57,Female,Self-Employed,High,Premium,Current,Medium,2019-07-07,599
+697,C000697,33,Male,Business Owner,Mid,Premium,Salary,High,2023-10-18,629
+698,C000698,41,Female,Salaried,Mid,Retail,Current,Low,2015-12-24,784
+699,C000699,44,Male,Student,Low,Corporate,Savings,Medium,2013-06-06,836
+700,C000700,46,Male,Student,High,Retail,Current,Low,2014-03-21,704
+701,C000701,51,Female,Self-Employed,Low,Premium,Salary,Low,2019-09-10,609
+702,C000702,50,Male,Homemaker,Low,Premium,NRI,Low,2017-11-15,582
+703,C000703,52,Male,Salaried,Mid,Retail,Savings,Low,2016-11-16,676
+704,C000704,39,Male,Salaried,Mid,Retail,Savings,High,2021-03-04,770
+705,C000705,62,Male,Student,Mid,Retail,Savings,Low,2021-10-27,749
+706,C000706,40,Other,Student,Mid,Corporate,Savings,Medium,2016-07-08,675
+707,C000707,25,Male,Salaried,Mid,SME,Current,Medium,2017-11-23,590
+708,C000708,22,Female,Salaried,Low,Premium,Savings,Medium,2019-10-20,824
+709,C000709,62,Male,Salaried,High,Premium,Savings,Medium,2018-09-26,846
+710,C000710,36,Female,Salaried,Mid,SME,Current,Low,2014-04-19,634
+711,C000711,29,Female,Student,Mid,Retail,NRI,Medium,2017-04-27,638
+712,C000712,36,Female,Self-Employed,Mid,Retail,Savings,Low,2023-02-02,591
+713,C000713,36,Male,Salaried,Low,Premium,Current,High,2019-06-20,669
+714,C000714,60,Male,Salaried,Mid,Corporate,Savings,Medium,2015-02-18,828
+715,C000715,43,Male,Salaried,Mid,Corporate,NRI,High,2015-11-10,582
+716,C000716,39,Female,Salaried,Mid,Retail,NRI,Low,2013-07-01,825
+717,C000717,37,Female,Business Owner,Mid,Retail,Savings,Low,2020-12-13,702
+718,C000718,23,Female,Homemaker,High,Retail,Current,Low,2017-11-22,639
+719,C000719,57,Male,Student,Mid,Retail,NRI,Low,2013-01-07,653
+720,C000720,41,Female,Salaried,High,Retail,Savings,Low,2018-10-31,561
+721,C000721,37,Female,Retired,Mid,Corporate,Savings,Medium,2023-05-20,709
+722,C000722,24,Male,Student,Low,Retail,Current,Low,2022-01-17,745
+723,C000723,51,Male,Student,Low,Corporate,Savings,Medium,2019-01-15,811
+724,C000724,23,Female,Self-Employed,Mid,Retail,Savings,High,2020-09-14,640
+725,C000725,56,Female,Salaried,Low,Premium,NRI,Medium,2021-01-25,746
+726,C000726,47,Female,Salaried,Low,Retail,Current,Low,2023-07-19,618
+727,C000727,26,Male,Salaried,High,Retail,Savings,Low,2021-04-28,769
+728,C000728,23,Female,Salaried,High,Retail,Savings,Low,2021-04-07,763
+729,C000729,41,Male,Salaried,Mid,SME,Savings,Low,2020-07-09,695
+730,C000730,55,Male,Self-Employed,Low,Corporate,Savings,Medium,2015-03-19,782
+731,C000731,55,Male,Business Owner,Low,Retail,Savings,Low,2017-01-31,783
+732,C000732,41,Female,Self-Employed,Low,Retail,Current,High,2017-11-02,763
+733,C000733,46,Female,Salaried,Mid,SME,Savings,Medium,2013-10-14,610
+734,C000734,41,Female,Homemaker,High,Retail,Savings,Medium,2023-08-23,627
+735,C000735,46,Male,Retired,Mid,Retail,Savings,Low,2020-06-13,644
+736,C000736,35,Female,Student,Low,Premium,Salary,Low,2023-04-30,765
+737,C000737,68,Male,Homemaker,Mid,SME,Savings,Medium,2016-09-14,762
+738,C000738,65,Female,Self-Employed,Mid,Retail,Savings,Low,2019-12-28,749
+739,C000739,64,Male,Homemaker,Mid,Retail,Savings,Low,2016-07-09,580
+740,C000740,64,Male,Salaried,Mid,SME,Current,Low,2020-06-10,839
+741,C000741,60,Male,Salaried,Mid,Retail,Current,Low,2022-07-06,684
+742,C000742,33,Male,Salaried,Low,Retail,Savings,Medium,2014-05-26,632
+743,C000743,69,Female,Salaried,Low,Premium,Savings,Low,2021-01-27,596
+744,C000744,26,Male,Salaried,High,Corporate,Savings,Medium,2023-02-04,755
+745,C000745,23,Male,Business Owner,Low,Retail,Savings,Low,2016-05-15,626
+746,C000746,37,Female,Student,Low,SME,Savings,Medium,2018-09-09,808
+747,C000747,51,Male,Self-Employed,Low,Premium,Savings,High,2016-06-20,641
+748,C000748,68,Female,Salaried,Low,Retail,Savings,High,2020-06-24,649
+749,C000749,64,Female,Student,Mid,SME,Savings,Low,2017-07-31,744
+750,C000750,59,Female,Business Owner,High,Retail,Savings,Low,2016-08-29,741
+751,C000751,66,Male,Salaried,Mid,Retail,Current,Low,2017-07-07,617
+752,C000752,63,Female,Business Owner,Mid,Premium,Savings,Medium,2020-10-26,791
+753,C000753,45,Female,Salaried,Mid,Retail,Savings,Medium,2016-04-26,639
+754,C000754,51,Male,Salaried,Mid,Retail,Savings,Medium,2019-03-21,559
+755,C000755,58,Male,Retired,High,Retail,Salary,Low,2014-06-06,813
+756,C000756,60,Female,Salaried,High,Retail,NRI,Medium,2015-02-25,817
+757,C000757,32,Female,Self-Employed,Low,Corporate,Savings,Low,2017-09-19,667
+758,C000758,35,Female,Retired,Mid,Premium,Savings,Medium,2020-06-16,799
+759,C000759,44,Female,Business Owner,Mid,SME,Savings,Low,2023-07-19,608
+760,C000760,37,Female,Salaried,High,Retail,Savings,Medium,2017-04-02,744
+761,C000761,42,Male,Salaried,Mid,Retail,Savings,Low,2020-08-06,599
+762,C000762,25,Male,Salaried,High,Retail,Current,Low,2021-05-23,845
+763,C000763,54,Male,Business Owner,Mid,Retail,Savings,Medium,2023-02-15,646
+764,C000764,68,Female,Self-Employed,Low,Retail,NRI,Low,2014-12-14,676
+765,C000765,35,Male,Salaried,Mid,Corporate,Savings,Medium,2019-11-27,795
+766,C000766,40,Female,Homemaker,High,SME,NRI,Medium,2019-05-21,636
+767,C000767,26,Female,Self-Employed,High,SME,Current,Medium,2016-05-17,626
+768,C000768,57,Female,Salaried,Low,Retail,Savings,Low,2017-07-22,753
+769,C000769,52,Male,Self-Employed,Mid,Corporate,Savings,Low,2019-02-23,695
+770,C000770,66,Female,Business Owner,Mid,Retail,Savings,Medium,2022-05-08,698
+771,C000771,39,Male,Salaried,Low,Retail,Savings,Low,2013-01-02,660
+772,C000772,65,Female,Salaried,Mid,Corporate,Savings,Medium,2016-05-29,678
+773,C000773,52,Male,Student,Low,Premium,Current,Low,2016-03-21,802
+774,C000774,51,Male,Self-Employed,High,Retail,Savings,Low,2015-05-11,715
+775,C000775,42,Female,Self-Employed,Mid,Retail,Salary,Low,2017-10-27,846
+776,C000776,68,Male,Self-Employed,High,Retail,Savings,Low,2021-10-24,686
+777,C000777,51,Male,Salaried,Low,Premium,Salary,Low,2019-07-04,828
+778,C000778,62,Female,Salaried,Mid,Retail,Savings,Medium,2019-10-21,560
+779,C000779,25,Female,Self-Employed,Low,SME,Current,Medium,2020-05-05,620
+780,C000780,26,Female,Salaried,Low,Retail,Savings,Low,2016-08-12,708
+781,C000781,62,Female,Salaried,Low,Retail,Savings,High,2018-03-20,765
+782,C000782,66,Female,Student,Low,Retail,NRI,Medium,2017-12-15,575
+783,C000783,31,Male,Homemaker,Mid,Premium,Savings,High,2017-12-17,835
+784,C000784,48,Male,Student,Low,Retail,Current,Medium,2020-07-30,711
+785,C000785,37,Male,Retired,Mid,Premium,Current,Medium,2015-05-26,651
+786,C000786,51,Female,Salaried,Mid,Corporate,Savings,Low,2018-09-25,618
+787,C000787,34,Female,Homemaker,High,SME,Savings,Low,2018-04-23,682
+788,C000788,57,Male,Salaried,High,Corporate,Current,Low,2021-11-26,738
+789,C000789,42,Male,Homemaker,Mid,Corporate,Savings,Medium,2023-02-09,760
+790,C000790,66,Female,Homemaker,Mid,Premium,Current,Low,2023-10-07,792
+791,C000791,61,Male,Business Owner,Low,Corporate,NRI,Medium,2021-12-05,715
+792,C000792,66,Female,Homemaker,High,Retail,Savings,Low,2021-04-03,610
+793,C000793,36,Male,Self-Employed,Low,Retail,Savings,Medium,2014-11-27,828
+794,C000794,41,Female,Salaried,Low,Retail,Current,Low,2020-05-22,662
+795,C000795,41,Male,Self-Employed,Low,Retail,Savings,Low,2013-12-14,579
+796,C000796,66,Female,Self-Employed,Mid,Retail,Savings,Low,2016-03-08,710
+797,C000797,26,Female,Salaried,Low,SME,Savings,Low,2018-10-13,783
+798,C000798,53,Female,Business Owner,Mid,Retail,Savings,Low,2020-06-12,719
+799,C000799,27,Female,Homemaker,Low,Retail,Savings,Medium,2020-02-06,735
+800,C000800,51,Female,Salaried,Mid,Premium,Savings,Low,2019-12-12,606
+801,C000801,47,Female,Student,Low,Retail,Current,Low,2016-10-04,789
+802,C000802,58,Male,Retired,Low,Retail,Savings,Medium,2014-01-18,806
+803,C000803,34,Female,Retired,High,Retail,Savings,Low,2022-03-07,750
+804,C000804,50,Female,Homemaker,Low,Retail,Salary,High,2023-09-05,655
+805,C000805,26,Male,Self-Employed,High,Retail,Current,High,2021-06-04,839
+806,C000806,46,Female,Homemaker,Mid,Corporate,NRI,Low,2015-08-21,650
+807,C000807,34,Female,Student,Low,Premium,Savings,Low,2020-07-18,646
+808,C000808,45,Female,Salaried,High,Retail,Current,Low,2016-06-25,702
+809,C000809,52,Male,Self-Employed,Low,Retail,Savings,Medium,2015-07-10,578
+810,C000810,41,Male,Business Owner,High,Retail,Savings,Medium,2022-01-17,702
+811,C000811,29,Other,Salaried,Low,Corporate,Savings,Medium,2015-03-27,622
+812,C000812,30,Female,Business Owner,High,Retail,Savings,Medium,2014-08-27,803
+813,C000813,42,Male,Business Owner,Low,Retail,NRI,Low,2013-04-11,553
+814,C000814,41,Female,Salaried,Mid,Corporate,Savings,Medium,2013-07-09,786
+815,C000815,36,Female,Self-Employed,Mid,Retail,Current,Medium,2015-09-30,587
+816,C000816,47,Male,Student,High,Retail,Current,Medium,2018-05-01,569
+817,C000817,63,Female,Self-Employed,High,Retail,Current,High,2019-11-09,662
+818,C000818,32,Male,Salaried,High,SME,Savings,Medium,2022-07-13,572
+819,C000819,58,Male,Salaried,High,Corporate,Current,Low,2021-08-14,685
+820,C000820,62,Male,Salaried,Low,Premium,Savings,Low,2013-10-26,797
+821,C000821,32,Female,Retired,Low,Retail,Savings,Low,2018-02-09,646
+822,C000822,48,Male,Salaried,Low,Premium,Salary,Low,2017-08-25,582
+823,C000823,51,Male,Business Owner,Mid,SME,Savings,High,2022-12-09,684
+824,C000824,40,Male,Salaried,Mid,SME,Savings,Low,2020-01-24,804
+825,C000825,55,Female,Salaried,Mid,Retail,NRI,Medium,2019-06-16,827
+826,C000826,59,Female,Student,Low,Corporate,Savings,Medium,2015-03-08,682
+827,C000827,44,Male,Business Owner,Mid,Retail,Current,Low,2021-01-21,787
+828,C000828,22,Male,Salaried,Low,Retail,Savings,High,2020-10-23,564
+829,C000829,24,Female,Self-Employed,Mid,Premium,Savings,High,2017-04-22,826
+830,C000830,24,Male,Salaried,Mid,Retail,Savings,Medium,2018-07-18,675
+831,C000831,49,Male,Self-Employed,Mid,SME,Savings,Low,2017-06-25,566
+832,C000832,35,Male,Business Owner,Mid,Retail,Savings,Low,2015-09-27,599
+833,C000833,51,Male,Salaried,Mid,Premium,Current,Low,2014-08-28,684
+834,C000834,26,Male,Salaried,Low,SME,Savings,Low,2020-05-11,667
+835,C000835,36,Male,Salaried,Mid,SME,Salary,Medium,2020-09-17,609
+836,C000836,59,Male,Retired,Low,Retail,Savings,High,2013-01-23,674
+837,C000837,35,Female,Homemaker,Mid,Retail,Savings,Medium,2023-01-05,665
+838,C000838,35,Male,Salaried,Mid,Premium,Current,High,2021-06-03,722
+839,C000839,29,Female,Student,Low,Retail,Salary,Medium,2022-08-26,736
+840,C000840,29,Female,Salaried,Low,SME,Savings,Low,2021-08-21,637
+841,C000841,40,Male,Salaried,High,SME,Current,High,2022-12-06,752
+842,C000842,53,Female,Student,High,Retail,NRI,Low,2014-03-13,731
+843,C000843,52,Male,Retired,Mid,Retail,Savings,High,2021-09-24,717
+844,C000844,50,Female,Homemaker,Low,Retail,NRI,Low,2017-10-08,730
+845,C000845,62,Male,Self-Employed,Low,SME,Savings,Low,2015-06-16,849
+846,C000846,32,Male,Salaried,Mid,Retail,Current,High,2014-12-22,679
+847,C000847,66,Male,Student,High,Retail,Salary,Medium,2022-01-07,698
+848,C000848,34,Other,Salaried,Low,Retail,Current,High,2023-09-29,758
+849,C000849,48,Male,Self-Employed,Mid,Premium,Savings,High,2020-10-21,660
+850,C000850,40,Female,Salaried,Low,Retail,Savings,Low,2018-10-23,686
+851,C000851,47,Male,Business Owner,High,Retail,Salary,Medium,2018-03-18,760
+852,C000852,58,Female,Salaried,Mid,SME,Savings,Low,2013-07-25,695
+853,C000853,69,Male,Salaried,Mid,SME,Savings,Medium,2019-04-03,633
+854,C000854,30,Female,Retired,Mid,Corporate,Current,Medium,2015-10-18,579
+855,C000855,49,Male,Salaried,Mid,Retail,Savings,Low,2023-04-16,614
+856,C000856,53,Male,Self-Employed,Low,Retail,Savings,Medium,2022-07-07,573
+857,C000857,24,Male,Salaried,Low,Premium,Savings,Medium,2014-05-13,760
+858,C000858,53,Male,Salaried,High,Retail,Savings,Low,2018-02-13,771
+859,C000859,26,Female,Salaried,High,SME,Current,Medium,2014-07-01,639
+860,C000860,29,Male,Salaried,High,Premium,Current,Medium,2021-12-27,655
+861,C000861,35,Female,Retired,Mid,Retail,Savings,High,2018-03-19,721
+862,C000862,24,Male,Salaried,High,SME,NRI,Low,2020-06-27,779
+863,C000863,45,Female,Homemaker,Low,SME,NRI,Low,2018-12-16,626
+864,C000864,34,Male,Self-Employed,Mid,Retail,Current,Medium,2019-04-09,617
+865,C000865,64,Male,Self-Employed,Mid,Premium,Savings,Low,2019-09-05,641
+866,C000866,50,Female,Self-Employed,Mid,Retail,Current,High,2016-07-23,637
+867,C000867,29,Male,Self-Employed,Mid,Retail,Savings,Low,2023-08-28,599
+868,C000868,63,Male,Student,Low,Retail,Current,Medium,2021-06-21,652
+869,C000869,52,Female,Salaried,Mid,Premium,Current,Medium,2022-12-31,595
+870,C000870,47,Female,Salaried,High,SME,Savings,Low,2017-12-18,728
+871,C000871,39,Male,Retired,Mid,Premium,Salary,Low,2019-11-15,816
+872,C000872,39,Male,Retired,Low,Retail,Savings,Medium,2022-02-21,817
+873,C000873,28,Female,Retired,Low,Premium,Current,Medium,2021-01-25,557
+874,C000874,69,Male,Self-Employed,Low,Retail,Savings,Low,2023-01-02,814
+875,C000875,59,Male,Student,Low,Corporate,Salary,High,2018-08-30,627
+876,C000876,69,Male,Self-Employed,Mid,Retail,Savings,Low,2017-10-14,789
+877,C000877,37,Female,Self-Employed,Mid,Retail,Savings,Low,2022-04-26,807
+878,C000878,54,Female,Salaried,Mid,Retail,Savings,Medium,2023-03-04,745
+879,C000879,24,Male,Self-Employed,Mid,Corporate,Savings,Low,2019-02-23,680
+880,C000880,59,Male,Salaried,High,Retail,Savings,High,2018-01-01,810
+881,C000881,25,Male,Salaried,Low,Corporate,Current,Low,2023-01-23,791
+882,C000882,57,Female,Retired,Mid,Retail,Savings,Low,2014-10-14,720
+883,C000883,25,Male,Salaried,High,Retail,Savings,Low,2021-05-05,696
+884,C000884,63,Male,Salaried,Low,Retail,Savings,Medium,2022-08-30,819
+885,C000885,30,Female,Salaried,Low,SME,NRI,Medium,2018-04-29,698
+886,C000886,61,Male,Retired,High,SME,Current,Medium,2018-01-18,848
+887,C000887,38,Female,Self-Employed,Mid,Retail,Current,Low,2015-11-28,577
+888,C000888,38,Male,Self-Employed,Mid,Retail,Current,Low,2021-06-07,698
+889,C000889,54,Male,Student,Low,Retail,Savings,Medium,2015-10-10,829
+890,C000890,41,Male,Student,Mid,Premium,Savings,Low,2022-06-03,731
+891,C000891,35,Female,Salaried,Mid,Retail,Savings,High,2020-02-25,715
+892,C000892,43,Female,Business Owner,Low,SME,NRI,Low,2016-02-10,566
+893,C000893,48,Female,Student,Mid,SME,Salary,Medium,2021-08-03,699
+894,C000894,64,Male,Business Owner,Low,Retail,Savings,Low,2021-09-21,594
+895,C000895,24,Female,Salaried,Mid,Retail,Savings,Medium,2018-11-06,738
+896,C000896,45,Male,Retired,Low,Corporate,Savings,Low,2018-06-08,688
+897,C000897,51,Male,Self-Employed,Low,Corporate,Savings,Low,2020-01-12,610
+898,C000898,29,Female,Salaried,Low,Retail,Current,Low,2015-09-07,843
+899,C000899,43,Male,Self-Employed,Low,Retail,Savings,Low,2016-01-30,582
+900,C000900,46,Male,Salaried,High,Retail,Salary,Low,2017-12-07,848
+901,C000901,31,Male,Salaried,Low,Retail,Savings,Medium,2013-11-14,661
+902,C000902,50,Male,Student,Mid,Retail,Salary,Medium,2021-01-01,840
+903,C000903,61,Male,Salaried,Low,Retail,Current,Medium,2016-03-16,586
+904,C000904,22,Female,Self-Employed,Mid,Premium,Current,Medium,2015-08-19,649
+905,C000905,42,Male,Self-Employed,High,Retail,Current,Medium,2016-01-18,572
+906,C000906,60,Female,Salaried,Low,Retail,Current,Low,2016-10-07,767
+907,C000907,45,Female,Homemaker,High,Retail,Current,Low,2016-08-02,638
+908,C000908,30,Male,Salaried,Low,Corporate,Current,Low,2023-01-06,758
+909,C000909,65,Male,Salaried,Mid,Corporate,Current,Medium,2019-01-22,820
+910,C000910,47,Male,Salaried,Mid,Retail,Salary,Low,2013-11-27,786
+911,C000911,30,Female,Salaried,High,Retail,Current,Low,2014-07-21,758
+912,C000912,41,Male,Salaried,Mid,SME,Current,Medium,2014-09-10,827
+913,C000913,56,Female,Business Owner,Mid,Retail,NRI,Low,2015-08-06,755
+914,C000914,57,Male,Homemaker,Low,Retail,Savings,High,2017-04-18,627
+915,C000915,63,Female,Salaried,Low,Retail,Savings,High,2020-10-13,647
+916,C000916,57,Male,Business Owner,High,Retail,Savings,Low,2014-09-18,643
+917,C000917,30,Male,Business Owner,Mid,Retail,Savings,Low,2020-12-03,629
+918,C000918,43,Female,Student,Mid,SME,NRI,Low,2015-05-27,587
+919,C000919,22,Female,Self-Employed,Mid,Premium,Savings,Medium,2013-09-21,777
+920,C000920,26,Male,Salaried,Mid,Retail,Current,Low,2017-08-27,683
+921,C000921,30,Female,Salaried,High,SME,Savings,Medium,2017-07-28,745
+922,C000922,58,Male,Business Owner,Mid,Retail,Savings,Medium,2016-09-17,831
+923,C000923,59,Female,Student,Mid,Retail,Current,Low,2019-02-01,650
+924,C000924,40,Female,Salaried,High,Premium,NRI,Low,2018-03-24,624
+925,C000925,29,Male,Salaried,Low,Premium,Savings,Medium,2017-08-31,843
+926,C000926,63,Male,Retired,Low,Retail,Current,Low,2013-09-13,757
+927,C000927,64,Male,Student,Mid,Retail,Current,Medium,2015-04-28,632
+928,C000928,53,Female,Homemaker,Low,Premium,Savings,Low,2022-05-05,692
+929,C000929,34,Female,Student,Mid,Premium,Savings,Medium,2017-09-17,605
+930,C000930,41,Male,Salaried,High,Premium,Salary,High,2017-05-15,836
+931,C000931,57,Male,Self-Employed,Mid,Retail,Savings,High,2023-02-24,760
+932,C000932,64,Female,Business Owner,Mid,Retail,Savings,Low,2021-08-20,728
+933,C000933,65,Other,Salaried,High,Retail,Savings,Low,2019-07-21,607
+934,C000934,58,Female,Self-Employed,Mid,Retail,Current,Medium,2023-08-12,622
+935,C000935,51,Male,Business Owner,Mid,SME,Current,Low,2020-10-19,764
+936,C000936,31,Male,Salaried,Mid,Retail,Current,Low,2013-03-22,815
+937,C000937,52,Male,Student,High,Retail,Savings,High,2022-08-11,622
+938,C000938,46,Female,Self-Employed,Mid,Corporate,NRI,Low,2022-11-17,820
+939,C000939,50,Male,Homemaker,Mid,Retail,Savings,Low,2021-08-02,783
+940,C000940,45,Female,Salaried,High,Retail,Savings,Low,2019-06-17,568
+941,C000941,60,Male,Salaried,Mid,Corporate,Savings,Medium,2017-04-08,662
+942,C000942,42,Female,Business Owner,Mid,Corporate,Savings,Medium,2018-05-08,612
+943,C000943,62,Female,Salaried,High,Premium,NRI,Low,2013-01-25,733
+944,C000944,30,Female,Business Owner,Mid,Retail,Salary,Low,2023-07-29,826
+945,C000945,63,Male,Student,Mid,Premium,Savings,Low,2016-12-11,711
+946,C000946,63,Male,Salaried,High,Corporate,NRI,Medium,2016-05-08,792
+947,C000947,23,Male,Self-Employed,Mid,Retail,Current,Low,2021-06-14,694
+948,C000948,25,Female,Self-Employed,Mid,Retail,Salary,High,2017-05-17,695
+949,C000949,29,Female,Salaried,High,Corporate,Savings,Low,2022-07-28,630
+950,C000950,53,Female,Retired,High,Retail,Current,High,2023-01-01,592
+951,C000951,35,Female,Student,Mid,Corporate,Savings,Low,2023-09-11,842
+952,C000952,34,Female,Business Owner,Low,Retail,NRI,Medium,2022-05-17,725
+953,C000953,42,Male,Business Owner,Mid,Retail,Savings,Low,2017-09-13,618
+954,C000954,45,Female,Self-Employed,Mid,Retail,Current,Low,2019-01-14,605
+955,C000955,39,Male,Retired,Mid,Corporate,Savings,High,2021-05-20,668
+956,C000956,66,Male,Business Owner,Mid,Retail,Savings,High,2021-03-29,753
+957,C000957,61,Male,Business Owner,Mid,Premium,Current,Low,2019-02-15,604
+958,C000958,47,Male,Retired,Mid,Premium,NRI,Medium,2021-12-21,587
+959,C000959,53,Male,Salaried,Low,Premium,Current,Medium,2019-10-07,792
+960,C000960,65,Female,Student,Mid,SME,NRI,High,2023-01-26,750
+961,C000961,54,Male,Salaried,Mid,Premium,Savings,Low,2015-06-23,785
+962,C000962,52,Female,Salaried,Low,Retail,Savings,Medium,2018-06-23,564
+963,C000963,39,Male,Salaried,Low,SME,Savings,Low,2015-06-18,693
+964,C000964,56,Male,Homemaker,Mid,Premium,Savings,Low,2016-01-23,626
+965,C000965,33,Male,Retired,Mid,Retail,Current,High,2017-11-21,812
+966,C000966,46,Male,Business Owner,Low,Retail,Current,Low,2018-06-13,734
+967,C000967,66,Female,Business Owner,High,Corporate,Current,Low,2013-04-29,604
+968,C000968,52,Male,Self-Employed,Mid,Retail,Current,Medium,2017-05-12,553
+969,C000969,31,Female,Retired,High,Premium,Current,Medium,2016-10-08,848
+970,C000970,68,Male,Self-Employed,Mid,Retail,Savings,Low,2020-07-02,589
+971,C000971,55,Female,Salaried,Mid,Retail,Savings,Low,2020-08-13,779
+972,C000972,24,Female,Salaried,High,Premium,Current,High,2021-12-14,835
+973,C000973,67,Female,Student,Mid,Retail,Savings,Low,2017-07-15,687
+974,C000974,60,Male,Business Owner,Mid,Retail,Savings,Medium,2021-02-14,652
+975,C000975,29,Male,Salaried,Low,Premium,Savings,Medium,2014-11-08,556
+976,C000976,53,Male,Salaried,Mid,Retail,Current,Low,2022-06-05,713
+977,C000977,64,Female,Student,Low,Premium,Savings,High,2018-03-30,825
+978,C000978,50,Male,Salaried,Low,Corporate,Current,Medium,2023-04-25,598
+979,C000979,43,Male,Business Owner,Low,Corporate,Current,Low,2014-06-07,645
+980,C000980,41,Female,Homemaker,Low,Retail,Savings,Medium,2019-12-24,608
+981,C000981,27,Male,Self-Employed,High,Retail,Current,Medium,2018-12-28,780
+982,C000982,64,Female,Salaried,Low,Premium,Current,Medium,2013-04-21,726
+983,C000983,50,Male,Business Owner,Mid,SME,Current,High,2023-03-04,639
+984,C000984,63,Male,Student,High,Corporate,Current,Low,2017-06-02,831
+985,C000985,38,Female,Self-Employed,Mid,Corporate,Savings,Low,2019-08-22,585
+986,C000986,52,Male,Homemaker,Low,Retail,Current,Low,2019-05-01,720
+987,C000987,55,Female,Salaried,Mid,Retail,Savings,Low,2020-06-08,675
+988,C000988,59,Male,Self-Employed,Mid,Retail,Salary,Low,2013-04-22,848
+989,C000989,58,Male,Business Owner,Mid,Retail,NRI,High,2013-12-10,753
+990,C000990,25,Female,Retired,Mid,Retail,Current,Medium,2020-03-17,838
+991,C000991,23,Female,Salaried,High,SME,Savings,Medium,2017-10-22,646
+992,C000992,33,Female,Student,Mid,Retail,Savings,Medium,2014-07-10,787
+993,C000993,56,Male,Self-Employed,Mid,Retail,Savings,Medium,2022-09-21,722
+994,C000994,27,Female,Salaried,Mid,Retail,Savings,Low,2018-03-07,637
+995,C000995,67,Male,Salaried,Low,SME,Savings,High,2015-01-15,566
+996,C000996,29,Male,Retired,High,Premium,Savings,Low,2013-07-25,689
+997,C000997,42,Female,Salaried,Low,Premium,Savings,High,2015-12-02,803
+998,C000998,67,Male,Salaried,Mid,SME,Salary,Medium,2017-04-02,827
+999,C000999,56,Female,Salaried,High,Retail,Savings,Low,2016-09-02,700
+1000,C001000,69,Male,Retired,Mid,Premium,Salary,Medium,2015-05-17,689
+1001,C001001,36,Male,Business Owner,Mid,Retail,Salary,Medium,2018-02-06,663
+1002,C001002,28,Female,Student,Mid,Retail,Savings,Low,2016-08-31,617
+1003,C001003,36,Female,Salaried,High,Corporate,Current,Medium,2016-10-14,728
+1004,C001004,66,Female,Business Owner,Mid,Corporate,Savings,Low,2021-07-15,674
+1005,C001005,27,Female,Self-Employed,High,Retail,Current,Low,2022-11-13,782
+1006,C001006,68,Female,Student,Low,Retail,Savings,High,2017-04-02,696
+1007,C001007,38,Female,Retired,Mid,Premium,Savings,Medium,2016-02-14,660
+1008,C001008,25,Female,Salaried,High,Retail,Current,High,2021-06-08,787
+1009,C001009,43,Male,Business Owner,Low,Retail,Savings,Medium,2023-09-02,552
+1010,C001010,53,Male,Salaried,Mid,Retail,Current,Low,2022-05-01,760
+1011,C001011,43,Male,Self-Employed,Low,Retail,Savings,Medium,2017-09-23,574
+1012,C001012,48,Other,Salaried,Mid,Corporate,Savings,Medium,2015-10-31,733
+1013,C001013,67,Female,Salaried,Mid,Retail,Savings,High,2022-05-13,610
+1014,C001014,36,Male,Salaried,Mid,Retail,Savings,Low,2013-12-02,672
+1015,C001015,65,Female,Business Owner,Low,Premium,Savings,High,2018-04-11,604
+1016,C001016,43,Female,Salaried,Low,Corporate,Savings,High,2013-03-21,712
+1017,C001017,49,Male,Business Owner,Low,Retail,Savings,Medium,2021-05-27,736
+1018,C001018,63,Female,Self-Employed,Mid,Retail,NRI,High,2019-01-19,588
+1019,C001019,59,Female,Salaried,Mid,Retail,Savings,Low,2013-08-02,734
+1020,C001020,30,Male,Student,High,Premium,Current,High,2023-09-05,632
+1021,C001021,55,Female,Salaried,Mid,Premium,Savings,Medium,2016-12-04,744
+1022,C001022,57,Male,Self-Employed,Mid,Corporate,NRI,Low,2015-07-08,583
+1023,C001023,30,Female,Business Owner,High,SME,Savings,High,2020-04-16,662
+1024,C001024,36,Female,Salaried,Mid,Corporate,Savings,Low,2013-10-09,779
+1025,C001025,66,Female,Salaried,High,Premium,Savings,Low,2021-10-05,832
+1026,C001026,41,Male,Salaried,Mid,Retail,Savings,Medium,2023-09-27,836
+1027,C001027,29,Female,Retired,Low,Retail,Current,Low,2020-04-23,704
+1028,C001028,49,Female,Business Owner,Low,SME,Savings,Low,2013-06-14,714
+1029,C001029,40,Male,Business Owner,Mid,Retail,Salary,Medium,2021-06-17,731
+1030,C001030,37,Female,Business Owner,Low,Retail,Savings,Low,2013-05-08,788
+1031,C001031,32,Male,Salaried,Mid,Premium,Savings,Low,2023-08-26,686
+1032,C001032,63,Female,Self-Employed,Mid,Retail,Current,Low,2015-10-10,815
+1033,C001033,29,Male,Student,Mid,Premium,Savings,Low,2015-03-28,736
+1034,C001034,54,Male,Salaried,Mid,Premium,NRI,Medium,2022-05-31,589
+1035,C001035,31,Male,Salaried,Low,Retail,Savings,Medium,2013-03-25,716
+1036,C001036,39,Female,Salaried,Mid,Corporate,Current,High,2019-12-20,809
+1037,C001037,56,Male,Self-Employed,Mid,Retail,Savings,Medium,2014-09-17,692
+1038,C001038,64,Female,Homemaker,High,Retail,NRI,Low,2015-09-05,753
+1039,C001039,24,Male,Salaried,Mid,Premium,Current,High,2014-06-02,725
+1040,C001040,61,Male,Self-Employed,High,Premium,Savings,Medium,2018-04-24,811
+1041,C001041,48,Female,Salaried,Mid,Corporate,Savings,Medium,2020-07-05,801
+1042,C001042,49,Female,Homemaker,Mid,Retail,Savings,Medium,2014-04-14,749
+1043,C001043,67,Male,Salaried,Low,Premium,Salary,High,2019-04-30,748
+1044,C001044,27,Female,Self-Employed,Mid,Retail,Savings,Medium,2023-08-19,745
+1045,C001045,68,Female,Business Owner,Mid,SME,Savings,Low,2015-06-12,626
+1046,C001046,35,Female,Business Owner,Mid,Retail,Savings,Medium,2018-03-20,568
+1047,C001047,28,Male,Self-Employed,Mid,Premium,Savings,Low,2020-11-05,611
+1048,C001048,31,Male,Salaried,Mid,Retail,Current,Low,2015-11-16,830
+1049,C001049,36,Female,Salaried,Mid,Retail,Salary,Low,2021-08-08,799
+1050,C001050,52,Male,Salaried,Mid,Retail,Savings,Low,2017-02-19,776
+1051,C001051,50,Female,Salaried,Low,Corporate,NRI,Low,2014-11-19,676
+1052,C001052,63,Female,Self-Employed,High,Premium,Savings,Low,2019-10-18,607
+1053,C001053,38,Female,Salaried,Low,SME,Savings,Medium,2019-10-24,753
+1054,C001054,50,Female,Salaried,Low,Retail,Savings,Medium,2023-10-23,792
+1055,C001055,65,Other,Business Owner,Mid,Retail,Current,High,2021-05-22,801
+1056,C001056,36,Male,Homemaker,Mid,Retail,Salary,Low,2021-01-21,748
+1057,C001057,47,Female,Business Owner,Mid,Corporate,NRI,Medium,2014-04-15,789
+1058,C001058,33,Male,Salaried,Low,Retail,Savings,High,2021-09-21,688
+1059,C001059,46,Male,Salaried,Mid,Corporate,Savings,Low,2022-03-10,671
+1060,C001060,62,Female,Homemaker,Mid,SME,Savings,Medium,2014-11-02,598
+1061,C001061,26,Female,Salaried,High,SME,Salary,Medium,2023-10-27,664
+1062,C001062,25,Other,Salaried,High,Premium,NRI,Low,2016-06-28,800
+1063,C001063,65,Female,Self-Employed,Mid,Premium,Current,High,2014-03-19,556
+1064,C001064,69,Male,Business Owner,Mid,Corporate,Savings,Medium,2019-06-29,768
+1065,C001065,62,Male,Business Owner,Mid,Retail,Savings,Low,2013-04-16,626
+1066,C001066,52,Female,Salaried,Low,Premium,Savings,Low,2023-06-02,728
+1067,C001067,24,Male,Salaried,Mid,Retail,Savings,Low,2016-07-01,694
+1068,C001068,24,Male,Homemaker,Mid,Retail,Savings,Low,2019-06-17,703
+1069,C001069,47,Male,Salaried,High,Retail,Savings,Medium,2020-08-06,670
+1070,C001070,38,Male,Business Owner,Low,Retail,Savings,Medium,2023-03-09,673
+1071,C001071,31,Male,Business Owner,Mid,Retail,NRI,Low,2023-09-30,699
+1072,C001072,23,Male,Business Owner,Mid,Retail,Current,High,2017-03-18,817
+1073,C001073,45,Male,Salaried,Mid,Premium,Savings,Low,2017-06-13,550
+1074,C001074,32,Male,Salaried,Low,Retail,Savings,Low,2023-07-24,710
+1075,C001075,45,Other,Self-Employed,High,Premium,Savings,Low,2021-01-07,793
+1076,C001076,56,Male,Retired,Mid,Retail,Current,Medium,2015-03-24,800
+1077,C001077,44,Male,Retired,Mid,Premium,Current,Low,2013-11-08,613
+1078,C001078,53,Female,Salaried,Low,Premium,Current,Low,2019-08-23,848
+1079,C001079,44,Male,Salaried,Mid,Premium,Current,Low,2020-09-29,797
+1080,C001080,55,Female,Retired,Mid,Premium,Savings,Medium,2022-04-26,846
+1081,C001081,62,Female,Business Owner,Low,Retail,Savings,High,2020-01-14,664
+1082,C001082,40,Male,Retired,Low,Corporate,Savings,Low,2015-09-22,844
+1083,C001083,23,Male,Salaried,High,Retail,Savings,Low,2014-02-22,550
+1084,C001084,23,Female,Self-Employed,Low,Retail,Current,Medium,2020-10-26,590
+1085,C001085,36,Female,Business Owner,Low,Premium,Savings,Medium,2021-08-31,722
+1086,C001086,42,Male,Business Owner,Mid,Retail,Savings,Low,2016-05-20,637
+1087,C001087,56,Female,Self-Employed,Mid,Premium,Savings,High,2022-07-15,647
+1088,C001088,26,Male,Salaried,Low,Premium,Salary,Medium,2020-09-03,637
+1089,C001089,64,Other,Self-Employed,Mid,Retail,Savings,Low,2019-09-26,800
+1090,C001090,48,Male,Salaried,Low,Retail,Current,Medium,2022-01-13,690
+1091,C001091,45,Female,Self-Employed,Low,Retail,Savings,High,2014-05-11,620
+1092,C001092,28,Female,Homemaker,Low,SME,Savings,Medium,2021-12-06,686
+1093,C001093,27,Female,Salaried,High,Premium,Savings,Low,2019-05-08,648
+1094,C001094,67,Male,Student,Low,Retail,Current,Low,2021-10-11,700
+1095,C001095,54,Male,Salaried,Low,Retail,Savings,Low,2013-06-18,724
+1096,C001096,38,Male,Business Owner,Mid,Premium,NRI,Low,2016-11-23,716
+1097,C001097,67,Male,Homemaker,High,Corporate,Savings,Medium,2018-12-23,806
+1098,C001098,63,Male,Salaried,Low,Retail,Savings,Medium,2017-10-21,773
+1099,C001099,51,Female,Salaried,Mid,Retail,Salary,Medium,2020-06-02,614
+1100,C001100,29,Male,Self-Employed,Low,Corporate,Savings,High,2017-02-26,618
+1101,C001101,61,Male,Salaried,Mid,Retail,Current,Low,2013-10-10,616
+1102,C001102,67,Female,Business Owner,Mid,Retail,Current,High,2018-09-04,599
+1103,C001103,28,Female,Retired,Mid,SME,Savings,Medium,2020-04-06,640
+1104,C001104,27,Female,Self-Employed,Mid,Premium,Current,Low,2016-10-29,664
+1105,C001105,25,Other,Salaried,Mid,Retail,Savings,Medium,2013-02-21,606
+1106,C001106,22,Male,Self-Employed,Low,Retail,Savings,Low,2022-07-12,567
+1107,C001107,36,Male,Business Owner,Mid,Retail,Savings,Medium,2017-09-17,821
+1108,C001108,52,Female,Salaried,Low,Retail,NRI,Medium,2022-03-23,679
+1109,C001109,46,Female,Self-Employed,Mid,Corporate,Savings,Low,2018-07-01,818
+1110,C001110,68,Male,Business Owner,High,Retail,Current,Medium,2014-03-09,629
+1111,C001111,54,Female,Business Owner,High,Premium,Salary,Medium,2017-11-11,848
+1112,C001112,56,Male,Salaried,High,SME,Savings,Low,2023-10-11,751
+1113,C001113,26,Male,Business Owner,Mid,Retail,Savings,Low,2017-01-23,774
+1114,C001114,26,Female,Salaried,Mid,Retail,Savings,Low,2020-02-17,708
+1115,C001115,57,Female,Salaried,Low,Premium,Savings,Medium,2022-12-31,753
+1116,C001116,38,Female,Retired,Mid,SME,Savings,High,2022-04-18,686
+1117,C001117,35,Male,Business Owner,Mid,Corporate,Current,High,2018-02-27,622
+1118,C001118,50,Female,Salaried,Mid,Retail,Salary,Medium,2020-12-07,597
+1119,C001119,29,Male,Salaried,Mid,Premium,Salary,Medium,2014-09-19,567
+1120,C001120,55,Male,Salaried,Low,Premium,NRI,Low,2017-11-19,816
+1121,C001121,61,Female,Salaried,Mid,SME,NRI,Medium,2014-12-23,568
+1122,C001122,22,Female,Salaried,High,Retail,Savings,Low,2021-03-25,649
+1123,C001123,50,Female,Salaried,Low,Premium,Current,Low,2018-11-08,665
+1124,C001124,57,Female,Self-Employed,Mid,Corporate,NRI,Medium,2023-10-30,623
+1125,C001125,58,Female,Business Owner,High,Retail,Savings,Low,2020-04-18,829
+1126,C001126,50,Female,Business Owner,Mid,Retail,Salary,Medium,2016-01-12,818
+1127,C001127,26,Male,Business Owner,Mid,Retail,Savings,Medium,2019-11-28,674
+1128,C001128,53,Male,Salaried,Low,Retail,Current,Low,2022-01-24,665
+1129,C001129,45,Male,Homemaker,Mid,Retail,Current,Low,2023-04-25,723
+1130,C001130,40,Male,Student,High,SME,Salary,High,2019-01-14,730
+1131,C001131,33,Female,Student,Mid,Retail,Savings,Medium,2021-09-08,775
+1132,C001132,22,Male,Student,Mid,Retail,Current,Low,2018-06-04,706
+1133,C001133,28,Male,Retired,Low,Premium,Savings,Low,2018-03-20,713
+1134,C001134,38,Male,Self-Employed,Low,Retail,Savings,Medium,2017-11-20,620
+1135,C001135,55,Female,Salaried,High,Retail,Current,Medium,2022-04-06,771
+1136,C001136,64,Male,Business Owner,Mid,Premium,Current,Low,2021-03-14,675
+1137,C001137,28,Female,Business Owner,Mid,Corporate,Current,Low,2019-08-24,694
+1138,C001138,38,Male,Business Owner,Low,Premium,Savings,High,2016-01-05,725
+1139,C001139,24,Male,Self-Employed,Mid,Premium,Savings,Medium,2016-08-13,701
+1140,C001140,50,Female,Salaried,High,Retail,Current,High,2022-07-21,731
+1141,C001141,43,Female,Salaried,Mid,SME,Savings,Medium,2015-10-03,634
+1142,C001142,59,Male,Retired,Low,Retail,Savings,High,2022-04-26,670
+1143,C001143,64,Female,Self-Employed,Mid,Corporate,Salary,Low,2023-06-26,678
+1144,C001144,50,Female,Self-Employed,Mid,Retail,Savings,Medium,2013-12-21,555
+1145,C001145,63,Male,Salaried,Mid,SME,Current,Low,2016-02-17,732
+1146,C001146,26,Female,Salaried,High,Premium,Savings,Medium,2022-11-21,587
+1147,C001147,51,Female,Retired,Mid,Corporate,Savings,Low,2018-01-21,665
+1148,C001148,44,Female,Business Owner,High,Retail,Savings,Low,2015-09-26,651
+1149,C001149,42,Female,Student,Mid,Retail,Savings,High,2021-06-01,557
+1150,C001150,47,Female,Self-Employed,Low,Premium,Savings,High,2018-03-19,767
+1151,C001151,68,Female,Business Owner,Mid,Corporate,Savings,Low,2019-05-24,756
+1152,C001152,42,Female,Salaried,Low,Retail,Savings,Medium,2019-11-05,627
+1153,C001153,41,Female,Business Owner,High,SME,Savings,Low,2020-06-29,604
+1154,C001154,44,Female,Self-Employed,Mid,Corporate,Savings,Low,2017-04-02,777
+1155,C001155,25,Female,Self-Employed,Mid,Retail,Savings,Medium,2016-10-09,637
+1156,C001156,42,Female,Business Owner,Mid,Corporate,Savings,Low,2013-04-28,559
+1157,C001157,42,Male,Retired,Low,Premium,Salary,High,2018-07-18,839
+1158,C001158,22,Female,Salaried,Mid,Retail,Current,Low,2022-07-18,713
+1159,C001159,36,Female,Student,Mid,Retail,Current,Medium,2016-08-24,788
+1160,C001160,38,Male,Salaried,Low,Premium,Savings,Medium,2015-01-15,693
+1161,C001161,35,Female,Self-Employed,Mid,Premium,Salary,Low,2018-06-21,567
+1162,C001162,40,Male,Salaried,Low,Retail,Current,Low,2015-05-19,620
+1163,C001163,55,Male,Salaried,Mid,Premium,Current,Medium,2016-12-24,724
+1164,C001164,27,Female,Self-Employed,Mid,Premium,Savings,Medium,2021-12-12,837
+1165,C001165,66,Male,Salaried,Low,Premium,Salary,Low,2015-11-25,848
+1166,C001166,27,Female,Self-Employed,High,Retail,NRI,Medium,2016-10-26,797
+1167,C001167,26,Female,Retired,Low,Corporate,NRI,Low,2016-02-20,742
+1168,C001168,28,Male,Salaried,Low,Retail,Savings,Low,2022-11-15,817
+1169,C001169,54,Male,Student,Low,Retail,Savings,Low,2019-09-08,753
+1170,C001170,34,Male,Self-Employed,Mid,Retail,Savings,Low,2020-11-12,672
+1171,C001171,22,Female,Business Owner,Mid,Retail,Savings,Medium,2022-11-14,607
+1172,C001172,34,Other,Salaried,Mid,Corporate,NRI,Medium,2016-02-06,750
+1173,C001173,64,Female,Salaried,Low,Retail,Savings,High,2019-03-27,661
+1174,C001174,48,Male,Salaried,Low,Premium,Savings,Medium,2013-02-11,677
+1175,C001175,28,Female,Salaried,Mid,Retail,Savings,High,2018-10-18,585
+1176,C001176,24,Female,Salaried,High,Retail,Savings,Medium,2023-08-20,783
+1177,C001177,46,Female,Business Owner,High,SME,Savings,Medium,2015-02-22,596
+1178,C001178,54,Male,Retired,Low,Corporate,Current,High,2013-12-17,664
+1179,C001179,61,Female,Student,Mid,Retail,Current,Medium,2015-09-16,804
+1180,C001180,38,Female,Business Owner,High,Premium,Savings,Low,2021-01-28,772
+1181,C001181,66,Female,Salaried,Mid,Retail,Savings,Medium,2017-07-23,673
+1182,C001182,35,Male,Salaried,High,Retail,Savings,High,2018-06-25,709
+1183,C001183,58,Female,Salaried,Low,Corporate,Savings,Medium,2019-03-25,645
+1184,C001184,44,Female,Salaried,High,Corporate,Current,Medium,2021-07-03,656
+1185,C001185,45,Male,Self-Employed,Mid,Retail,Current,Medium,2015-09-12,669
+1186,C001186,50,Female,Self-Employed,High,SME,Current,High,2020-09-29,650
+1187,C001187,59,Female,Salaried,Mid,Premium,Current,Low,2018-05-05,652
+1188,C001188,48,Male,Salaried,Mid,Retail,Savings,Medium,2020-03-30,715
+1189,C001189,59,Male,Student,High,Premium,Salary,Low,2020-12-25,735
+1190,C001190,61,Female,Student,Low,Premium,NRI,Medium,2018-07-04,581
+1191,C001191,66,Male,Salaried,Mid,Premium,Salary,Medium,2018-01-10,615
+1192,C001192,44,Female,Retired,Mid,Retail,Savings,Low,2021-11-22,728
+1193,C001193,52,Male,Homemaker,Mid,Premium,Salary,Low,2013-03-12,816
+1194,C001194,57,Female,Salaried,High,Retail,NRI,Medium,2014-01-17,586
+1195,C001195,38,Male,Salaried,Low,Corporate,NRI,Low,2016-04-20,750
+1196,C001196,58,Female,Self-Employed,Mid,Premium,Savings,Low,2015-06-27,598
+1197,C001197,24,Female,Retired,Mid,Retail,Current,Medium,2017-07-15,824
+1198,C001198,57,Female,Retired,Low,Corporate,Salary,Low,2020-10-04,717
+1199,C001199,26,Female,Salaried,Mid,SME,Current,Low,2015-09-24,812
+1200,C001200,67,Male,Salaried,Low,SME,Current,High,2016-06-08,682
+1201,C001201,36,Female,Self-Employed,Mid,Retail,Salary,Low,2020-06-12,847
+1202,C001202,27,Male,Self-Employed,High,Retail,Savings,Low,2019-07-11,725
+1203,C001203,31,Male,Salaried,Mid,Premium,Current,Medium,2017-02-20,560
+1204,C001204,53,Male,Retired,Mid,Retail,Savings,Medium,2018-04-23,750
+1205,C001205,44,Male,Business Owner,High,SME,Salary,High,2019-03-18,846
+1206,C001206,69,Female,Student,Mid,Retail,Savings,High,2018-12-15,552
+1207,C001207,38,Female,Retired,High,Retail,Savings,Medium,2016-11-09,763
+1208,C001208,67,Male,Business Owner,Mid,Retail,Current,Low,2017-10-09,845
+1209,C001209,41,Male,Self-Employed,High,Retail,Current,Low,2021-05-14,581
+1210,C001210,65,Other,Business Owner,Low,Corporate,Current,Low,2019-03-05,597
+1211,C001211,62,Male,Salaried,High,Retail,Salary,Low,2016-09-16,801
+1212,C001212,36,Male,Business Owner,Low,Retail,Salary,Medium,2016-12-12,748
+1213,C001213,65,Male,Salaried,Mid,Retail,Savings,Medium,2020-11-18,638
+1214,C001214,67,Female,Business Owner,Mid,Premium,Savings,Low,2018-02-02,658
+1215,C001215,43,Female,Salaried,Mid,Retail,Savings,Medium,2016-01-15,840
+1216,C001216,27,Male,Salaried,Mid,Premium,Savings,Low,2016-06-09,657
+1217,C001217,25,Male,Salaried,Mid,Premium,Savings,Low,2015-10-27,589
+1218,C001218,44,Female,Salaried,Mid,Premium,Salary,Medium,2015-08-03,601
+1219,C001219,65,Female,Business Owner,Low,SME,NRI,Low,2014-05-10,661
+1220,C001220,66,Male,Business Owner,Low,SME,Savings,Low,2021-02-02,844
+1221,C001221,40,Female,Self-Employed,Low,SME,Savings,Low,2015-02-28,617
+1222,C001222,66,Male,Salaried,Mid,Retail,Current,Low,2016-07-16,738
+1223,C001223,52,Male,Salaried,Low,Retail,Savings,Medium,2014-05-05,758
+1224,C001224,65,Female,Salaried,Mid,Retail,Savings,High,2021-05-01,614
+1225,C001225,24,Male,Salaried,Mid,Corporate,NRI,Low,2019-01-04,611
+1226,C001226,49,Female,Retired,Low,SME,Salary,Low,2023-08-31,807
+1227,C001227,24,Male,Salaried,Mid,Corporate,Savings,Medium,2021-07-19,683
+1228,C001228,35,Male,Salaried,High,Retail,NRI,High,2020-09-27,671
+1229,C001229,39,Other,Salaried,Low,SME,Savings,Low,2015-01-29,720
+1230,C001230,48,Male,Salaried,Mid,Retail,Current,Low,2015-02-24,759
+1231,C001231,31,Female,Self-Employed,Mid,Retail,Savings,Medium,2015-06-06,845
+1232,C001232,36,Male,Business Owner,Mid,Retail,Savings,Medium,2021-04-14,638
+1233,C001233,40,Male,Salaried,Mid,Retail,Salary,Low,2018-06-07,716
+1234,C001234,30,Male,Salaried,Mid,Premium,Savings,Medium,2016-02-07,577
+1235,C001235,25,Female,Salaried,Mid,Retail,Current,Low,2021-02-15,787
+1236,C001236,36,Male,Salaried,Low,Retail,Savings,Medium,2019-08-12,612
+1237,C001237,69,Female,Salaried,Mid,Premium,Savings,Medium,2023-12-15,804
+1238,C001238,29,Male,Homemaker,Mid,Corporate,Savings,High,2021-07-11,590
+1239,C001239,22,Female,Business Owner,Low,Premium,Savings,Low,2018-11-19,578
+1240,C001240,28,Male,Self-Employed,Mid,Retail,Current,Low,2019-09-11,828
+1241,C001241,52,Female,Self-Employed,High,Corporate,Savings,Low,2016-03-05,629
+1242,C001242,39,Female,Self-Employed,Mid,SME,Current,High,2023-12-31,600
+1243,C001243,33,Female,Self-Employed,Mid,Retail,Current,Low,2014-02-16,661
+1244,C001244,69,Female,Business Owner,High,Premium,Current,Low,2022-05-04,639
+1245,C001245,51,Female,Business Owner,Mid,Retail,Savings,Low,2015-03-07,778
+1246,C001246,54,Female,Salaried,Mid,Retail,Salary,Medium,2016-04-28,699
+1247,C001247,68,Male,Self-Employed,Mid,Premium,Savings,Low,2015-07-21,792
+1248,C001248,28,Male,Self-Employed,High,Corporate,Savings,Low,2017-01-18,687
+1249,C001249,49,Female,Retired,Mid,Retail,Savings,Low,2015-01-05,684
+1250,C001250,24,Female,Business Owner,Mid,Corporate,Savings,High,2016-05-23,638
+1251,C001251,64,Female,Self-Employed,Mid,Corporate,Savings,Medium,2013-02-27,564
+1252,C001252,27,Male,Salaried,High,SME,Current,Medium,2020-12-10,723
+1253,C001253,52,Male,Business Owner,Mid,Retail,Savings,High,2018-12-28,639
+1254,C001254,59,Male,Salaried,Low,SME,Savings,High,2014-06-03,762
+1255,C001255,36,Female,Salaried,High,Retail,Current,Low,2016-01-29,610
+1256,C001256,28,Male,Salaried,Mid,Premium,Savings,High,2013-07-06,769
+1257,C001257,64,Male,Business Owner,Low,Retail,Savings,Low,2023-12-05,610
+1258,C001258,51,Male,Salaried,Mid,Retail,Savings,Low,2013-08-12,715
+1259,C001259,48,Male,Salaried,Mid,Premium,Current,High,2019-03-17,561
+1260,C001260,38,Female,Retired,High,Retail,Savings,Low,2016-04-11,765
+1261,C001261,39,Male,Salaried,Low,Retail,Savings,Low,2020-10-27,626
+1262,C001262,43,Female,Self-Employed,High,Retail,Savings,Low,2023-08-03,781
+1263,C001263,47,Male,Self-Employed,Mid,Premium,Current,Medium,2014-06-02,661
+1264,C001264,48,Male,Salaried,Low,Retail,Current,Low,2020-02-26,615
+1265,C001265,61,Male,Student,High,Corporate,NRI,Medium,2022-09-28,731
+1266,C001266,45,Male,Salaried,Mid,Retail,Savings,High,2021-06-11,753
+1267,C001267,29,Male,Self-Employed,Low,Retail,Savings,Medium,2018-07-04,755
+1268,C001268,42,Male,Self-Employed,Mid,Retail,Savings,Low,2014-02-25,835
+1269,C001269,50,Female,Business Owner,High,Retail,Savings,High,2022-10-15,654
+1270,C001270,64,Male,Business Owner,Mid,Retail,Savings,Low,2013-02-20,791
+1271,C001271,42,Female,Salaried,Low,Retail,Savings,Low,2019-06-10,784
+1272,C001272,24,Female,Salaried,Low,SME,Savings,Low,2016-03-10,725
+1273,C001273,52,Female,Business Owner,Low,Premium,Current,Medium,2018-04-07,760
+1274,C001274,48,Male,Self-Employed,Mid,Retail,Savings,Low,2018-05-15,580
+1275,C001275,67,Male,Student,Mid,Retail,Current,Low,2017-12-10,784
+1276,C001276,48,Male,Student,Low,Corporate,Savings,Low,2016-10-27,791
+1277,C001277,30,Male,Student,Low,Retail,Savings,Low,2015-01-26,702
+1278,C001278,54,Other,Self-Employed,Mid,Retail,Savings,Medium,2023-10-30,745
+1279,C001279,54,Male,Salaried,High,Corporate,Savings,Medium,2013-07-30,818
+1280,C001280,47,Male,Student,Mid,Premium,Savings,Medium,2015-11-01,719
+1281,C001281,49,Female,Self-Employed,High,Premium,Savings,Low,2023-07-22,781
+1282,C001282,65,Female,Salaried,Mid,Retail,Salary,Low,2022-08-31,733
+1283,C001283,64,Female,Retired,Low,Retail,Current,High,2018-05-11,824
+1284,C001284,52,Male,Retired,High,Premium,Savings,Low,2014-04-13,581
+1285,C001285,22,Male,Self-Employed,Mid,Retail,NRI,High,2022-03-22,726
+1286,C001286,41,Male,Salaried,Mid,Premium,Current,Low,2013-09-25,614
+1287,C001287,33,Male,Salaried,High,Premium,Current,High,2017-06-30,747
+1288,C001288,38,Male,Student,Low,Retail,NRI,Low,2018-07-08,576
+1289,C001289,36,Male,Retired,Low,SME,Savings,Low,2013-10-31,700
+1290,C001290,55,Male,Salaried,Mid,Corporate,Savings,Medium,2019-06-22,817
+1291,C001291,37,Male,Salaried,Low,Premium,Savings,Medium,2020-01-23,634
+1292,C001292,25,Male,Retired,Low,Retail,Savings,Low,2020-09-12,615
+1293,C001293,29,Female,Salaried,Low,Retail,Savings,Medium,2013-08-08,682
+1294,C001294,55,Female,Self-Employed,Low,Retail,Current,Medium,2014-09-14,631
+1295,C001295,67,Female,Homemaker,Mid,Retail,Salary,Low,2014-09-04,647
+1296,C001296,46,Male,Salaried,Low,SME,Salary,Low,2022-02-05,622
+1297,C001297,36,Male,Business Owner,Mid,Retail,NRI,Low,2019-04-25,579
+1298,C001298,49,Male,Salaried,Mid,Retail,NRI,Low,2023-08-24,674
+1299,C001299,30,Female,Salaried,Mid,Retail,Salary,Medium,2016-05-29,759
+1300,C001300,23,Female,Student,Low,Premium,Savings,Low,2013-12-15,821
+1301,C001301,38,Male,Self-Employed,Mid,Retail,Savings,Low,2015-10-14,762
+1302,C001302,31,Female,Homemaker,Low,Retail,Savings,Low,2014-05-01,682
+1303,C001303,30,Male,Self-Employed,Mid,Retail,NRI,Medium,2019-04-05,706
+1304,C001304,52,Female,Salaried,High,Corporate,Savings,Low,2021-07-29,596
+1305,C001305,23,Female,Salaried,Mid,Retail,Current,Low,2017-09-01,571
+1306,C001306,45,Female,Salaried,Mid,SME,Savings,Low,2019-10-20,632
+1307,C001307,40,Female,Salaried,Mid,Corporate,Savings,High,2019-09-08,783
+1308,C001308,38,Female,Salaried,Mid,Retail,Current,Low,2021-11-13,609
+1309,C001309,64,Male,Salaried,High,Corporate,Savings,Medium,2019-12-09,737
+1310,C001310,31,Female,Self-Employed,High,Retail,Savings,Low,2015-07-14,607
+1311,C001311,49,Male,Business Owner,Mid,SME,Savings,Low,2021-09-13,808
+1312,C001312,59,Female,Business Owner,Mid,Premium,Savings,Medium,2018-11-11,711
+1313,C001313,69,Female,Business Owner,High,Retail,Current,Low,2017-04-08,551
+1314,C001314,49,Female,Salaried,High,Retail,Savings,High,2018-01-20,820
+1315,C001315,22,Male,Salaried,Mid,Retail,Current,High,2023-03-11,692
+1316,C001316,24,Female,Business Owner,Mid,SME,Savings,Medium,2017-12-19,737
+1317,C001317,36,Female,Self-Employed,Low,Retail,NRI,Medium,2016-05-02,773
+1318,C001318,31,Female,Salaried,High,Premium,Savings,Low,2022-08-25,729
+1319,C001319,42,Male,Student,Low,Retail,Current,Low,2019-08-08,572
+1320,C001320,58,Male,Student,Mid,SME,Current,High,2017-10-23,586
+1321,C001321,36,Male,Self-Employed,Low,Retail,Savings,Medium,2016-06-04,656
+1322,C001322,44,Male,Salaried,Low,Premium,NRI,Medium,2019-05-19,846
+1323,C001323,35,Female,Student,Mid,Retail,Current,Low,2019-12-19,778
+1324,C001324,36,Male,Self-Employed,High,Premium,Savings,Low,2013-09-04,646
+1325,C001325,31,Female,Student,Low,Retail,Savings,High,2019-11-03,830
+1326,C001326,30,Male,Student,Mid,Retail,Salary,Low,2023-10-08,659
+1327,C001327,65,Male,Student,Low,Retail,Current,Low,2021-04-20,586
+1328,C001328,60,Female,Self-Employed,Low,Premium,Savings,Low,2014-02-11,589
+1329,C001329,26,Female,Salaried,Mid,Retail,Savings,Medium,2023-08-18,634
+1330,C001330,46,Male,Business Owner,Mid,Premium,NRI,Low,2021-07-22,737
+1331,C001331,63,Female,Business Owner,Low,Retail,Current,Medium,2015-05-02,789
+1332,C001332,47,Female,Business Owner,Mid,Corporate,Current,Low,2020-01-07,568
+1333,C001333,29,Male,Salaried,Low,SME,Savings,High,2015-05-15,810
+1334,C001334,43,Other,Salaried,Mid,Premium,Current,Medium,2015-12-20,707
+1335,C001335,46,Female,Retired,High,Retail,Savings,Low,2020-05-29,661
+1336,C001336,69,Female,Business Owner,High,Retail,Savings,Medium,2013-11-29,693
+1337,C001337,33,Male,Retired,Mid,Retail,Current,Low,2014-10-06,805
+1338,C001338,30,Female,Student,Mid,Retail,Salary,Low,2015-09-10,567
+1339,C001339,31,Male,Self-Employed,High,Premium,Savings,High,2014-12-13,733
+1340,C001340,69,Male,Business Owner,Low,Premium,Savings,Low,2019-03-11,836
+1341,C001341,31,Male,Retired,High,SME,Current,Low,2013-11-04,680
+1342,C001342,30,Male,Self-Employed,High,Retail,Savings,Low,2014-10-04,830
+1343,C001343,47,Female,Business Owner,Low,Premium,NRI,Low,2013-01-11,794
+1344,C001344,56,Female,Salaried,Low,Retail,Current,High,2017-08-01,557
+1345,C001345,48,Female,Self-Employed,High,Premium,Savings,Low,2018-01-20,742
+1346,C001346,52,Male,Business Owner,Mid,Retail,Salary,High,2020-09-24,556
+1347,C001347,40,Male,Salaried,Low,Retail,Current,High,2019-08-30,685
+1348,C001348,64,Male,Salaried,Low,Retail,NRI,Low,2018-04-09,568
+1349,C001349,59,Other,Salaried,Mid,Premium,Current,Low,2016-04-07,688
+1350,C001350,27,Male,Salaried,Mid,SME,NRI,High,2013-05-14,726
+1351,C001351,36,Female,Salaried,Mid,Retail,Savings,Low,2015-08-07,560
+1352,C001352,50,Female,Self-Employed,High,Retail,Savings,Low,2016-03-26,590
+1353,C001353,68,Male,Retired,Low,Retail,NRI,Low,2020-12-05,663
+1354,C001354,66,Female,Self-Employed,Mid,Premium,Savings,Medium,2016-03-04,729
+1355,C001355,26,Male,Salaried,Mid,Retail,Savings,Medium,2020-11-19,743
+1356,C001356,35,Female,Salaried,Mid,Corporate,Current,Low,2022-08-22,745
+1357,C001357,23,Female,Business Owner,Low,SME,NRI,Low,2018-02-03,774
+1358,C001358,44,Male,Salaried,High,SME,Savings,High,2013-10-19,810
+1359,C001359,65,Male,Student,High,Retail,NRI,Medium,2020-09-16,665
+1360,C001360,67,Female,Business Owner,Mid,Corporate,Current,Medium,2015-08-15,699
+1361,C001361,40,Female,Student,Mid,Premium,Savings,Medium,2023-05-13,667
+1362,C001362,45,Male,Salaried,Low,Retail,NRI,Low,2015-12-20,714
+1363,C001363,41,Female,Business Owner,Mid,Premium,Savings,Medium,2021-11-01,801
+1364,C001364,68,Female,Salaried,Mid,Corporate,Savings,Low,2021-11-15,816
+1365,C001365,48,Female,Retired,Mid,Retail,Savings,Low,2020-01-05,593
+1366,C001366,45,Male,Business Owner,High,Retail,Savings,Medium,2019-08-13,730
+1367,C001367,38,Female,Salaried,Mid,Retail,Savings,Low,2020-06-01,626
+1368,C001368,46,Female,Salaried,Mid,Premium,NRI,High,2022-01-06,665
+1369,C001369,67,Male,Salaried,Mid,Retail,Current,Low,2023-06-22,616
+1370,C001370,52,Male,Business Owner,Low,SME,Current,High,2015-03-22,562
+1371,C001371,49,Female,Salaried,Mid,Premium,Current,High,2017-10-08,641
+1372,C001372,49,Male,Self-Employed,Mid,Premium,Savings,Low,2014-04-16,795
+1373,C001373,43,Female,Salaried,Mid,Retail,Savings,Medium,2019-02-09,816
+1374,C001374,26,Male,Business Owner,Mid,Premium,NRI,Low,2015-07-10,688
+1375,C001375,65,Male,Student,Mid,Retail,Savings,High,2020-04-06,793
+1376,C001376,63,Female,Student,Mid,Retail,Savings,Low,2014-09-03,822
+1377,C001377,29,Male,Student,Mid,Premium,Current,Medium,2023-03-10,740
+1378,C001378,59,Male,Salaried,Mid,Retail,Savings,Low,2015-12-25,646
+1379,C001379,49,Male,Salaried,High,Premium,NRI,Low,2022-04-09,754
+1380,C001380,68,Female,Business Owner,Low,Retail,Savings,Low,2014-08-06,686
+1381,C001381,33,Male,Salaried,Low,Retail,Savings,Low,2013-10-20,626
+1382,C001382,46,Male,Self-Employed,Mid,Retail,Savings,Medium,2013-09-02,586
+1383,C001383,59,Female,Salaried,Low,SME,Current,Medium,2014-11-11,835
+1384,C001384,65,Male,Salaried,Low,Premium,Savings,Medium,2021-11-21,684
+1385,C001385,36,Female,Salaried,Mid,Premium,Savings,Low,2016-06-13,691
+1386,C001386,65,Male,Retired,Mid,Retail,NRI,Low,2019-09-04,803
+1387,C001387,62,Female,Salaried,Mid,Retail,Salary,Low,2021-05-26,597
+1388,C001388,55,Male,Self-Employed,High,SME,Savings,Medium,2022-03-31,804
+1389,C001389,66,Female,Salaried,Mid,Retail,Savings,High,2019-05-21,683
+1390,C001390,34,Male,Business Owner,High,Retail,Savings,Low,2023-05-02,839
+1391,C001391,29,Male,Salaried,Low,Premium,Salary,Low,2016-03-28,757
+1392,C001392,34,Male,Retired,Mid,Retail,Salary,Low,2017-12-04,650
+1393,C001393,57,Male,Retired,High,Corporate,Savings,Medium,2014-05-25,595
+1394,C001394,27,Male,Salaried,Mid,Premium,Current,Medium,2018-04-04,619
+1395,C001395,59,Male,Retired,Mid,Retail,Savings,Medium,2020-09-21,685
+1396,C001396,53,Female,Homemaker,Mid,Retail,Savings,Low,2016-05-30,829
+1397,C001397,42,Male,Student,Low,Retail,Savings,Medium,2020-11-06,616
+1398,C001398,65,Male,Student,Mid,Corporate,Savings,Medium,2017-07-07,553
+1399,C001399,65,Female,Salaried,Mid,Premium,Savings,Low,2023-07-29,773
+1400,C001400,28,Female,Self-Employed,High,Retail,Savings,Medium,2016-01-21,550
+1401,C001401,47,Male,Salaried,Low,Retail,Current,Low,2018-08-12,839
+1402,C001402,36,Male,Salaried,High,Premium,Savings,Low,2019-01-21,658
+1403,C001403,63,Male,Homemaker,High,Premium,Current,High,2018-07-16,814
+1404,C001404,44,Female,Salaried,Low,Retail,Savings,Low,2017-11-29,612
+1405,C001405,59,Female,Business Owner,Mid,Retail,Savings,Medium,2013-11-26,815
+1406,C001406,62,Male,Student,High,Retail,Savings,Medium,2019-09-16,687
+1407,C001407,36,Female,Retired,High,Premium,Savings,Low,2013-06-13,593
+1408,C001408,69,Female,Homemaker,Mid,SME,Savings,Medium,2022-12-23,811
+1409,C001409,61,Female,Salaried,Mid,Retail,Savings,Medium,2017-11-05,765
+1410,C001410,37,Female,Salaried,Mid,Premium,Savings,Low,2021-03-28,670
+1411,C001411,53,Male,Self-Employed,Mid,Retail,Savings,Low,2016-08-13,701
+1412,C001412,58,Male,Salaried,Low,Retail,Current,Low,2019-10-09,762
+1413,C001413,39,Male,Salaried,Mid,Retail,Current,Low,2015-10-23,783
+1414,C001414,41,Male,Salaried,Low,Corporate,Savings,Low,2013-04-16,660
+1415,C001415,67,Female,Student,Low,Retail,Savings,Low,2014-01-10,771
+1416,C001416,23,Female,Self-Employed,Mid,Premium,Savings,Low,2015-07-27,775
+1417,C001417,44,Male,Salaried,Mid,Retail,Current,High,2023-10-15,759
+1418,C001418,51,Male,Business Owner,Mid,Retail,Savings,Low,2020-07-24,620
+1419,C001419,24,Male,Salaried,Mid,Retail,Savings,Medium,2022-05-18,638
+1420,C001420,67,Female,Salaried,Mid,Premium,Savings,Medium,2022-08-26,811
+1421,C001421,60,Male,Student,Low,Retail,Salary,Medium,2019-06-15,737
+1422,C001422,68,Male,Business Owner,Mid,Premium,Savings,Low,2019-08-02,661
+1423,C001423,22,Male,Student,High,Retail,Current,High,2023-08-31,788
+1424,C001424,62,Male,Salaried,Mid,Retail,Savings,Medium,2013-03-26,805
+1425,C001425,43,Other,Student,Mid,Retail,Salary,Medium,2021-07-30,699
+1426,C001426,50,Female,Business Owner,Mid,Retail,Current,Low,2020-07-16,676
+1427,C001427,35,Male,Self-Employed,High,Retail,Savings,Low,2022-03-19,823
+1428,C001428,69,Female,Business Owner,Low,Retail,NRI,Medium,2016-01-09,688
+1429,C001429,49,Female,Retired,Mid,Premium,Savings,Low,2019-06-19,652
+1430,C001430,42,Female,Self-Employed,Mid,Premium,NRI,Low,2013-06-14,791
+1431,C001431,66,Male,Self-Employed,Mid,Retail,NRI,Low,2021-07-23,666
+1432,C001432,53,Male,Homemaker,Low,Retail,Savings,Medium,2021-06-25,763
+1433,C001433,27,Male,Student,Mid,Retail,Current,High,2014-12-19,566
+1434,C001434,22,Female,Self-Employed,Low,Retail,Savings,Low,2018-04-12,728
+1435,C001435,42,Male,Business Owner,Mid,Retail,Savings,Medium,2018-10-27,773
+1436,C001436,25,Male,Salaried,Mid,Corporate,Savings,Medium,2020-04-22,819
+1437,C001437,24,Male,Salaried,Low,Retail,Current,Low,2017-12-17,683
+1438,C001438,51,Female,Self-Employed,High,Retail,Savings,High,2023-04-11,663
+1439,C001439,52,Male,Retired,Low,Retail,Savings,High,2016-02-14,681
+1440,C001440,55,Female,Retired,High,Retail,Current,Medium,2015-01-14,688
+1441,C001441,40,Female,Salaried,Mid,Premium,Savings,Low,2019-07-26,781
+1442,C001442,41,Male,Self-Employed,Low,Retail,Savings,Medium,2017-11-21,641
+1443,C001443,44,Female,Salaried,Low,Retail,Savings,Low,2020-02-14,816
+1444,C001444,61,Male,Homemaker,High,Premium,Savings,Low,2022-02-18,648
+1445,C001445,46,Female,Homemaker,Low,Retail,Savings,Low,2018-07-08,756
+1446,C001446,36,Male,Business Owner,Low,Premium,Savings,Medium,2023-11-14,557
+1447,C001447,59,Female,Student,Mid,Premium,Salary,High,2014-01-09,642
+1448,C001448,44,Female,Business Owner,Mid,Retail,Current,Low,2018-04-10,707
+1449,C001449,23,Female,Self-Employed,Mid,Premium,Savings,Low,2016-11-26,648
+1450,C001450,36,Female,Salaried,Low,Retail,Savings,High,2017-07-31,774
+1451,C001451,65,Male,Self-Employed,Low,Premium,Savings,Low,2016-09-27,757
+1452,C001452,56,Female,Business Owner,Low,Retail,Current,Medium,2016-08-08,622
+1453,C001453,31,Female,Business Owner,Low,Retail,Savings,Low,2020-07-07,608
+1454,C001454,35,Female,Salaried,Mid,Premium,Savings,Low,2014-03-05,836
+1455,C001455,48,Male,Retired,Mid,Corporate,NRI,High,2022-08-15,613
+1456,C001456,35,Female,Salaried,Low,SME,Savings,Low,2014-10-21,805
+1457,C001457,56,Female,Self-Employed,Mid,Premium,Savings,Low,2016-09-12,597
+1458,C001458,54,Female,Business Owner,Mid,Retail,NRI,Low,2017-08-14,828
+1459,C001459,22,Male,Business Owner,High,Retail,Current,High,2020-10-12,747
+1460,C001460,55,Female,Business Owner,High,Retail,Savings,High,2018-07-23,707
+1461,C001461,40,Male,Salaried,High,Retail,Current,Low,2016-03-26,556
+1462,C001462,45,Female,Salaried,Low,Retail,Savings,Low,2020-06-06,797
+1463,C001463,63,Male,Business Owner,Low,SME,Current,Medium,2023-08-08,781
+1464,C001464,25,Female,Self-Employed,Mid,Retail,Savings,Low,2017-06-29,655
+1465,C001465,57,Other,Salaried,Low,Retail,NRI,Medium,2022-02-15,647
+1466,C001466,34,Male,Business Owner,Mid,Retail,Salary,Low,2021-07-13,817
+1467,C001467,53,Female,Self-Employed,Mid,Corporate,Salary,Low,2019-03-04,609
+1468,C001468,30,Male,Business Owner,High,Premium,Salary,Medium,2013-05-31,689
+1469,C001469,60,Female,Student,High,Premium,Savings,Low,2018-02-06,739
+1470,C001470,37,Female,Salaried,Mid,Retail,Savings,High,2013-12-27,674
+1471,C001471,24,Female,Salaried,Mid,Corporate,Savings,Low,2016-07-12,712
+1472,C001472,41,Female,Student,Mid,Retail,Current,Low,2015-10-31,609
+1473,C001473,31,Female,Business Owner,Low,Corporate,NRI,High,2016-08-17,580
+1474,C001474,43,Male,Business Owner,Mid,Premium,Savings,Low,2014-04-20,625
+1475,C001475,69,Male,Student,Low,Retail,Salary,Medium,2023-11-18,792
+1476,C001476,24,Female,Student,Mid,Retail,NRI,Low,2021-08-31,807
+1477,C001477,32,Female,Homemaker,Mid,Premium,Salary,Medium,2017-07-14,739
+1478,C001478,46,Female,Self-Employed,Mid,Retail,NRI,Medium,2022-09-13,845
+1479,C001479,63,Female,Self-Employed,Mid,Corporate,Savings,Low,2018-10-09,726
+1480,C001480,69,Male,Self-Employed,Mid,Retail,Savings,Medium,2022-04-02,837
+1481,C001481,29,Female,Salaried,High,Retail,Savings,Medium,2013-01-05,843
+1482,C001482,30,Male,Self-Employed,Low,Retail,Savings,Low,2020-05-17,756
+1483,C001483,36,Female,Salaried,Mid,Retail,Current,Medium,2022-10-01,764
+1484,C001484,53,Male,Retired,Mid,Retail,NRI,Medium,2019-02-01,690
+1485,C001485,24,Male,Self-Employed,Mid,Retail,NRI,Low,2018-03-08,634
+1486,C001486,25,Male,Self-Employed,High,Premium,Current,Low,2017-08-20,731
+1487,C001487,51,Male,Salaried,Low,Retail,Savings,Low,2013-08-11,677
+1488,C001488,34,Female,Salaried,Mid,SME,Savings,Low,2015-02-08,818
+1489,C001489,65,Male,Salaried,Mid,Premium,Savings,Medium,2018-10-25,588
+1490,C001490,42,Male,Self-Employed,High,Corporate,Savings,Low,2017-01-21,572
+1491,C001491,62,Male,Salaried,Low,Retail,Savings,High,2019-12-26,791
+1492,C001492,67,Male,Business Owner,Mid,Retail,Savings,Low,2021-06-26,656
+1493,C001493,40,Male,Retired,Mid,Retail,Savings,Low,2018-08-04,691
+1494,C001494,60,Male,Retired,Low,Premium,Savings,Medium,2020-01-06,694
+1495,C001495,69,Female,Business Owner,Mid,Corporate,Current,Medium,2017-12-16,829
+1496,C001496,43,Female,Salaried,Mid,Retail,Savings,Medium,2021-07-10,794
+1497,C001497,41,Female,Retired,Mid,Retail,Savings,Low,2013-07-31,740
+1498,C001498,58,Male,Retired,High,Corporate,Savings,Low,2015-04-14,839
+1499,C001499,52,Male,Salaried,Mid,Retail,Salary,Low,2015-12-30,728
+1500,C001500,31,Female,Business Owner,Mid,Premium,Savings,High,2019-02-28,661
+1501,C001501,39,Male,Salaried,Mid,Premium,Savings,Low,2014-06-21,763
+1502,C001502,64,Male,Student,Low,Corporate,Current,High,2023-05-28,687
+1503,C001503,60,Male,Homemaker,Low,Retail,Current,Medium,2016-03-25,749
+1504,C001504,67,Male,Salaried,Mid,Retail,Salary,Low,2017-11-30,556
+1505,C001505,41,Male,Retired,Mid,Premium,Savings,Medium,2022-11-17,562
+1506,C001506,39,Male,Business Owner,Low,SME,Savings,Medium,2020-10-31,629
+1507,C001507,32,Female,Homemaker,Mid,Retail,Savings,High,2018-06-09,835
+1508,C001508,43,Female,Self-Employed,Mid,Retail,Current,Low,2014-05-13,708
+1509,C001509,65,Female,Student,Low,Premium,Savings,Low,2013-04-29,821
+1510,C001510,39,Female,Salaried,Mid,SME,Savings,Low,2023-12-01,750
+1511,C001511,55,Female,Salaried,Low,Corporate,Savings,Low,2020-01-25,699
+1512,C001512,44,Female,Salaried,High,SME,Savings,Medium,2019-10-30,845
+1513,C001513,22,Female,Homemaker,High,Retail,Savings,High,2021-12-18,842
+1514,C001514,31,Male,Student,Mid,Retail,Current,Low,2015-09-08,821
+1515,C001515,22,Male,Retired,Low,Premium,Current,Medium,2020-12-17,592
+1516,C001516,59,Male,Retired,Mid,Corporate,Savings,Medium,2014-10-11,564
+1517,C001517,60,Female,Salaried,High,Retail,Savings,Low,2016-06-26,797
+1518,C001518,30,Female,Salaried,Mid,Retail,Current,Low,2019-03-07,721
+1519,C001519,52,Male,Salaried,Low,Corporate,Savings,Medium,2013-02-26,767
+1520,C001520,28,Female,Salaried,Mid,Retail,Savings,High,2019-03-13,686
+1521,C001521,38,Male,Salaried,High,Retail,Savings,Medium,2017-07-30,776
+1522,C001522,56,Female,Self-Employed,Mid,Premium,Current,Low,2014-01-17,593
+1523,C001523,69,Male,Salaried,Mid,Premium,Salary,Low,2015-07-10,569
+1524,C001524,58,Male,Salaried,Mid,Premium,Current,Low,2022-06-09,668
+1525,C001525,39,Male,Salaried,Mid,Retail,Savings,Medium,2023-03-29,783
+1526,C001526,54,Male,Salaried,Low,Premium,Savings,Medium,2014-04-10,811
+1527,C001527,25,Male,Homemaker,Mid,Premium,NRI,Low,2018-03-06,632
+1528,C001528,44,Male,Student,Low,Premium,Savings,Medium,2023-08-16,580
+1529,C001529,32,Female,Homemaker,Mid,Premium,Salary,Medium,2014-04-27,823
+1530,C001530,30,Female,Self-Employed,Low,Retail,Salary,Medium,2020-04-07,783
+1531,C001531,51,Male,Salaried,Mid,Retail,Savings,High,2022-05-02,577
+1532,C001532,29,Female,Student,Low,Retail,Salary,Low,2014-09-23,801
+1533,C001533,61,Female,Salaried,Mid,Retail,Savings,High,2018-08-04,802
+1534,C001534,26,Male,Salaried,Mid,Premium,NRI,Low,2023-06-18,788
+1535,C001535,33,Male,Salaried,Low,Corporate,Savings,Low,2021-01-14,724
+1536,C001536,22,Male,Salaried,Low,Premium,Savings,High,2016-04-10,743
+1537,C001537,36,Male,Salaried,Low,Corporate,Current,High,2018-09-16,729
+1538,C001538,46,Female,Salaried,High,Retail,Current,Medium,2020-11-29,844
+1539,C001539,39,Male,Business Owner,Mid,Retail,Savings,Medium,2016-01-25,764
+1540,C001540,59,Female,Salaried,Mid,Retail,Current,Medium,2017-08-29,752
+1541,C001541,63,Female,Salaried,Low,Retail,Savings,Medium,2022-05-13,799
+1542,C001542,67,Male,Student,Mid,Retail,Savings,Low,2018-05-31,806
+1543,C001543,47,Female,Salaried,High,Premium,Savings,Medium,2023-12-30,624
+1544,C001544,61,Male,Salaried,High,SME,Savings,Low,2018-04-19,751
+1545,C001545,24,Female,Retired,Mid,Retail,Savings,Low,2015-09-26,691
+1546,C001546,43,Male,Salaried,Low,Retail,Savings,Low,2018-02-14,755
+1547,C001547,47,Female,Salaried,Low,Corporate,Savings,Medium,2019-03-08,748
+1548,C001548,40,Female,Self-Employed,Low,Retail,Savings,High,2014-08-16,720
+1549,C001549,65,Male,Salaried,Low,Corporate,Savings,Medium,2017-04-21,777
+1550,C001550,65,Female,Self-Employed,Low,Premium,Salary,High,2015-02-20,728
+1551,C001551,68,Female,Student,Low,SME,Savings,Low,2023-05-04,824
+1552,C001552,60,Female,Salaried,Mid,Retail,Salary,Medium,2019-09-22,611
+1553,C001553,57,Female,Self-Employed,High,Premium,Current,Medium,2018-09-13,753
+1554,C001554,42,Female,Self-Employed,Mid,Retail,Current,Medium,2021-05-15,682
+1555,C001555,62,Male,Salaried,High,Premium,Current,Medium,2022-11-11,621
+1556,C001556,69,Male,Business Owner,Mid,Retail,NRI,Medium,2014-07-14,627
+1557,C001557,47,Female,Salaried,Low,Retail,Savings,High,2022-09-10,738
+1558,C001558,34,Male,Self-Employed,Mid,Premium,Savings,Medium,2013-10-13,620
+1559,C001559,57,Female,Salaried,Low,Premium,Current,Low,2016-02-06,812
+1560,C001560,45,Female,Self-Employed,Mid,Corporate,Current,Medium,2021-08-31,595
+1561,C001561,62,Male,Salaried,Mid,Premium,NRI,Low,2021-11-10,773
+1562,C001562,47,Male,Student,High,Premium,Savings,Low,2022-08-01,799
+1563,C001563,42,Female,Salaried,Low,Retail,Current,High,2017-08-27,625
+1564,C001564,39,Male,Self-Employed,Low,Premium,Savings,Low,2016-10-24,623
+1565,C001565,36,Female,Self-Employed,High,Premium,Savings,Medium,2023-06-24,691
+1566,C001566,36,Male,Business Owner,Low,Corporate,Savings,Low,2021-11-01,622
+1567,C001567,27,Female,Self-Employed,Mid,SME,Current,Low,2018-09-11,651
+1568,C001568,64,Male,Business Owner,Mid,Retail,NRI,Low,2015-12-31,643
+1569,C001569,52,Female,Student,High,Corporate,Savings,Low,2022-03-15,618
+1570,C001570,49,Male,Retired,High,Retail,NRI,Medium,2013-01-11,614
+1571,C001571,29,Female,Salaried,High,Retail,Savings,Low,2016-03-04,742
+1572,C001572,50,Male,Self-Employed,Low,Premium,Savings,Low,2021-02-21,611
+1573,C001573,42,Female,Student,High,Retail,Savings,Low,2016-05-07,569
+1574,C001574,38,Female,Homemaker,Mid,Premium,Savings,Low,2022-05-24,790
+1575,C001575,45,Male,Retired,Mid,Retail,Savings,Medium,2019-08-02,752
+1576,C001576,57,Male,Salaried,Low,Retail,Savings,Low,2019-07-04,849
+1577,C001577,52,Male,Salaried,Mid,Premium,Current,Medium,2020-05-27,744
+1578,C001578,68,Female,Self-Employed,High,Premium,Current,High,2018-06-29,611
+1579,C001579,55,Female,Business Owner,High,SME,Savings,Medium,2022-09-15,656
+1580,C001580,23,Female,Self-Employed,Mid,Premium,Savings,Medium,2014-09-01,674
+1581,C001581,63,Male,Self-Employed,Low,Premium,Savings,Low,2018-01-04,816
+1582,C001582,24,Male,Student,Mid,Retail,Savings,Low,2019-01-16,751
+1583,C001583,51,Female,Salaried,High,Retail,Savings,High,2018-06-07,711
+1584,C001584,29,Male,Retired,Mid,Retail,Savings,Medium,2016-11-14,661
+1585,C001585,28,Other,Self-Employed,Mid,Premium,Salary,Medium,2016-09-23,581
+1586,C001586,33,Male,Salaried,Low,Premium,NRI,Medium,2019-03-11,647
+1587,C001587,40,Female,Self-Employed,Mid,Retail,Savings,Low,2021-07-22,796
+1588,C001588,47,Male,Student,Mid,Premium,Savings,Low,2019-02-04,810
+1589,C001589,49,Male,Salaried,High,Premium,Savings,Medium,2017-03-26,740
+1590,C001590,36,Female,Salaried,Mid,Retail,Current,Medium,2018-02-09,578
+1591,C001591,35,Female,Homemaker,Mid,Retail,Savings,Low,2023-06-18,597
+1592,C001592,69,Other,Salaried,Mid,Corporate,Savings,High,2016-08-11,799
+1593,C001593,35,Male,Self-Employed,Low,Premium,Current,Low,2022-10-02,775
+1594,C001594,24,Male,Self-Employed,High,Corporate,Savings,Low,2015-02-12,821
+1595,C001595,50,Female,Self-Employed,Mid,Retail,Savings,High,2020-10-27,702
+1596,C001596,27,Female,Business Owner,Mid,SME,Savings,Medium,2015-09-06,834
+1597,C001597,44,Male,Salaried,Mid,Retail,Savings,Medium,2019-06-01,729
+1598,C001598,49,Male,Self-Employed,Mid,Retail,Savings,Low,2017-04-18,702
+1599,C001599,35,Male,Salaried,Mid,SME,Savings,Low,2015-08-15,783
+1600,C001600,35,Female,Business Owner,Mid,Retail,Savings,Medium,2022-08-08,572
+1601,C001601,41,Male,Salaried,Low,Premium,Savings,Low,2021-09-12,643
+1602,C001602,34,Male,Self-Employed,Mid,Retail,Current,Medium,2017-08-10,794
+1603,C001603,48,Male,Salaried,Low,Premium,Savings,High,2013-06-28,839
+1604,C001604,56,Male,Salaried,Mid,SME,Savings,Medium,2016-07-27,709
+1605,C001605,66,Male,Salaried,Low,Retail,Current,Low,2021-05-09,834
+1606,C001606,23,Male,Salaried,Mid,Premium,Current,Medium,2018-04-22,558
+1607,C001607,62,Male,Student,High,Retail,NRI,Low,2020-11-28,734
+1608,C001608,66,Female,Salaried,High,Premium,Savings,Low,2023-03-31,844
+1609,C001609,61,Male,Retired,Mid,Retail,Savings,Low,2022-02-06,684
+1610,C001610,69,Female,Homemaker,Mid,Retail,Current,Low,2017-04-11,659
+1611,C001611,45,Female,Self-Employed,Low,Retail,Current,High,2017-05-01,618
+1612,C001612,50,Female,Salaried,Mid,Retail,Savings,Low,2020-06-11,685
+1613,C001613,24,Female,Salaried,High,SME,Salary,Low,2021-11-20,645
+1614,C001614,66,Male,Student,Low,Retail,Savings,High,2022-03-16,668
+1615,C001615,25,Male,Salaried,Mid,Retail,Salary,Low,2020-04-24,823
+1616,C001616,23,Female,Salaried,High,Retail,NRI,Medium,2014-09-16,726
+1617,C001617,41,Other,Self-Employed,High,Retail,Current,Low,2018-07-22,786
+1618,C001618,36,Female,Student,Low,Premium,Salary,Low,2023-10-27,821
+1619,C001619,53,Female,Student,Mid,SME,Current,High,2013-06-01,826
+1620,C001620,63,Female,Salaried,Low,Retail,Savings,Low,2014-06-02,687
+1621,C001621,22,Male,Business Owner,Low,Corporate,Savings,Medium,2018-08-20,681
+1622,C001622,59,Male,Salaried,High,Premium,Savings,Low,2023-10-30,593
+1623,C001623,56,Female,Salaried,High,Retail,Savings,Low,2019-08-15,672
+1624,C001624,28,Female,Retired,Mid,Premium,Current,Low,2016-09-21,685
+1625,C001625,66,Male,Salaried,Low,Premium,Savings,Low,2022-10-03,675
+1626,C001626,34,Female,Salaried,High,Premium,Savings,Low,2014-02-16,824
+1627,C001627,22,Male,Salaried,Mid,Corporate,Current,Medium,2022-10-21,613
+1628,C001628,35,Female,Retired,Mid,Retail,NRI,Low,2022-06-24,845
+1629,C001629,50,Male,Student,Mid,SME,Savings,Low,2017-12-09,781
+1630,C001630,24,Male,Business Owner,Low,Corporate,Savings,Low,2014-02-13,600
+1631,C001631,67,Female,Student,Mid,Retail,Savings,High,2018-11-25,686
+1632,C001632,45,Male,Salaried,Mid,Premium,Current,High,2023-03-19,707
+1633,C001633,22,Female,Self-Employed,Low,Retail,Savings,Medium,2018-02-15,605
+1634,C001634,69,Female,Salaried,Low,SME,Current,High,2013-03-04,630
+1635,C001635,31,Female,Salaried,Low,Premium,Savings,Low,2021-02-07,781
+1636,C001636,34,Male,Self-Employed,Low,Retail,Savings,Low,2014-08-14,677
+1637,C001637,57,Male,Retired,Mid,Retail,Salary,Medium,2017-08-07,675
+1638,C001638,30,Male,Salaried,High,Premium,Savings,Medium,2022-10-08,629
+1639,C001639,35,Other,Salaried,Low,Retail,Savings,Low,2020-05-05,724
+1640,C001640,57,Female,Salaried,Low,Retail,Savings,Low,2023-11-17,694
+1641,C001641,31,Female,Salaried,Mid,Retail,Savings,High,2014-09-25,675
+1642,C001642,61,Female,Retired,High,Retail,Savings,Medium,2013-11-03,731
+1643,C001643,44,Female,Self-Employed,Mid,Retail,Savings,Low,2018-04-08,768
+1644,C001644,56,Female,Self-Employed,Mid,Retail,Savings,Medium,2021-10-07,827
+1645,C001645,28,Male,Student,Mid,Retail,Savings,Low,2023-11-14,632
+1646,C001646,63,Female,Salaried,Low,Premium,Current,Low,2015-12-22,690
+1647,C001647,56,Male,Self-Employed,Low,Premium,Current,Low,2016-10-18,644
+1648,C001648,23,Female,Self-Employed,Mid,Retail,Savings,Low,2019-12-28,743
+1649,C001649,36,Female,Self-Employed,Mid,Retail,Current,Low,2020-10-08,659
+1650,C001650,30,Female,Homemaker,Mid,Premium,Savings,Medium,2017-06-17,601
+1651,C001651,68,Male,Student,Mid,Retail,Savings,Low,2020-04-15,652
+1652,C001652,38,Male,Salaried,Mid,Retail,Savings,Medium,2013-11-25,650
+1653,C001653,60,Male,Student,Low,Retail,Savings,Low,2022-07-21,691
+1654,C001654,39,Male,Salaried,Mid,Corporate,Savings,Low,2016-09-07,750
+1655,C001655,36,Male,Salaried,Low,Corporate,Savings,High,2022-07-24,748
+1656,C001656,39,Female,Salaried,Low,Corporate,Current,Medium,2020-07-25,833
+1657,C001657,45,Female,Salaried,Mid,Premium,Salary,High,2022-08-21,766
+1658,C001658,44,Male,Self-Employed,High,Premium,Savings,High,2018-12-26,595
+1659,C001659,33,Male,Business Owner,High,Retail,Current,Low,2017-04-06,577
+1660,C001660,44,Male,Retired,Mid,Premium,NRI,Low,2023-09-14,551
+1661,C001661,42,Female,Self-Employed,Low,Retail,Current,High,2016-07-21,566
+1662,C001662,47,Male,Self-Employed,Low,Premium,Savings,High,2020-01-12,626
+1663,C001663,29,Female,Salaried,High,Corporate,Savings,Medium,2021-01-22,714
+1664,C001664,51,Male,Salaried,Mid,Premium,Savings,Medium,2022-12-14,646
+1665,C001665,55,Other,Self-Employed,Mid,Retail,Savings,Medium,2021-07-08,654
+1666,C001666,23,Female,Self-Employed,Mid,Retail,Current,Low,2018-06-22,573
+1667,C001667,26,Male,Student,Mid,Premium,Savings,Medium,2022-10-14,749
+1668,C001668,52,Female,Salaried,High,Premium,Savings,Medium,2019-01-26,584
+1669,C001669,54,Male,Salaried,Low,Corporate,Current,Medium,2013-05-28,551
+1670,C001670,25,Female,Self-Employed,Mid,Retail,Current,Low,2019-12-05,838
+1671,C001671,27,Male,Salaried,High,Corporate,Savings,Low,2013-10-08,687
+1672,C001672,44,Female,Salaried,Low,Premium,Current,Low,2015-08-20,611
+1673,C001673,66,Female,Business Owner,Mid,Corporate,Savings,Low,2020-01-30,848
+1674,C001674,40,Female,Salaried,Mid,Premium,Savings,High,2020-09-04,746
+1675,C001675,64,Female,Business Owner,High,Premium,Savings,Low,2023-05-01,608
+1676,C001676,66,Male,Salaried,Low,Premium,Current,Low,2016-03-23,814
+1677,C001677,29,Male,Salaried,Mid,Premium,Salary,Low,2015-07-21,737
+1678,C001678,60,Male,Salaried,Low,SME,Savings,Medium,2021-05-17,612
+1679,C001679,34,Male,Student,Mid,Retail,Savings,Medium,2014-01-06,828
+1680,C001680,22,Female,Salaried,Low,Retail,Savings,Low,2017-11-13,579
+1681,C001681,27,Male,Student,Low,SME,Savings,Low,2023-12-22,720
+1682,C001682,28,Female,Salaried,Mid,Premium,Savings,Low,2014-02-08,570
+1683,C001683,69,Female,Student,High,Premium,Savings,Medium,2021-07-12,848
+1684,C001684,48,Female,Salaried,Low,Retail,NRI,Low,2020-02-09,750
+1685,C001685,36,Male,Business Owner,Low,Retail,Current,High,2020-11-23,684
+1686,C001686,55,Female,Self-Employed,Mid,Corporate,Savings,Low,2022-10-15,821
+1687,C001687,44,Female,Retired,Mid,Premium,Savings,Low,2014-02-16,572
+1688,C001688,69,Male,Salaried,High,Retail,Savings,Medium,2017-12-23,636
+1689,C001689,45,Female,Salaried,Low,Retail,Savings,Low,2014-11-13,580
+1690,C001690,36,Female,Salaried,Mid,Corporate,NRI,Medium,2020-10-13,670
+1691,C001691,56,Male,Student,Low,Retail,Salary,Low,2016-05-11,618
+1692,C001692,25,Male,Self-Employed,Low,Corporate,Savings,Medium,2023-02-18,683
+1693,C001693,65,Male,Student,Mid,Retail,Savings,Medium,2013-04-29,695
+1694,C001694,58,Male,Salaried,Mid,Premium,NRI,High,2013-07-08,812
+1695,C001695,38,Male,Salaried,Mid,SME,Savings,Low,2016-08-21,842
+1696,C001696,52,Male,Salaried,Mid,Premium,Current,Low,2021-12-06,635
+1697,C001697,59,Male,Homemaker,Mid,Retail,Savings,Low,2013-08-18,565
+1698,C001698,31,Male,Business Owner,Mid,Premium,Current,High,2016-04-16,765
+1699,C001699,48,Female,Retired,High,Retail,Savings,High,2017-01-08,665
+1700,C001700,63,Female,Salaried,Low,Retail,NRI,Low,2017-03-16,667
+1701,C001701,27,Female,Business Owner,Low,SME,Current,Low,2017-10-31,819
+1702,C001702,27,Male,Business Owner,Mid,Corporate,Savings,Low,2014-08-20,711
+1703,C001703,36,Male,Salaried,Mid,Premium,Current,Low,2015-09-28,737
+1704,C001704,25,Male,Student,Low,Retail,NRI,Low,2018-12-16,653
+1705,C001705,69,Male,Retired,High,Retail,Savings,Low,2017-08-15,690
+1706,C001706,61,Male,Retired,Low,Retail,Savings,Medium,2019-05-08,716
+1707,C001707,28,Female,Business Owner,High,Premium,Savings,High,2020-08-24,849
+1708,C001708,66,Male,Salaried,Low,Corporate,Savings,High,2021-11-21,577
+1709,C001709,68,Female,Salaried,Mid,Premium,Savings,Low,2015-01-08,821
+1710,C001710,47,Female,Homemaker,High,Corporate,Current,Medium,2014-11-28,599
+1711,C001711,52,Male,Salaried,Low,Retail,Savings,High,2014-12-19,705
+1712,C001712,23,Male,Business Owner,High,Retail,NRI,Low,2013-11-20,670
+1713,C001713,49,Female,Business Owner,Mid,Retail,Savings,Medium,2019-11-02,689
+1714,C001714,63,Male,Business Owner,High,Retail,Savings,Low,2022-10-07,565
+1715,C001715,34,Male,Homemaker,Mid,Retail,Savings,Low,2017-04-16,598
+1716,C001716,39,Other,Salaried,Mid,SME,Savings,Low,2019-12-14,713
+1717,C001717,51,Male,Salaried,Low,Retail,Savings,Low,2020-08-30,611
+1718,C001718,32,Female,Salaried,Mid,SME,Savings,Medium,2015-09-14,703
+1719,C001719,34,Other,Self-Employed,Low,Retail,Savings,Low,2018-08-01,699
+1720,C001720,45,Male,Salaried,Low,SME,Current,Low,2023-03-28,622
+1721,C001721,50,Male,Salaried,Low,Premium,Current,Low,2019-07-17,618
+1722,C001722,26,Male,Student,Mid,SME,Savings,High,2014-08-10,726
+1723,C001723,56,Male,Retired,Mid,Retail,Current,Low,2015-08-10,551
+1724,C001724,40,Male,Salaried,Low,Premium,Current,Medium,2018-03-04,668
+1725,C001725,34,Female,Salaried,Low,SME,Savings,Medium,2020-02-26,556
+1726,C001726,26,Male,Retired,Mid,Retail,Salary,Low,2015-11-07,804
+1727,C001727,65,Male,Salaried,Low,Retail,NRI,Low,2018-02-26,624
+1728,C001728,35,Other,Salaried,Low,Retail,Savings,Medium,2015-11-12,744
+1729,C001729,59,Female,Salaried,Low,SME,Savings,Low,2020-06-24,736
+1730,C001730,43,Female,Self-Employed,High,Premium,Savings,Low,2013-02-08,552
+1731,C001731,30,Male,Salaried,High,Premium,Savings,Medium,2023-01-30,733
+1732,C001732,61,Female,Homemaker,Mid,Retail,Current,Low,2022-01-09,822
+1733,C001733,47,Female,Self-Employed,Mid,Retail,Savings,Low,2018-03-21,601
+1734,C001734,66,Male,Self-Employed,Mid,Corporate,Current,Low,2023-02-09,812
+1735,C001735,26,Male,Salaried,Mid,Retail,Current,Low,2016-03-24,682
+1736,C001736,50,Female,Self-Employed,Mid,Premium,Current,Medium,2020-08-07,774
+1737,C001737,43,Male,Business Owner,Mid,SME,Current,Medium,2019-02-17,610
+1738,C001738,24,Male,Student,Low,Retail,Savings,Medium,2014-10-10,565
+1739,C001739,49,Male,Student,Low,Premium,Savings,Medium,2013-10-30,778
+1740,C001740,59,Male,Self-Employed,Mid,Retail,Current,Low,2017-12-15,744
+1741,C001741,35,Female,Retired,High,Premium,Savings,Low,2023-08-08,800
+1742,C001742,68,Female,Student,Mid,Retail,Savings,Low,2016-11-16,597
+1743,C001743,35,Female,Student,High,Premium,NRI,Low,2019-08-04,784
+1744,C001744,64,Male,Salaried,High,Retail,Current,High,2016-05-10,670
+1745,C001745,32,Male,Salaried,Low,Retail,Savings,Medium,2020-03-02,599
+1746,C001746,30,Male,Salaried,Mid,Premium,Current,Low,2023-10-16,590
+1747,C001747,59,Male,Business Owner,Mid,Retail,Current,Low,2017-10-04,571
+1748,C001748,68,Male,Self-Employed,High,Premium,Savings,Low,2020-09-28,731
+1749,C001749,65,Female,Self-Employed,High,Retail,Savings,Low,2015-10-22,554
+1750,C001750,27,Male,Retired,Mid,Premium,Salary,Low,2018-02-15,694
+1751,C001751,22,Female,Retired,Low,Retail,Savings,Medium,2022-06-25,627
+1752,C001752,46,Male,Retired,Mid,Premium,Savings,High,2016-05-22,780
+1753,C001753,37,Male,Salaried,Low,Retail,Savings,Medium,2015-03-27,846
+1754,C001754,36,Male,Business Owner,Mid,Retail,Current,Low,2017-04-25,758
+1755,C001755,55,Female,Salaried,High,Retail,Savings,Low,2022-07-28,712
+1756,C001756,38,Female,Salaried,Mid,Premium,Savings,Medium,2018-06-03,717
+1757,C001757,24,Female,Salaried,Mid,Retail,Savings,Medium,2014-03-13,827
+1758,C001758,24,Male,Salaried,Mid,Corporate,Salary,Medium,2015-08-30,786
+1759,C001759,58,Male,Self-Employed,Mid,Corporate,Savings,High,2017-04-12,725
+1760,C001760,38,Female,Student,Mid,Retail,Current,Medium,2019-06-01,602
+1761,C001761,59,Male,Salaried,Mid,Premium,Salary,Medium,2017-01-10,559
+1762,C001762,22,Female,Business Owner,High,Retail,Savings,Low,2019-06-13,695
+1763,C001763,28,Male,Self-Employed,High,Retail,Salary,Medium,2016-04-26,776
+1764,C001764,47,Male,Salaried,Low,Premium,Salary,Low,2020-11-04,785
+1765,C001765,68,Male,Self-Employed,High,Premium,NRI,Low,2016-04-24,791
+1766,C001766,60,Male,Salaried,Mid,Premium,Savings,Medium,2013-03-31,620
+1767,C001767,40,Female,Self-Employed,Low,Retail,Current,Low,2023-12-20,707
+1768,C001768,51,Male,Self-Employed,Low,Retail,Current,Low,2022-04-23,568
+1769,C001769,64,Male,Salaried,Low,Retail,Salary,Low,2020-05-20,604
+1770,C001770,35,Male,Salaried,High,Premium,Savings,Low,2017-06-10,764
+1771,C001771,34,Male,Self-Employed,Mid,Premium,Current,Low,2016-01-30,758
+1772,C001772,41,Female,Retired,Mid,Premium,Savings,Low,2013-02-03,570
+1773,C001773,47,Female,Salaried,Low,Retail,Savings,Low,2019-05-08,831
+1774,C001774,48,Female,Business Owner,Mid,Retail,Savings,Low,2022-09-14,798
+1775,C001775,46,Female,Business Owner,Low,Retail,Current,High,2020-09-10,577
+1776,C001776,30,Male,Retired,Mid,Retail,Savings,Low,2021-09-23,845
+1777,C001777,62,Female,Student,Mid,Retail,Savings,Low,2021-05-09,760
+1778,C001778,69,Male,Self-Employed,Low,Corporate,Salary,Medium,2023-12-02,834
+1779,C001779,33,Male,Business Owner,High,Corporate,Savings,High,2013-07-20,569
+1780,C001780,31,Female,Retired,Low,Premium,Current,Medium,2023-03-19,569
+1781,C001781,27,Male,Salaried,Mid,Retail,Savings,Low,2019-10-20,669
+1782,C001782,55,Female,Salaried,Mid,Retail,Savings,Medium,2021-05-11,646
+1783,C001783,62,Male,Salaried,Mid,Corporate,Current,Medium,2018-07-28,669
+1784,C001784,40,Female,Student,Low,Retail,Salary,Medium,2022-05-05,574
+1785,C001785,27,Female,Student,Low,SME,Savings,Medium,2023-02-21,702
+1786,C001786,23,Female,Salaried,High,Retail,Current,High,2023-02-16,794
+1787,C001787,36,Female,Self-Employed,Low,Retail,Savings,High,2016-03-18,809
+1788,C001788,38,Female,Self-Employed,High,SME,Savings,Medium,2021-09-13,553
+1789,C001789,37,Male,Salaried,High,Retail,Savings,Low,2021-12-17,692
+1790,C001790,49,Male,Homemaker,Low,Premium,Savings,Medium,2015-08-01,831
+1791,C001791,42,Male,Salaried,Low,Premium,Savings,Medium,2019-10-23,769
+1792,C001792,29,Female,Salaried,Mid,Retail,Savings,Low,2021-12-29,709
+1793,C001793,31,Male,Self-Employed,High,Retail,Savings,High,2016-12-14,625
+1794,C001794,31,Female,Business Owner,High,Premium,Savings,Low,2015-06-17,648
+1795,C001795,31,Male,Salaried,Mid,Premium,Savings,Low,2020-02-21,729
+1796,C001796,30,Male,Business Owner,Mid,Retail,Current,High,2015-02-18,676
+1797,C001797,49,Female,Self-Employed,Low,SME,Salary,Low,2019-12-19,581
+1798,C001798,45,Male,Salaried,High,Retail,Current,Low,2015-10-24,814
+1799,C001799,40,Male,Salaried,High,Retail,Savings,Low,2020-08-08,562
+1800,C001800,54,Male,Self-Employed,Low,Retail,Salary,Low,2021-06-22,751
+1801,C001801,25,Female,Salaried,Low,Retail,Current,Low,2021-01-31,567
+1802,C001802,24,Female,Retired,Low,Retail,Savings,Low,2021-08-10,642
+1803,C001803,63,Male,Student,Low,SME,Savings,Low,2020-05-24,829
+1804,C001804,33,Male,Homemaker,High,Retail,Current,High,2020-08-20,609
+1805,C001805,39,Male,Salaried,Mid,Retail,Current,High,2022-05-27,763
+1806,C001806,44,Female,Homemaker,Low,Retail,Current,Low,2014-07-15,649
+1807,C001807,41,Female,Self-Employed,Mid,Premium,Current,Medium,2020-01-18,550
+1808,C001808,27,Male,Salaried,High,Corporate,Current,Low,2014-02-02,592
+1809,C001809,55,Male,Salaried,Mid,Retail,Salary,Low,2023-02-18,717
+1810,C001810,63,Male,Salaried,Mid,Retail,Savings,Low,2020-01-15,741
+1811,C001811,23,Female,Business Owner,Low,Retail,Savings,High,2020-04-01,583
+1812,C001812,51,Female,Self-Employed,High,Retail,NRI,High,2013-06-11,583
+1813,C001813,30,Male,Salaried,High,Retail,Savings,Low,2016-06-19,725
+1814,C001814,48,Male,Business Owner,Low,Retail,Current,Low,2021-11-05,745
+1815,C001815,63,Male,Salaried,Low,Retail,Salary,Low,2017-12-11,707
+1816,C001816,55,Female,Self-Employed,Low,Premium,Current,Medium,2013-05-17,794
+1817,C001817,61,Male,Salaried,Low,Retail,Current,Medium,2019-07-02,620
+1818,C001818,45,Female,Student,Mid,SME,Savings,Low,2017-02-03,663
+1819,C001819,38,Female,Student,High,SME,Savings,Medium,2021-03-19,834
+1820,C001820,50,Male,Self-Employed,Mid,Premium,Savings,Low,2014-06-23,692
+1821,C001821,57,Male,Salaried,High,Retail,Current,High,2014-01-05,646
+1822,C001822,33,Male,Salaried,Mid,Retail,Current,Medium,2023-03-15,761
+1823,C001823,52,Female,Student,Mid,Retail,Current,Low,2016-04-23,734
+1824,C001824,30,Female,Salaried,Mid,Premium,Savings,Medium,2016-08-31,754
+1825,C001825,40,Female,Salaried,Low,Retail,Savings,Medium,2021-05-20,765
+1826,C001826,67,Female,Salaried,Mid,Corporate,Current,Low,2017-08-29,795
+1827,C001827,67,Male,Self-Employed,Mid,SME,Savings,Low,2014-12-21,788
+1828,C001828,38,Female,Self-Employed,Low,Retail,Savings,High,2015-04-03,842
+1829,C001829,23,Female,Student,Mid,Premium,Current,Low,2014-06-26,557
+1830,C001830,61,Male,Salaried,Mid,Retail,Current,Low,2021-10-27,627
+1831,C001831,26,Female,Salaried,High,Retail,Savings,Low,2019-01-19,826
+1832,C001832,60,Female,Student,Mid,Retail,NRI,Medium,2022-10-30,751
+1833,C001833,69,Female,Student,High,Retail,Savings,Medium,2023-11-24,763
+1834,C001834,37,Female,Salaried,Mid,Corporate,Salary,High,2017-02-07,643
+1835,C001835,38,Female,Self-Employed,Mid,Retail,Savings,Medium,2018-12-15,624
+1836,C001836,48,Female,Salaried,Mid,Retail,Savings,Low,2018-08-18,706
+1837,C001837,28,Male,Retired,High,Premium,NRI,Medium,2023-03-31,702
+1838,C001838,29,Male,Salaried,Mid,Premium,Savings,Medium,2016-01-22,691
+1839,C001839,29,Female,Retired,Mid,Retail,Current,Low,2022-04-25,627
+1840,C001840,44,Male,Business Owner,Mid,Corporate,NRI,Low,2014-11-05,731
+1841,C001841,53,Male,Self-Employed,Mid,Premium,NRI,Low,2015-11-19,744
+1842,C001842,64,Male,Salaried,Low,Retail,Salary,Medium,2023-04-02,707
+1843,C001843,68,Male,Self-Employed,Low,Retail,Savings,High,2022-04-01,695
+1844,C001844,39,Female,Self-Employed,Low,Retail,Current,Medium,2023-08-04,603
+1845,C001845,59,Female,Salaried,High,Corporate,Savings,High,2018-05-28,826
+1846,C001846,33,Male,Business Owner,Low,Premium,Savings,Low,2023-11-07,632
+1847,C001847,36,Male,Homemaker,Low,Corporate,NRI,High,2022-01-17,705
+1848,C001848,49,Male,Self-Employed,Mid,Retail,Savings,Medium,2016-04-23,553
+1849,C001849,59,Female,Business Owner,Mid,Retail,Current,Low,2021-05-16,820
+1850,C001850,52,Female,Salaried,Mid,Retail,Savings,High,2022-10-06,613
+1851,C001851,30,Male,Self-Employed,Low,Retail,Current,Low,2016-10-19,661
+1852,C001852,29,Female,Salaried,High,Premium,Salary,High,2022-01-08,788
+1853,C001853,67,Female,Business Owner,High,Corporate,Savings,High,2014-04-17,693
+1854,C001854,40,Female,Retired,High,Retail,Current,Medium,2018-04-03,569
+1855,C001855,29,Female,Business Owner,Mid,Retail,NRI,Medium,2023-10-20,613
+1856,C001856,55,Male,Salaried,Mid,Retail,Savings,Low,2013-11-05,838
+1857,C001857,25,Female,Salaried,Low,Retail,Savings,Medium,2014-07-31,630
+1858,C001858,52,Male,Self-Employed,Low,Retail,Current,Low,2021-06-17,746
+1859,C001859,59,Female,Self-Employed,Low,Retail,Savings,Medium,2023-11-03,618
+1860,C001860,24,Female,Student,Mid,Retail,Savings,Medium,2015-07-14,735
+1861,C001861,56,Female,Student,Mid,Retail,NRI,High,2022-08-25,716
+1862,C001862,40,Female,Business Owner,Mid,Retail,Savings,Low,2020-08-02,754
+1863,C001863,64,Male,Salaried,Low,Retail,Salary,Medium,2021-02-14,713
+1864,C001864,50,Female,Salaried,Mid,Premium,NRI,High,2020-07-25,643
+1865,C001865,31,Other,Salaried,Mid,Retail,Current,Medium,2023-12-28,798
+1866,C001866,33,Female,Salaried,Mid,SME,Savings,Low,2017-06-16,617
+1867,C001867,67,Male,Self-Employed,Mid,Retail,Savings,Low,2023-11-06,570
+1868,C001868,51,Male,Business Owner,Low,Retail,Savings,Low,2022-06-27,634
+1869,C001869,51,Male,Business Owner,High,Retail,Salary,Medium,2022-01-09,573
+1870,C001870,39,Female,Salaried,Mid,Retail,Savings,Medium,2019-04-02,660
+1871,C001871,45,Female,Salaried,Low,Corporate,Savings,High,2017-02-07,632
+1872,C001872,53,Male,Salaried,Low,Retail,Savings,Low,2014-01-05,627
+1873,C001873,30,Male,Salaried,Mid,SME,Savings,Low,2021-11-13,689
+1874,C001874,68,Female,Student,High,Corporate,Savings,Medium,2017-06-05,820
+1875,C001875,45,Female,Salaried,Mid,Premium,Current,Medium,2013-02-27,718
+1876,C001876,47,Female,Self-Employed,Low,Premium,Savings,High,2015-12-20,746
+1877,C001877,24,Female,Salaried,High,Premium,Savings,Medium,2019-01-07,811
+1878,C001878,44,Male,Retired,Mid,Retail,Savings,Low,2014-05-22,764
+1879,C001879,32,Male,Self-Employed,Mid,Premium,Current,Medium,2018-02-06,616
+1880,C001880,31,Female,Salaried,Mid,Retail,Current,High,2017-02-18,778
+1881,C001881,57,Female,Self-Employed,Low,Retail,Savings,Low,2020-07-18,710
+1882,C001882,34,Female,Business Owner,Mid,Retail,Current,Low,2021-05-26,671
+1883,C001883,50,Female,Homemaker,Mid,Premium,Savings,Low,2020-07-16,698
+1884,C001884,59,Female,Salaried,High,Corporate,Salary,Low,2015-12-10,742
+1885,C001885,34,Male,Retired,Mid,Retail,Savings,Medium,2019-07-23,780
+1886,C001886,47,Male,Retired,Mid,Corporate,Current,Low,2017-04-10,660
+1887,C001887,41,Male,Retired,Mid,Retail,NRI,Low,2022-03-23,694
+1888,C001888,26,Male,Business Owner,High,Retail,NRI,Low,2020-02-29,770
+1889,C001889,41,Female,Business Owner,High,Retail,Savings,Medium,2023-07-19,613
+1890,C001890,35,Other,Self-Employed,Mid,Retail,Savings,Low,2017-03-02,675
+1891,C001891,66,Male,Student,Mid,Retail,Current,Medium,2014-03-20,767
+1892,C001892,35,Male,Self-Employed,Mid,Premium,Savings,Low,2020-07-27,833
+1893,C001893,29,Female,Business Owner,Mid,Corporate,NRI,Low,2015-08-16,785
+1894,C001894,69,Male,Self-Employed,Low,Retail,Current,Low,2018-04-16,562
+1895,C001895,34,Female,Business Owner,Mid,Retail,Current,Low,2013-04-13,702
+1896,C001896,45,Female,Student,Low,Corporate,Savings,Low,2019-12-13,788
+1897,C001897,36,Female,Salaried,High,Premium,Current,Low,2022-12-01,739
+1898,C001898,22,Male,Student,Mid,Retail,Current,High,2023-07-31,700
+1899,C001899,43,Male,Self-Employed,High,Retail,NRI,Medium,2019-04-19,635
+1900,C001900,55,Female,Student,Mid,Corporate,Savings,Low,2016-09-05,570
+1901,C001901,61,Female,Self-Employed,Mid,Premium,Savings,Low,2023-04-07,731
+1902,C001902,24,Male,Salaried,Mid,Retail,Savings,High,2019-11-04,707
+1903,C001903,47,Female,Retired,Low,Retail,Savings,Medium,2015-06-26,625
+1904,C001904,35,Male,Salaried,Mid,Corporate,Current,Low,2020-04-06,752
+1905,C001905,62,Female,Student,Low,Retail,Salary,Medium,2013-09-16,778
+1906,C001906,29,Male,Self-Employed,Mid,SME,Savings,Medium,2020-02-16,701
+1907,C001907,37,Female,Self-Employed,Mid,Retail,NRI,Medium,2022-03-29,812
+1908,C001908,63,Male,Salaried,Mid,Corporate,Savings,Low,2018-03-17,621
+1909,C001909,42,Male,Self-Employed,Low,Retail,Savings,Low,2023-03-14,774
+1910,C001910,31,Male,Salaried,Low,Retail,Savings,Low,2020-11-11,680
+1911,C001911,46,Male,Salaried,Mid,Corporate,Savings,High,2016-05-22,577
+1912,C001912,59,Female,Salaried,High,Retail,Salary,Medium,2020-04-13,848
+1913,C001913,43,Other,Salaried,Mid,Premium,Savings,Low,2017-07-31,646
+1914,C001914,69,Male,Homemaker,Mid,Retail,Current,High,2014-04-23,595
+1915,C001915,68,Male,Homemaker,Mid,Retail,Savings,High,2014-07-27,550
+1916,C001916,67,Female,Salaried,Low,Retail,Salary,High,2013-07-05,715
+1917,C001917,25,Female,Business Owner,High,Premium,Savings,High,2023-08-12,794
+1918,C001918,25,Female,Salaried,Mid,Retail,Savings,High,2013-06-02,768
+1919,C001919,51,Male,Business Owner,Low,Retail,Savings,Low,2016-05-31,651
+1920,C001920,23,Male,Student,Mid,Retail,Savings,Medium,2018-07-11,840
+1921,C001921,50,Female,Retired,Low,Premium,Savings,Medium,2014-04-21,753
+1922,C001922,64,Male,Self-Employed,High,Premium,NRI,Low,2014-02-03,751
+1923,C001923,57,Female,Student,Low,Retail,Current,Low,2015-08-20,603
+1924,C001924,42,Male,Salaried,Mid,Retail,Current,High,2022-12-14,829
+1925,C001925,42,Female,Homemaker,Low,SME,Savings,Low,2019-01-11,827
+1926,C001926,69,Male,Salaried,Mid,Retail,Savings,High,2014-07-10,565
+1927,C001927,42,Female,Business Owner,Mid,Corporate,Savings,Low,2017-05-11,562
+1928,C001928,25,Male,Business Owner,Mid,Corporate,Salary,Low,2018-02-02,636
+1929,C001929,22,Female,Business Owner,Mid,Corporate,NRI,Low,2017-02-28,627
+1930,C001930,47,Male,Salaried,High,Retail,NRI,Low,2020-07-09,616
+1931,C001931,23,Female,Retired,Low,Corporate,NRI,Medium,2023-08-25,760
+1932,C001932,30,Female,Salaried,Mid,Corporate,Savings,Medium,2021-05-02,763
+1933,C001933,66,Female,Business Owner,Low,Premium,Savings,Low,2020-10-23,734
+1934,C001934,39,Female,Salaried,High,Retail,Savings,Low,2023-08-11,582
+1935,C001935,69,Female,Salaried,Mid,Retail,Savings,Low,2019-01-22,664
+1936,C001936,69,Female,Self-Employed,Mid,Retail,Savings,Low,2017-09-13,824
+1937,C001937,63,Male,Self-Employed,Mid,Premium,Savings,Medium,2019-08-03,747
+1938,C001938,62,Female,Salaried,Low,Premium,Current,Low,2021-04-29,692
+1939,C001939,32,Male,Salaried,Low,Retail,NRI,Low,2021-02-24,777
+1940,C001940,46,Male,Self-Employed,Low,Retail,Current,Low,2014-09-25,669
+1941,C001941,47,Male,Student,Mid,Retail,Salary,Low,2022-12-06,573
+1942,C001942,57,Male,Retired,Low,Premium,Savings,Low,2017-08-27,576
+1943,C001943,63,Female,Salaried,Low,SME,Savings,Low,2020-05-06,624
+1944,C001944,56,Female,Salaried,High,Retail,Current,High,2014-02-10,790
+1945,C001945,59,Female,Salaried,High,Retail,Savings,High,2022-05-08,572
+1946,C001946,24,Male,Salaried,Mid,Retail,Savings,Medium,2018-06-28,710
+1947,C001947,62,Male,Business Owner,Mid,Premium,Savings,Low,2019-11-27,590
+1948,C001948,56,Male,Business Owner,Low,Premium,Savings,Low,2017-07-30,787
+1949,C001949,61,Male,Salaried,Mid,SME,Savings,Medium,2023-07-14,788
+1950,C001950,43,Male,Salaried,High,Retail,Savings,Medium,2023-09-03,605
+1951,C001951,29,Male,Salaried,Low,SME,Savings,High,2016-02-20,647
+1952,C001952,36,Male,Student,Low,Retail,Current,Low,2013-05-15,695
+1953,C001953,66,Female,Homemaker,Mid,Premium,Savings,Low,2020-09-28,811
+1954,C001954,28,Female,Salaried,Mid,Retail,Savings,Medium,2017-02-26,589
+1955,C001955,40,Other,Salaried,Low,Corporate,Savings,Medium,2015-06-09,742
+1956,C001956,61,Female,Retired,Mid,Premium,Savings,Medium,2017-12-22,788
+1957,C001957,63,Female,Retired,Mid,Premium,Current,Medium,2017-12-27,591
+1958,C001958,38,Male,Self-Employed,Mid,Corporate,Current,High,2023-08-30,771
+1959,C001959,22,Female,Salaried,Mid,Retail,Current,Medium,2015-08-26,745
+1960,C001960,66,Female,Salaried,High,Retail,Savings,High,2022-08-05,837
+1961,C001961,50,Male,Self-Employed,Mid,Corporate,Current,High,2017-01-25,559
+1962,C001962,34,Male,Salaried,High,Retail,Current,Medium,2014-02-11,784
+1963,C001963,69,Female,Salaried,Mid,Retail,Savings,Low,2020-09-09,814
+1964,C001964,50,Male,Self-Employed,Mid,Retail,Savings,Low,2017-02-13,618
+1965,C001965,62,Female,Salaried,Mid,Premium,Savings,Medium,2019-02-09,688
+1966,C001966,63,Female,Student,High,Retail,Current,Low,2023-02-11,768
+1967,C001967,27,Male,Salaried,High,Retail,Current,High,2023-12-20,745
+1968,C001968,26,Male,Salaried,Low,Retail,Savings,Low,2020-03-26,623
+1969,C001969,55,Male,Self-Employed,High,Retail,Current,Low,2017-01-09,652
+1970,C001970,32,Male,Salaried,High,Corporate,Savings,Medium,2013-09-06,774
+1971,C001971,30,Male,Homemaker,Mid,SME,Savings,Low,2017-06-19,672
+1972,C001972,59,Female,Self-Employed,Low,Premium,Salary,Low,2016-02-05,651
+1973,C001973,61,Male,Salaried,High,Retail,Salary,Low,2015-02-17,813
+1974,C001974,62,Male,Business Owner,High,SME,Savings,Medium,2023-11-10,710
+1975,C001975,30,Male,Salaried,Low,Premium,Savings,Low,2014-05-16,782
+1976,C001976,29,Female,Retired,High,Retail,Savings,High,2023-08-24,824
+1977,C001977,65,Male,Salaried,Low,SME,Savings,Low,2022-07-06,807
+1978,C001978,61,Male,Self-Employed,Low,Corporate,NRI,High,2022-03-30,688
+1979,C001979,24,Female,Salaried,Mid,Premium,Salary,Low,2018-02-06,776
+1980,C001980,34,Female,Self-Employed,Mid,Premium,Current,Low,2014-01-11,822
+1981,C001981,40,Male,Student,Mid,Retail,Savings,Low,2020-06-07,635
+1982,C001982,55,Female,Student,Low,Retail,Current,Low,2015-05-19,840
+1983,C001983,53,Male,Salaried,High,Premium,Savings,Medium,2020-03-13,766
+1984,C001984,37,Male,Salaried,Low,Retail,Salary,Low,2020-03-04,615
+1985,C001985,57,Male,Student,Low,Retail,NRI,Low,2019-09-12,806
+1986,C001986,39,Male,Retired,Low,Corporate,Current,Medium,2023-11-22,684
+1987,C001987,35,Female,Salaried,Mid,Corporate,Savings,Low,2013-03-29,604
+1988,C001988,51,Male,Self-Employed,High,Retail,Savings,Low,2013-07-27,792
+1989,C001989,23,Male,Salaried,Mid,Corporate,Savings,Medium,2021-10-28,801
+1990,C001990,34,Female,Retired,High,Corporate,NRI,High,2016-09-28,570
+1991,C001991,48,Female,Salaried,Low,Premium,Savings,Low,2015-09-25,712
+1992,C001992,38,Male,Salaried,Mid,Retail,Savings,Low,2014-05-31,813
+1993,C001993,52,Female,Student,Mid,Retail,Savings,High,2021-10-29,617
+1994,C001994,36,Male,Salaried,Mid,Retail,NRI,Low,2019-05-02,656
+1995,C001995,41,Female,Self-Employed,Low,Retail,Savings,High,2015-04-21,616
+1996,C001996,26,Female,Self-Employed,Mid,Retail,NRI,Low,2013-10-09,748
+1997,C001997,28,Female,Salaried,Mid,Retail,NRI,High,2022-04-22,741
+1998,C001998,39,Male,Salaried,Mid,Retail,Salary,Low,2021-08-01,551
+1999,C001999,32,Male,Self-Employed,Mid,SME,Savings,High,2019-03-21,806
+2000,C002000,53,Male,Salaried,Low,Retail,Savings,Low,2015-04-29,550
