@@ -1,0 +1,7 @@
+plt.figure(figsize = (10,3))
+plt.hist(branch['Branch_Size'], edgecolor = 'black')
+plt.title("frequency of branch_size")
+plt.xlabel("branch_size")
+plt.ylabel("frequency")
+plt.show
+
